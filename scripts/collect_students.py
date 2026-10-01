@@ -54,7 +54,7 @@ def fetch(url):
     req = urllib.request.Request(
         url, headers={"User-Agent": "PDRNormResearch/2.0 (public school statistics)"}
     )
-    with urllib.request.urlopen(req, timeout=10) as response:
+    with urllib.request.urlopen(req, timeout=2) as response:
         hostname = urllib.parse.urlparse(response.url).hostname or ""
         if not hostname.endswith(".meb.k12.tr"):
             raise ValueError("Unexpected host")
@@ -245,7 +245,7 @@ def secondary_lookup(record, province):
         return record
     expected_name = slugify(record.get("name"))
     expected_district = slugify(record.get("district"))
-    for slug in secondary_candidates(record, province):
+    for slug in secondary_candidates(record, province)[:3]:
         url = f"https://www.okullarhakkinda.com/{slug}.html"
         try:
             req = urllib.request.Request(
