@@ -259,7 +259,15 @@ def main():
 
     overrides = load_json(seed_path.with_name("site-overrides.json"), {})
     fallback_doc = load_json(seed_path.with_name("fallback-students.json"), {"records": {}})
-    manual_doc = load_json(seed_path.with_name("inventory-manual.json"), {"records": []})
+    manual_docs = [
+        load_json(path, {"records": []})
+        for path in sorted(seed_path.parent.glob("inventory-manual*.json"))
+    ]
+    manual_records = [
+        record
+        for doc in manual_docs
+        for record in doc.get("records", [])
+    ]
     exclusion_doc = load_json(seed_path.with_name("inventory-exclusions.json"), {"ids": []})
     target_doc = load_json(seed_path.with_name("inventory-target.json"), {})
 
@@ -302,15 +310,17 @@ def main():
         if result.get("institution_code")
     }
     known_names = {result.get("name") for result in results if result.get("name")}
-    for record in manual_doc.get("records", []):
+    for index, record in enumerate(manual_records, start=1):
+        code = record.get("institution_code")
         if (
-            str(record.get("institution_code")) not in known_codes
+            (not code or str(code) not in known_codes)
             and record.get("name") not in known_names
         ):
+            manual_id = str(code) if code else f"{record.get('district','unknown')}-{index}"
             results.append(
                 dict(
                     record,
-                    id="manual-" + str(record.get("institution_code")),
+                    id="manual-" + manual_id,
                     observed_at=datetime.datetime.now(datetime.timezone.utc).isoformat(),
                     year=None,
                     source_date=None,
