@@ -1,4 +1,10 @@
 {
+  "722094": {
+    "province": "Bayburt",
+    "district": "Demirözü",
+    "name": "Kalecik Ortaokulu",
+    "institution_code": "722094"
+  },
   "21subat": {
     "province": "Bayburt",
     "district": "Merkez",
@@ -121,5 +127,17 @@
     "district": "Demirözü",
     "name": "Şehit Gürcan Yavuz İlkokulu",
     "institution_code": "722075"
+  },
+  "catiksuioo": {
+    "province": "Bayburt",
+    "district": "Aydıntepe",
+    "name": "Çatıksu Ortaokulu",
+    "institution_code": "722056"
+  },
+  "bayburtyolaltiio": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Yolaltı İlkokulu",
+    "institution_code": "706069"
   }
 }
