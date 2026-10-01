@@ -1,0 +1,72 @@
+{
+  "21subat": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "21 Şubat Kurtuluş İlkokulu"
+  },
+  "bayburtgazilerortaokulu": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Gaziler Ortaokulu"
+  },
+  "bayburtmehmetakifersoy": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Mehmet Akif Ersoy Ortaokulu"
+  },
+  "bayburtmehmetakifersoyiho": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Mehmet Akif Ersoy İmam Hatip Ortaokulu"
+  },
+  "bayburtsancaktepeortaokulu": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Sancaktepe Ortaokulu"
+  },
+  "coruhmtal": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Çoruh Kız Mesleki ve Teknik Anadolu Lisesi"
+  },
+  "gokcedereiho": {
+    "province": "Bayburt",
+    "district": "Demirözü",
+    "name": "Gökçedere Şehit Samet Akdeniz İmam Hatip Ortaokulu"
+  },
+  "madenihoo": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Maden İmam Hatip Ortaokulu"
+  },
+  "madenoo": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Maden Ortaokulu"
+  },
+  "mevkonursuilkokulu": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Milli Eğitim Vakfı Konursu İlkokulu"
+  },
+  "saircelaliiho": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Şair Celali İmam Hatip Ortaokulu"
+  },
+  "sehitmeteokurortaokulu": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Şehit Mete Okur Ortaokulu"
+  },
+  "sehitsebahattinbozoiho": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Şehit Sebahattin Bozo İmam Hatip Ortaokulu"
+  },
+  "veyselefendiortaokulu": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Veyselefendi Ortaokulu"
+  }
+}
