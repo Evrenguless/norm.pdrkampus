@@ -28,15 +28,21 @@ def collect(url,overrides=None):
   u='https://'+host+'/'+path
   try:
    actual,s,digest=fetch(u);t=plain(s)
-   # h1 encodes the school identity; title often contains district alone.
-   headings=[plain(x) for x in re.findall(r'<h1\b[^>]*>(.*?)</h1>',s,re.I|re.S)]
-   name=next((x for x in headings if 'BAYBURT' in x.upper()),None)
-   if name:
-    identity=re.match(r'BAYBURT\s*/\s*([^/]+?)\s*(?:/|-)\s*(.+)',name,re.I)
-    if identity:out.update(province='Bayburt',district=identity[1].strip().title(),name=identity[2].strip())
-    elif not out.get('name'):out['name']=name
-   if not out.get('province') and re.search(r'BAYBURT\s*/\s*(MERKEZ|AYDINTEPE|DEMİRÖZÜ)',t,re.I):
-    m=re.search(r'BAYBURT\s*/\s*(MERKEZ|AYDINTEPE|DEMİRÖZÜ)',t,re.I);out.update(province='Bayburt',district=m[1].title())
+   # MEB themes vary. Resolve identity from h1/title/full text, while requiring Bayburt.
+   headings=[plain(x) for x in re.findall(r'<h1\\b[^>]*>(.*?)</h1>',s,re.I|re.S)]
+   titles=[plain(x) for x in re.findall(r'<title\\b[^>]*>(.*?)</title>',s,re.I|re.S)]
+   identity=None
+   for candidate in headings+titles+[t[:3000]]:
+    m=re.search(r'BAYBURT\\s*/\\s*(MERKEZ|AYDINTEPE|DEMİRÖZÜ)\\s*(?:/|-)\\s*([^|\\n<]{3,180})',candidate,re.I)
+    if m:
+     identity=m;break
+   if identity:
+    district=identity[1].strip().replace('i̇','i').title()
+    school=re.split(r'\\s{2,}|(?:T\\.?C\\.?\\s*)?M[İI]LL[ÎİI]\\s+EĞ[İI]T[İI]M',identity[2])[0].strip(' -–|')
+    out.update(province='Bayburt',district=district,name=school)
+   elif not out.get('province') and re.search(r'BAYBURT\\s*/\\s*(MERKEZ|AYDINTEPE|DEMİRÖZÜ)',t,re.I):
+    m=re.search(r'BAYBURT\\s*/\\s*(MERKEZ|AYDINTEPE|DEMİRÖZÜ)',t,re.I)
+    out.update(province='Bayburt',district=m[1].strip().replace('i̇','i').title())
    if out.get('name'):out['grade']=grade(out['name'])
    hits=list(re.finditer(r'Öğrenci\s*(?:Sayısı)?\s*[:|]?\s*([0-9]+(?:[.,][0-9]{3})*)(?![0-9])',t,re.I))
    # Only labelled statistics; no news/year inference.
