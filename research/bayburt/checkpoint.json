@@ -1,0 +1,2978 @@
+[
+  {
+    "id": "722068",
+    "source_url": "https://722068.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:02.424512+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 40,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://722068.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "27f45fe76b840cfad75cb1aedfcc8559da10bae87423575f970d416d804ddf27",
+        "student_candidates": [
+          40
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Demi̇rözü",
+    "name": "Şehit Gürcan Yavuz Ortaokulu",
+    "evidence": "Öğretmen Sayısı : 7 Öğrenci Sayısı : 40 Devamı İletişim Telefon : 053",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "770399",
+    "source_url": "https://770399.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:02.425429+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=770399",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      },
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=770399",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      },
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=770399",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "85yilanaokulu",
+    "source_url": "https://85yilanaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:02.426177+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 113,
+    "grade": "anaokulu",
+    "attempts": [
+      {
+        "url": "https://85yilanaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "7d649acfc5f173558ea11393eeff130a1cca443b0b96c4b5ba4cf7b3a0c3e31c",
+        "student_candidates": [
+          113
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "85. Yıl Zübeyde Hanım Anaokulu",
+    "evidence": "Öğretmen Sayısı : 7 Öğrenci Sayısı : 113 Devamı İletişim Telefon : 045",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "adabasiiho",
+    "source_url": "https://adabasiiho.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:02.427051+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 76,
+    "grade": "imam_hatip_ortaokulu",
+    "attempts": [
+      {
+        "url": "https://adabasiiho.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "df0be407ab7cc13e820abcede8e7d0c435c78c7e8a69b60ac8de5211075c64f3",
+        "student_candidates": [
+          76
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Adabaşı İmam Hatip Ortaokulu",
+    "evidence": " Öğretmen Sayısı 10 Öğrenci Sayısı 76 İLETİŞİM Adres: ADABAŞI KÖYÜ ",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "adabasiio",
+    "source_url": "https://adabasiio.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:02.430108+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 47,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://adabasiio.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "7b7e6a3f0fbecaa50f936519aecf64abb1d334b3230523f9ce5e0dfa8cbcb4fa",
+        "student_candidates": [
+          47
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Adabaşı İlkokulu",
+    "evidence": "2 Öğretmen Sayısı 3 Öğrenci Sayısı 47 İLETİŞİM Adres: Adabaşı Köyü ",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "ahievranmvtal",
+    "source_url": "https://ahievranmvtal.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:02.431982+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 2,
+    "grade": "lise",
+    "attempts": [
+      {
+        "url": "https://ahievranmvtal.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "191bb655208b151aed977fff3dcfad5da14ec2a2cc79a4c767cc12c8fc15d93a",
+        "student_candidates": [
+          2
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Ahi Evran Ticaret Mesleki ve Teknik Anadolu Lisesi",
+    "evidence": " Öğretmen Sayısı 20 Öğrenci Sayısı 2 İletişim Adres: ZAHİT MAH. RE",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "aksargencosmaniho",
+    "source_url": "https://aksargencosmaniho.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:02.435975+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 55,
+    "grade": "imam_hatip_ortaokulu",
+    "attempts": [
+      {
+        "url": "https://aksargencosmaniho.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "9b4fba5e14570d30c39ed7583fea3607d319baaa167fb83ab37c964e1931c015",
+        "student_candidates": [
+          55
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Akşar Genç Osman İmam Hatip Ortaokulu",
+    "evidence": "8 Öğretmen Sayısı 9 Öğrenci Sayısı 55 İLETİŞİM Adres: Akşar Köyü Es",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "aksargencosmanio",
+    "source_url": "https://aksargencosmanio.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:02.438124+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 32,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://aksargencosmanio.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "918e885f48ebe7752692bb52f80bdfaa26ff86c1796f16302cf8eb27b849f00d",
+        "student_candidates": [
+          32
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Akşar Genç Osman İlkokulu",
+    "evidence": "5 Öğretmen Sayısı 3 Öğrenci Sayısı 32 İLETİŞİM Adres: Akşar Köyü Me",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "aksargencosmanoo",
+    "source_url": "https://aksargencosmanoo.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:03.555026+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 50,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://aksargencosmanoo.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "f9bcb1fdcbbd895b7b5afabab68cfd4f485c58532e938eec998e06de6f533f1e",
+        "student_candidates": [
+          50
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Akşar Genç Osman Ortaokulu",
+    "evidence": "4 Öğretmen Sayısı 8 Öğrenci Sayısı 50 Bağlantılar e-okul Yönetim Bi",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "asagikirziilkokulu",
+    "source_url": "https://asagikirziilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:03.555835+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 11,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://asagikirziilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "2d14336fdf09aeec2706225db46ad85f6280990d57c60f4138b440a79e4fd9ef",
+        "student_candidates": [
+          11
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Aydintepe",
+    "name": "Aşağı Kırzı İlkokulu",
+    "evidence": "4 Öğretmen Sayısı 2 Öğrenci Sayısı 11 İLETİŞİM Adres: Aşağıkırzı kö",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "aydintepeanaokulu",
+    "source_url": "https://aydintepeanaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:03.561477+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 42,
+    "grade": "diger_kurum",
+    "attempts": [
+      {
+        "url": "https://aydintepeanaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "4197f10746438dad0f86ea42bdbeb26f04dd04ef8b2330eab1761a8dd66dd51e",
+        "student_candidates": [
+          42
+        ]
+      }
+    ],
+    "name": "BAYBURT AYDINTEPE",
+    "province": "Bayburt",
+    "district": "Aydintepe",
+    "evidence": " Öğretmen Sayısı: 5 Öğrenci Sayısı: 42 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "aydintepecpl",
+    "source_url": "https://aydintepecpl.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:03.610589+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 81,
+    "grade": "lise",
+    "attempts": [
+      {
+        "url": "https://aydintepecpl.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "c0ee9c0aa6dd23affb08b15b6d7968d7d636fc65dc972da0b80d1e3b28cc494a",
+        "student_candidates": [
+          81
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Aydintepe",
+    "name": "Aydıntepe Çok Programlı Anadolu Lisesi",
+    "evidence": "ğretmen Sayısı : 17 Öğrenci Sayısı : 81 Devamı İletişim Telefon : 045",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "aydintepehem",
+    "source_url": "https://aydintepehem.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:03.648992+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": "diger_kurum",
+    "attempts": [
+      {
+        "url": "https://aydintepehem.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "2c95180c02c50dc7df72f9bcf502d902c9eeb710e4c1f0fd4a8ba1664a627fe0",
+        "student_candidates": []
+      },
+      {
+        "url": "https://aydintepehem.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "f55219aacde88a145b539b10840b8a9b235ccce5c9ca2394be2de7af1ea0b10a",
+        "student_candidates": []
+      },
+      {
+        "url": "https://aydintepehem.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "aefad62918e7c70969e30fc08c6f190c09f69af0052814b3d0b95b1bb287c23a",
+        "student_candidates": []
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Aydintepe",
+    "name": "Aydıntepe Halk Eğitimi Merkezi",
+    "status": "students_not_found"
+  },
+  {
+    "id": "aydintepeimamhatiportaokulu",
+    "source_url": "https://aydintepeimamhatiportaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:03.653278+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 28,
+    "grade": "imam_hatip_ortaokulu",
+    "attempts": [
+      {
+        "url": "https://aydintepeimamhatiportaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "b5986cb50ae34e4eb45c0a56ea45056abb54f307d41280245d38f6956b8f006f",
+        "student_candidates": [
+          28
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Aydintepe",
+    "name": "Aydıntepe İmam Hatip Ortaokulu",
+    "evidence": "Öğretmen Sayısı : 7 Öğrenci Sayısı : 28 Devamı İletişim Telefon : 045",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bal",
+    "source_url": "https://bal.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:03.689233+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 357,
+    "grade": "lise",
+    "attempts": [
+      {
+        "url": "https://bal.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "5a24cbeb2c890cb6bd9dc98c72f78ec5a8c23872a617e6b8694d8fdca848c8de",
+        "student_candidates": [
+          357
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Bayburt Millî İrade Anadolu Lisesi",
+    "evidence": " Öğretmen Sayısı 32 Öğrenci Sayısı 357 İletişim Adres: Şingah Mahall",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburt75yilanaokulu",
+    "source_url": "https://bayburt75yilanaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:04.352399+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 160,
+    "grade": "anaokulu",
+    "attempts": [
+      {
+        "url": "https://bayburt75yilanaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "a09b4f02ec9c68adfafa005e45e0e8aed6dbe1a1edb5f0efc3b3e9f3c4785d93",
+        "student_candidates": [
+          160
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "75.Yıl Anaokulu",
+    "evidence": " Öğretmen Sayısı 14 Öğrenci Sayısı 160 İLETİŞİM Adres: Tuzcuzade Mah",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtaihl",
+    "source_url": "https://bayburtaihl.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:04.466467+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 253,
+    "grade": "lise",
+    "attempts": [
+      {
+        "url": "https://bayburtaihl.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "2c71ae4681a84371c22df71a71f1d5f877bf56b51e38fec6243ce9ed8b891e98",
+        "student_candidates": [
+          253
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Bayburt Anadolu İmam Hatip Lisesi",
+    "evidence": "ğretmen Sayısı : 29 Öğrenci Sayısı : 253 Devamı İletişim Telefon : 045",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtataturk",
+    "source_url": "https://bayburtataturk.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:04.470741+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 43,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://bayburtataturk.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3aa4452a069abc3a05a3dbd8c0f82a227319fbb7340deb0fcb2b5d729d79917d",
+        "student_candidates": [
+          43
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Atatürk İlkokulu",
+    "evidence": "ğretmen Sayısı : 17 Öğrenci Sayısı : 43 Devamı İletişim Telefon : 0 (",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtbilsem",
+    "source_url": "https://bayburtbilsem.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:04.600727+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 126,
+    "grade": "diger_kurum",
+    "attempts": [
+      {
+        "url": "https://bayburtbilsem.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "ef9c2e1786328e83e39b87769f05a12ec7118b015616e9cdd1303d77749dfb28",
+        "student_candidates": [
+          126
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Bayburt Bilim ve Sanat Merkezi",
+    "evidence": "ğretmen Sayısı : 11 Öğrenci Sayısı : 126 Devamı İletişim Telefon : 0 4",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtcumhuriyetilkokulu",
+    "source_url": "https://bayburtcumhuriyetilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:04.617286+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 441,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://bayburtcumhuriyetilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "dd6c67c78629772a309fab739c46d8b78a27b6d868a7da08be88f9257710949b",
+        "student_candidates": [
+          441
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Cumhuriyet İlkokulu",
+    "evidence": "ğretmen Sayısı : 24 Öğrenci Sayısı : 441 Devamı İletişim Telefon : 045",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtdedekorkutilkokulu",
+    "source_url": "https://bayburtdedekorkutilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:04.896962+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 55,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://bayburtdedekorkutilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "5a97eeb3e87bac1f47f87c59bedeef64ef6e67da1ed60337d852ce59b0fa66ec",
+        "student_candidates": [
+          55
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Dede Korkut İlkokulu",
+    "evidence": "Öğretmen Sayısı : 5 Öğrenci Sayısı : 55 Devamı İletişim Telefon : 045",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburteml",
+    "source_url": "https://bayburteml.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:05.320143+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 779,
+    "grade": "lise",
+    "attempts": [
+      {
+        "url": "https://bayburteml.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "435ee8e6745b23acc59b4035c3a5adcbfa53dadb04acc137865cecfeafbe95c6",
+        "student_candidates": [
+          779
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Bayburt Mesleki ve Teknik Anadolu Lisesi",
+    "evidence": "ğretmen Sayısı : 56 Öğrenci Sayısı : 779 Devamı İletişim Telefon : (45",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburterdembyztiho",
+    "source_url": "https://bayburterdembyztiho.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:05.425349+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 143,
+    "grade": "imam_hatip_ortaokulu",
+    "attempts": [
+      {
+        "url": "https://bayburterdembyztiho.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "cdd4d68c90cab8145443901b6d20f8d57e0f1b456c8d3a91f2048477bd35ebf2",
+        "student_candidates": [
+          143
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Erdem Bayazıt İmam Hatip Ortaokulu",
+    "evidence": "ğretmen Sayısı : 16 Öğrenci Sayısı : 143 Devamı İletişim Telefon : 045",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtfatihoo",
+    "source_url": "https://bayburtfatihoo.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:05.442327+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 119,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://bayburtfatihoo.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "c84a9ebf72ba3c6a1d3bc9a00531f50ce361400c71a1325ea0b359f26f11766d",
+        "student_candidates": [
+          119
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Fatih Ortaokulu",
+    "evidence": " Öğretmen Sayısı 14 Öğrenci Sayısı 119 İLETİŞİM Adres: ŞİNGAH MAH. Ç",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtfenlisesi",
+    "source_url": "https://bayburtfenlisesi.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:05.563722+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 349,
+    "grade": "lise",
+    "attempts": [
+      {
+        "url": "https://bayburtfenlisesi.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "eacf8d48c982234d18466cd3162a2842d64b435086d3f6081e0720ae8623cd50",
+        "student_candidates": [
+          349
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Bayburt Fen Lisesi",
+    "evidence": " Öğretmen Sayısı 28 Öğrenci Sayısı 349 İLETİŞİM Adres: Zahit Mahalle",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtgazilerortaokulu",
+    "source_url": "https://bayburtgazilerortaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:05.633630+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://bayburtgazilerortaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "7b2ccd2fc10b27c07918fce844939e2f2fd6d26fe553f61ef463504baab65a1b",
+        "student_candidates": [
+          142
+        ]
+      },
+      {
+        "url": "https://bayburtgazilerortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "20fad944f3c22679bac40ef09bf6c3b17b560fb5cac29a9b7b3c9b12c68cc73c",
+        "student_candidates": [
+          135
+        ]
+      },
+      {
+        "url": "https://bayburtgazilerortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "2fa50f685f84fba053aa78e7f600509e51f3b8f0af10032e7f5a2c3119fc662e",
+        "student_candidates": [
+          135
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "status": "students_not_found"
+  },
+  {
+    "id": "bayburthem",
+    "source_url": "https://bayburthem.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:05.848258+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": "diger_kurum",
+    "attempts": [
+      {
+        "url": "https://bayburthem.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "11963c10aa5a70369a519124ef5973757664cdadceb0717688e8d48afb378ce5",
+        "student_candidates": []
+      },
+      {
+        "url": "https://bayburthem.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "080f0005a9fca6218526748ffd95db6a2d4662eed7c0befc88a3ad67843ff35f",
+        "student_candidates": []
+      },
+      {
+        "url": "https://bayburthem.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "a9bc6c5df0337686bd540941f085dad6f1a786e738540fb1b8b057e350ba2aab",
+        "student_candidates": []
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Bayburt Halk Eğitimi Merkezi",
+    "status": "students_not_found"
+  },
+  {
+    "id": "bayburthocaahmetyeseviilkokulu",
+    "source_url": "https://bayburthocaahmetyeseviilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:06.205348+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 167,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://bayburthocaahmetyeseviilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "915a50198374b8fd93519f4ec11ec7ea1be72864244e04a9f5a1a1304ec34e0c",
+        "student_candidates": [
+          167
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Hoca Ahmet Yesevi İlkokulu",
+    "evidence": " Öğretmen Sayısı 13 Öğrenci Sayısı 167 İLETİŞİM Adres: Zahit Mahalle",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtkizaihl",
+    "source_url": "https://bayburtkizaihl.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:06.232444+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 274,
+    "grade": "lise",
+    "attempts": [
+      {
+        "url": "https://bayburtkizaihl.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "4a09742aef0f79b47b1caf953b77a8abd4fb2601299a5e6b4d21d0b010e6f090",
+        "student_candidates": [
+          274
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Bayburt Kız Anadolu İmam Hatip Lisesi",
+    "evidence": " Öğretmen Sayısı 31 Öğrenci Sayısı 274 İLETİŞİM Adres: Şingah Mahall",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtkizilayanaokulu",
+    "source_url": "https://bayburtkizilayanaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:06.258490+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 59,
+    "grade": "anaokulu",
+    "attempts": [
+      {
+        "url": "https://bayburtkizilayanaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "df9799affe62a887435c9dbb5bbd5bfc3806ab154babf4947e1890f91298bcea",
+        "student_candidates": [
+          59
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Nazlı Şentürk Kızılay Anaokulu",
+    "evidence": "Öğretmen Sayısı : 4 Öğrenci Sayısı : 59 Devamı İletişim Telefon : 0 4",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtlisesi",
+    "source_url": "https://bayburtlisesi.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:06.356597+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": "lise",
+    "attempts": [
+      {
+        "url": "https://bayburtlisesi.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "444ed7a7143d86d92deec8cd9d0d942a7b5632d7aa60ab624bacf78ba5d6cb18",
+        "student_candidates": [
+          465
+        ]
+      },
+      {
+        "url": "https://bayburtlisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "070ea0f75a58e3dcf8988012345e1022439f453e3a41e690a2eed013dc9d8375",
+        "student_candidates": [
+          458,
+          465
+        ]
+      },
+      {
+        "url": "https://bayburtlisesi.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "56a8945fdb060b787a8abe856b8030cc907f7287b861b9386df74f2b4fdc377a",
+        "student_candidates": [
+          458,
+          465
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Bayburt Lisesi",
+    "status": "conflicting_counts"
+  },
+  {
+    "id": "bayburtmehmetakifersoy",
+    "source_url": "https://bayburtmehmetakifersoy.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:06.469619+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://bayburtmehmetakifersoy.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "f995e27c21cb1c71111b5121e7ce31ea901ec72f9528b1c05f4fe4df7889c992",
+        "student_candidates": [
+          217
+        ]
+      },
+      {
+        "url": "https://bayburtmehmetakifersoy.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "eba6e5ee44f04f852ad9c46815a582fa1557f4f73e49fcdedd5af9d03b24d0a7",
+        "student_candidates": [
+          217
+        ]
+      },
+      {
+        "url": "https://bayburtmehmetakifersoy.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "9ae74199d807c07537485437ebe5bf365b0bbc01fe70e7b0ff7f14a3c61e1513",
+        "student_candidates": [
+          217
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "status": "students_not_found"
+  },
+  {
+    "id": "bayburtmehmetakifersoyiho",
+    "source_url": "https://bayburtmehmetakifersoyiho.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:06.484725+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://bayburtmehmetakifersoyiho.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "f5dc0b2b2e6eded11e018476ade7089ede5fdc964b4d04e41a9bda3f7e78226f",
+        "student_candidates": [
+          61
+        ]
+      },
+      {
+        "url": "https://bayburtmehmetakifersoyiho.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "e603019ae2d56308455bda44c76195303d4650c073079e390bb49ca586b0add8",
+        "student_candidates": [
+          61
+        ]
+      },
+      {
+        "url": "https://bayburtmehmetakifersoyiho.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "b304eab74eff3d73dd0e3d0dd7121d6d2d22624c8971cf2ac6d9e4b645389b0e",
+        "student_candidates": [
+          61
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "status": "students_not_found"
+  },
+  {
+    "id": "bayburtmesem",
+    "source_url": "https://bayburtmesem.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:07.123561+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 148,
+    "grade": "mesem",
+    "attempts": [
+      {
+        "url": "https://bayburtmesem.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "4176c16388f5ebadf2eb1242002f9491dadaa206e7be4f1d7c1b51255cacb575",
+        "student_candidates": [
+          148
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Bayburt Mesleki Eğitim Merkezi",
+    "evidence": "Öğretmen Sayısı : 6 Öğrenci Sayısı : 148 Devamı İletişim Telefon : 458",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtoeuokulu1kademe",
+    "source_url": "https://bayburtoeuokulu1kademe.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:07.124628+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 6,
+    "grade": "ozel_egitim",
+    "attempts": [
+      {
+        "url": "https://bayburtoeuokulu1kademe.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "e926b60703d554b5f20080d570ad7b959b3c0f85b19286feb13c0aa798033afe",
+        "student_candidates": [
+          6
+        ]
+      }
+    ],
+    "name": "BAYBURT MERKEZ Bayburt Özel Eğitim Uygulama Okulu I. Kademe",
+    "province": "Bayburt",
+    "district": "Merkez",
+    "evidence": " Öğretmen Sayısı: 2 Öğrenci Sayısı: 6 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtoeuokulu2kademe",
+    "source_url": "https://bayburtoeuokulu2kademe.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:07.163751+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 10,
+    "grade": "ozel_egitim",
+    "attempts": [
+      {
+        "url": "https://bayburtoeuokulu2kademe.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "8792e373dd1d4f9a5bb3955aac0e3fb4b912b9511a6fb49e8cf497a63f4cb3b2",
+        "student_candidates": [
+          10
+        ]
+      }
+    ],
+    "name": "BAYBURT MERKEZ Bayburt Özel Eğitim Uygulama Okulu II. Kademe",
+    "province": "Bayburt",
+    "district": "Merkez",
+    "evidence": " Öğretmen Sayısı: 6 Öğrenci Sayısı: 10 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtoeuokulu3kademe",
+    "source_url": "https://bayburtoeuokulu3kademe.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:07.945712+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 27,
+    "grade": "ozel_egitim",
+    "attempts": [
+      {
+        "url": "https://bayburtoeuokulu3kademe.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "a17b7099a00c1302e865a0d84964bebdf0c104aa8df4d4ca3ca7217c6959bb48",
+        "student_candidates": [
+          27
+        ]
+      }
+    ],
+    "name": "BAYBURT MERKEZ Bayburt Özel Eğitim Uygulama Okulu III. Kademe",
+    "province": "Bayburt",
+    "district": "Merkez",
+    "evidence": "Öğretmen Sayısı: 13 Öğrenci Sayısı: 27 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtortaokulu",
+    "source_url": "https://bayburtortaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:07.948198+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 610,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://bayburtortaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "5dae8f8df5d9b479f31329cd429f0b72acb984ea38bfb5e25eebbcdc20ae9fe4",
+        "student_candidates": [
+          610
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Bayburt Ortaokulu",
+    "evidence": "ğretmen Sayısı : 38 Öğrenci Sayısı : 610 Devamı İletişim Telefon : 045",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtozelegitimanaokulu",
+    "source_url": "https://bayburtozelegitimanaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:08.120599+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 6,
+    "grade": "diger_kurum",
+    "attempts": [
+      {
+        "url": "https://bayburtozelegitimanaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "daf1707bea10b1d5bb0c3bbb21858cbe14d0bcc986a6aabb994f6945e5c0b7e1",
+        "student_candidates": [
+          6
+        ]
+      }
+    ],
+    "name": "BAYBURT MERKEZ",
+    "province": "Bayburt",
+    "district": "Merkez",
+    "evidence": "Öğretmen Sayısı: 17 Öğrenci Sayısı: 6 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtozelegitimmeslekokulu",
+    "source_url": "https://bayburtozelegitimmeslekokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:08.142245+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 26,
+    "grade": "ozel_egitim",
+    "attempts": [
+      {
+        "url": "https://bayburtozelegitimmeslekokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "91c0979d91e1374a627e0adbfaf795fd5fef950e5b17bfc906e93af4fe71861a",
+        "student_candidates": [
+          26
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Bayburt Özel Eğitim Meslek Okulu",
+    "evidence": "ğretmen Sayısı : 11 Öğrenci Sayısı : 26 Devamı İletişim Telefon : 045",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtram",
+    "source_url": "https://bayburtram.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:08.415493+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": "ram",
+    "attempts": [
+      {
+        "url": "https://bayburtram.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "e6d7a8c6214663639fd919f372f4fe398ebcbe01550fd5a58ede4eea8c109a34",
+        "student_candidates": []
+      },
+      {
+        "url": "https://bayburtram.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "b08585940415f68a8056a77a63382c1d67a227dfce220c6fb396c50e23becf10",
+        "student_candidates": []
+      },
+      {
+        "url": "https://bayburtram.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "30727c4cea601c4834a955cded09be6637750077a49fd605d8583ef6da98c8da",
+        "student_candidates": []
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Bayburt Rehberlik ve Araştırma Merkezi",
+    "status": "students_not_found"
+  },
+  {
+    "id": "bayburtsancaktepeiho",
+    "source_url": "https://bayburtsancaktepeiho.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:08.917151+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 41,
+    "grade": "imam_hatip_ortaokulu",
+    "attempts": [
+      {
+        "url": "https://bayburtsancaktepeiho.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "7afcc5e4baf5a4580855b946acaccb41b71c329905a736a30dd28cd970f4d594",
+        "student_candidates": [
+          41
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Sancaktepe İmam Hatip Ortaokulu",
+    "evidence": "3 Öğretmen Sayısı 9 Öğrenci Sayısı 41 İLETİŞİM Adres: Sancaktepe Kö",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtsancaktepeilkokulu",
+    "source_url": "https://bayburtsancaktepeilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:08.972010+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 56,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://bayburtsancaktepeilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "691ff7ae8a405b5c564036a13b696f841a7be99ba69119b74a749173e85a321c",
+        "student_candidates": [
+          56
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Sancaktepe İlkokulu",
+    "evidence": "5 Öğretmen Sayısı 4 Öğrenci Sayısı 56 İLETİŞİM Adres: SANCAKTEPE KÖ",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "bayburtsancaktepeortaokulu",
+    "source_url": "https://bayburtsancaktepeortaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:09.014098+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://bayburtsancaktepeortaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "6a6b318476a002dee6d4571e8c5183c2c0fc0aeca331087ae25822f6650f1513",
+        "student_candidates": [
+          20
+        ]
+      },
+      {
+        "url": "https://bayburtsancaktepeortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "cac3eb71e6e21183e12388b1ec40bb8d6082a056e0ce029db819e351d425c68a",
+        "student_candidates": [
+          20
+        ]
+      },
+      {
+        "url": "https://bayburtsancaktepeortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "2ccf47b70f5cc15c7ec589465bc2a2242d557111524755f87b2c7ddd03aebd2c",
+        "student_candidates": [
+          20
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "status": "students_not_found"
+  },
+  {
+    "id": "boyalikilkokulu",
+    "source_url": "https://boyalikilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:09.037758+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://boyalikilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "905eec44106b579d2c29dab563a9567b053e40278826565388f59cf0b03c279c",
+        "student_candidates": [
+          56
+        ]
+      },
+      {
+        "url": "https://boyalikilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "bec2032b43e0c4664b402c4d6eb87accadeddbaaed72364780778d099667d0fa",
+        "student_candidates": [
+          56
+        ]
+      },
+      {
+        "url": "https://boyalikilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "b95ee0e1b9884d4415386c8f49c72860d0938142688d0530fde41a6c5198d4a0",
+        "student_candidates": [
+          56
+        ]
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "catiksuiho",
+    "source_url": "https://catiksuiho.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:09.191535+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 17,
+    "grade": "imam_hatip_ortaokulu",
+    "attempts": [
+      {
+        "url": "https://catiksuiho.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "ba4f3d6ac6f504a1e99771924b1ada3527a3e57fe275dde167690903d6a5321d",
+        "student_candidates": [
+          17
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Aydintepe",
+    "name": "Çatıksu İmam Hatip Ortaokulu",
+    "evidence": "Öğretmen Sayısı : 9 Öğrenci Sayısı : 17 Devamı İletişim Telefon : 045",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "catiksuilkokulu",
+    "source_url": "https://catiksuilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:09.372677+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 35,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://catiksuilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "6491ddf07f51b1409ae4cd730bb532dbf3bba83aacad3bc03a950dc21b4e7b70",
+        "student_candidates": [
+          35
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Aydintepe",
+    "name": "Çatıksu İlkokulu",
+    "evidence": "Öğretmen Sayısı : 6 Öğrenci Sayısı : 35 Devamı İletişim Telefon : 045",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "coruhmtal",
+    "source_url": "https://coruhmtal.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:09.451888+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://coruhmtal.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "e8b87e25e1470384a7778609e343bc20fa0427d6419496411671c14c55d4e434",
+        "student_candidates": [
+          281
+        ]
+      },
+      {
+        "url": "https://coruhmtal.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "33e2e78c843b77b68dec56ed627c4acb2f98ec7ac6aa4d8d587a279a73cbf9b9",
+        "student_candidates": [
+          150
+        ]
+      },
+      {
+        "url": "https://coruhmtal.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "2226d75f993d78ac6ee464decfbd23f60f7d046ef94b8c343478bd9d5e4db1c4",
+        "student_candidates": [
+          150
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "status": "students_not_found"
+  },
+  {
+    "id": "danismentio",
+    "source_url": "https://danismentio.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:09.987002+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 22,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://danismentio.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "37f6fa7122ece69221ca6f258705316dd3fb6e6136a03eeafac7f257aca598cd",
+        "student_candidates": [
+          22
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Danişment İlkokulu",
+    "evidence": "3 Öğretmen Sayısı 2 Öğrenci Sayısı 22 İLETİŞİM Adres: Danişment Köy",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "dedekorkutiho",
+    "source_url": "https://dedekorkutiho.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:09.988217+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 55,
+    "grade": "imam_hatip_ortaokulu",
+    "attempts": [
+      {
+        "url": "https://dedekorkutiho.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "4ce666d18087b19ea67854ef951b60f2d80b8ba7433ee0c528b0536d3c60d4c5",
+        "student_candidates": [
+          55
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Dede Korkut İmam Hatip Ortaokulu",
+    "evidence": "Öğretmen Sayısı : 7 Öğrenci Sayısı : 55 Devamı İletişim Telefon : 045",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "dedekorkutortaokulu",
+    "source_url": "https://dedekorkutortaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:10.037618+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 35,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://dedekorkutortaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "0188eae71839141dd5f263211576791fbeb722c3d3eec8a30892bea300474e50",
+        "student_candidates": [
+          35
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Dede Korkut Ortaokulu",
+    "evidence": "4 Öğretmen Sayısı 4 Öğrenci Sayısı 35 İletişim Adres: Dede Korkut O",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "demirozuhem",
+    "source_url": "https://demirozuhem.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:10.408394+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": "diger_kurum",
+    "attempts": [
+      {
+        "url": "https://demirozuhem.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "20649453138b5e50569909dc5a0d7fb7e97bac8fa416712944d0fa016d985574",
+        "student_candidates": []
+      },
+      {
+        "url": "https://demirozuhem.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "c01ed9ea82c875aeed29628f211b5e4780c4c3e8db8834b8e0e65f374df0a7e8",
+        "student_candidates": []
+      },
+      {
+        "url": "https://demirozuhem.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "b27b5daaa92d3f62c20bdfbd86b15974b54f0afbe3939ef3f57f295d7002be10",
+        "student_candidates": []
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Demi̇rözü",
+    "name": "Demirözü Halk Eğitimi Merkezi",
+    "status": "students_not_found"
+  },
+  {
+    "id": "demirozuio",
+    "source_url": "https://demirozuio.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:10.548344+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 141,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://demirozuio.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3364de1152f93e62d3b1d73d3ef5f0f0f462f683a2000d1edec3e7402bd96d21",
+        "student_candidates": [
+          141
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Demi̇rözü",
+    "name": "Demirözü İlkokulu",
+    "evidence": " Öğretmen Sayısı 13 Öğrenci Sayısı 141 İLETİŞİM Adres: ŞİRİN MAH. OR",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "demirozuortaokulu",
+    "source_url": "https://demirozuortaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:10.721644+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 106,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://demirozuortaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "220a0c4f997bcb33c5983a012077b6379ed9ec67b1042b973022e2160ee1efc6",
+        "student_candidates": [
+          106
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Demi̇rözü",
+    "name": "Demirözü Ortaokulu",
+    "evidence": " Öğretmen Sayısı 15 Öğrenci Sayısı 106 İLETİŞİM Adres: ŞEHİT HAKAN Ö",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "demirozuvhbanaokulu",
+    "source_url": "https://demirozuvhbanaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:10.790795+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 52,
+    "grade": "anaokulu",
+    "attempts": [
+      {
+        "url": "https://demirozuvhbanaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "e805de3b0dcf19e7113af6b67e1c6a5d2320f09976aa1a0881cc0c5408992c06",
+        "student_candidates": [
+          52
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Demi̇rözü",
+    "name": "Demirözü Vilayetler Hizmet Birliği Anaokulu",
+    "evidence": "3 Öğretmen Sayısı 3 Öğrenci Sayısı 52 İLETİŞİM Adres: Esentepe Maha",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "fatmaersoyanaokulu",
+    "source_url": "https://fatmaersoyanaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:11.020789+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 159,
+    "grade": "diger_kurum",
+    "attempts": [
+      {
+        "url": "https://fatmaersoyanaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "252d455101ff88522d8ef102682d196d5038a698a0639061a93db728caab9e36",
+        "student_candidates": [
+          159
+        ]
+      }
+    ],
+    "name": "BAYBURT MERKEZ",
+    "province": "Bayburt",
+    "district": "Merkez",
+    "evidence": "Öğretmen Sayısı: 11 Öğrenci Sayısı: 159 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "gazilerimamhatiportaokulu",
+    "source_url": "https://gazilerimamhatiportaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:11.347429+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 6,
+    "grade": "imam_hatip_ortaokulu",
+    "attempts": [
+      {
+        "url": "https://gazilerimamhatiportaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "c7c63f110136e68f5c3e6f331ba2900c9c11929723e491675c5a48f53b244510",
+        "student_candidates": [
+          6
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Gaziler İmam Hatip Ortaokulu",
+    "evidence": "7 Öğretmen Sayısı 4 Öğrenci Sayısı 6 İLETİŞİM Adres: Zahit Mahalle",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "gokcedereanaokulu",
+    "source_url": "https://gokcedereanaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:11.565749+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 26,
+    "grade": "anaokulu",
+    "attempts": [
+      {
+        "url": "https://gokcedereanaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "dc2eaeab7d80966e087948815481cba9e72949091364c49cf18d6afb2695a4a3",
+        "student_candidates": [
+          26
+        ]
+      }
+    ],
+    "name": "BAYBURT DEMİRÖZÜ Gökçedere Anaokulu",
+    "province": "Bayburt",
+    "district": "Demi̇rözü",
+    "evidence": " Öğretmen Sayısı: 2 Öğrenci Sayısı: 26 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "gokcederecokprogramlilisesi",
+    "source_url": "https://gokcederecokprogramlilisesi.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:11.637809+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 61,
+    "grade": "lise",
+    "attempts": [
+      {
+        "url": "https://gokcederecokprogramlilisesi.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "700682554efcb311e1364f39e7ac72904291ccdb4ee1cdb15ca7054a7cd9d1b3",
+        "student_candidates": [
+          61
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Demi̇rözü",
+    "name": "Demirözü Gökçedere Çok Programlı Anadolu Lisesi",
+    "evidence": " Öğretmen Sayısı 12 Öğrenci Sayısı 61 İLETİŞİM Adres: Karşıyaka Mah",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "gokcedereiho",
+    "source_url": "https://gokcedereiho.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:11.803798+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://gokcedereiho.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "763c8cdf06b9db33d6d577e310132228a72756be134468608e9e4266d8a8ef39",
+        "student_candidates": [
+          115
+        ]
+      },
+      {
+        "url": "https://gokcedereiho.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "abe64115958a704de5ade629f72e49be5143c2fd2d2c2a9b4ca33a7b4b43ea87",
+        "student_candidates": [
+          116
+        ]
+      },
+      {
+        "url": "https://gokcedereiho.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "7a1d79ef2613e0f582a85fd11782f3246bce09fad316c23c529433df378dddf7",
+        "student_candidates": [
+          116
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Demi̇rözü",
+    "status": "students_not_found"
+  },
+  {
+    "id": "gokcedereilkokulu",
+    "source_url": "https://gokcedereilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:12.104944+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 100,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://gokcedereilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "99820d8c2278096d024c058b28f936c699ce847845d3dcb983b33fa689240e08",
+        "student_candidates": [
+          100
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Demi̇rözü",
+    "name": "Gökçedere Makbule Küçükçalık İlkokulu",
+    "evidence": "9 Öğretmen Sayısı 7 Öğrenci Sayısı 100 İLETİŞİM Adres: GÖKÇEDERE BEL",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "gokcedereortaokulu",
+    "source_url": "https://gokcedereortaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:12.160570+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://gokcedereortaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "0b515ba62295774c16d5a1fe1924b43cc24c13e4ec4a47424127e53c8976cd4f",
+        "student_candidates": []
+      },
+      {
+        "url": "https://gokcedereortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "9bfb29eb376914ad2cfb3157a6bee33d7a364ed9b6c2ae86bee8eeb1b4c22f01",
+        "student_candidates": []
+      },
+      {
+        "url": "https://gokcedereortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "29899bbf4443d2b881f5403f5c361f20db25e8f283153e2c0fe40ca4bb72729c",
+        "student_candidates": []
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Demi̇rözü",
+    "name": "Gökçedere Ortaokulu",
+    "status": "students_not_found"
+  },
+  {
+    "id": "gulpinarilkokulu",
+    "source_url": "https://gulpinarilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:12.209956+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://gulpinarilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "e11d32a2506fcfcd3482871d3bc7db191ed47b4312c6ebdd857eebd6869d7874",
+        "student_candidates": [
+          64
+        ]
+      },
+      {
+        "url": "https://gulpinarilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "35c37cde7cd401cc2ff7d0c4086c0202014cab1abaef3a3a5a1d0e6cdec5dc37",
+        "student_candidates": [
+          64
+        ]
+      },
+      {
+        "url": "https://gulpinarilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "82b0529ede4f6ef703f94823b6df9193809d3434568c548f41b9b9ef3d4de1df",
+        "student_candidates": [
+          64
+        ]
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "havrancamdibioo",
+    "source_url": "https://havrancamdibioo.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:12.318399+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://havrancamdibioo.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "bfdceb86009582996027f133d8f8bb20a8012d6a4b5c4bf1063747447a2ea5b4",
+        "student_candidates": [
+          52
+        ]
+      },
+      {
+        "url": "https://havrancamdibioo.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "dd1cc70b739f7652cd09cc6fd538e0804b0ed3134359e095671708dcddffc33d",
+        "student_candidates": [
+          57
+        ]
+      },
+      {
+        "url": "https://havrancamdibioo.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "7eca0654b07028e7c4fb3de9d32345f3d4fc97056d4cf28b0b7b0585a6107db5",
+        "student_candidates": [
+          57
+        ]
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "kaleardi75io",
+    "source_url": "https://kaleardi75io.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:12.442768+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 134,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://kaleardi75io.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "30fdac3eb1d12d18ac9f22e860abef1620e86cd5d70d9241a349df7ef9bf31bd",
+        "student_candidates": [
+          134
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Kaleardı 75. Yıl İlkokulu",
+    "evidence": "1 Öğretmen Sayısı 9 Öğrenci Sayısı 134 İLETİŞİM Adres: Halfikale Mah",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "kaleardiilkokulu",
+    "source_url": "https://kaleardiilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:12.455462+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 117,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://kaleardiilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "895e88d016ea712440b1f535214ce4277d29caceb29f9f5806088a85789b2da7",
+        "student_candidates": [
+          117
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Kaleardı Şehit Halil Türkoğlu İlkokulu",
+    "evidence": "ğretmen Sayısı : 13 Öğrenci Sayısı : 117 Devamı İletişim Telefon : 045",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "kalecikimamhatip",
+    "source_url": "https://kalecikimamhatip.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:12.899674+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 38,
+    "grade": "imam_hatip_ortaokulu",
+    "attempts": [
+      {
+        "url": "https://kalecikimamhatip.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "02837680662e4cd7cc042055d17742d7b9d82e8babd233946a167b7cd7d6c4c1",
+        "student_candidates": [
+          38
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Demi̇rözü",
+    "name": "Kalecik İmam Hatip Ortaokulu",
+    "evidence": "3 Öğretmen Sayısı 9 Öğrenci Sayısı 38 İLETİŞİM Adres: Kalecik Köyü ",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "kircicekleri",
+    "source_url": "https://kircicekleri.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:12.976913+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 132,
+    "grade": "diger_kurum",
+    "attempts": [
+      {
+        "url": "https://kircicekleri.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "6af3c3aa5c6397182aade9f50c3b54b4dfb24cca0381a39a7320b9b237234318",
+        "student_candidates": [
+          132
+        ]
+      }
+    ],
+    "name": "BAYBURT MERKEZ",
+    "province": "Bayburt",
+    "district": "Merkez",
+    "evidence": "Öğretmen Sayısı: 10 Öğrenci Sayısı: 132 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "kirkpinariho",
+    "source_url": "https://kirkpinariho.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:13.253654+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 55,
+    "grade": "imam_hatip_ortaokulu",
+    "attempts": [
+      {
+        "url": "https://kirkpinariho.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "14194bcfe53da8210c40dabdf47d9d3d31f1462385cb4679e18da4c658ede2a5",
+        "student_candidates": [
+          55
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Kırkpınar İmam Hatip Ortaokulu",
+    "evidence": "4 Öğretmen Sayısı 5 Öğrenci Sayısı 55 İLETİŞİM Adres: Okul il merke",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "kirkpinarortaokulu",
+    "source_url": "https://kirkpinarortaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:13.367112+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 61,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://kirkpinarortaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "2aea4306d2002e55f068e3c103abad91576bb5cb44f6212999fb31e604fc9915",
+        "student_candidates": [
+          61
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Kırkpınar Ortaokulu",
+    "evidence": "4 Öğretmen Sayısı 4 Öğrenci Sayısı 61 İletişim Adres: Kırkpınar Köy",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "klckilkokulu",
+    "source_url": "https://klckilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:13.994555+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 31,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://klckilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "bb4f96270c3b58c3d5913bb13079a2f94904e41a353919c0a3ed37d2d48b0947",
+        "student_candidates": [
+          31
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Demi̇rözü",
+    "name": "Kalecik İlkokulu",
+    "evidence": "5 Öğretmen Sayısı 4 Öğrenci Sayısı 31 İLETİŞİM Adres: Kalecik Köyü ",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "kopmtal",
+    "source_url": "https://kopmtal.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:14.004195+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 200,
+    "grade": "lise",
+    "attempts": [
+      {
+        "url": "https://kopmtal.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "adeb45a74a43f435bdfd6ac69710aab57e3ea33da7b75a9a9f6e581cfd09f669",
+        "student_candidates": [
+          200
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Kop Mesleki ve Teknik Anadolu Lisesi",
+    "evidence": "ğretmen Sayısı : 15 Öğrenci Sayısı : 200 Devamı İletişim Telefon : (45",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "madenihoo",
+    "source_url": "https://madenihoo.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:14.067564+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://madenihoo.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "b6e5cc7230df3ea9798928b0b4b7ecde2b3c1ec6722aaa757c0410fd8e41ba7d",
+        "student_candidates": []
+      },
+      {
+        "url": "https://madenihoo.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "8d9fd9a6617326cde4417bad686c9b3e2f1def78b6d66bcb2414369b0b057cb2",
+        "student_candidates": []
+      },
+      {
+        "url": "https://madenihoo.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "f646b716305c88867a99908b38e0e95c77ab649717a949a448b655d249699909",
+        "student_candidates": []
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "status": "students_not_found"
+  },
+  {
+    "id": "madenoo",
+    "source_url": "https://madenoo.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:14.222459+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://madenoo.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "41999eebc1220a58bb2c4587090f4bb85d15ef1b13ff75423cd22f6c18f50f76",
+        "student_candidates": [
+          63
+        ]
+      },
+      {
+        "url": "https://madenoo.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "a9214a752e78c588f6532c4b9e332bea45bbdb3221bc5778cdec0f5721e9fd27",
+        "student_candidates": [
+          65
+        ]
+      },
+      {
+        "url": "https://madenoo.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "0192b67cd6388893f7cc332861e9ad3e9e4c25821c6c23498b46d1a2adb522af",
+        "student_candidates": [
+          65
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "status": "students_not_found"
+  },
+  {
+    "id": "mahmutkemalyanbegilkokulu",
+    "source_url": "https://mahmutkemalyanbegilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:14.231933+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 276,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://mahmutkemalyanbegilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "dd1e2a7ac0ce0b5d0e3be471ffac3c7c414ccbc42c19bce75ccc0291c99df654",
+        "student_candidates": [
+          276
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Mahmut Kemal Yanbeğ İlkokulu",
+    "evidence": "ğretmen Sayısı : 15 Öğrenci Sayısı : 276 Devamı İletişim Telefon : 458",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "mevkonursuiho",
+    "source_url": "https://mevkonursuiho.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:14.544476+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 10,
+    "grade": "imam_hatip_ortaokulu",
+    "attempts": [
+      {
+        "url": "https://mevkonursuiho.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "75fd207e77de044e0b26732f2a4dd05d28e17b97c1cb776ac3cacf451249bb55",
+        "student_candidates": [
+          10
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Milli Eğitim Vakfı Konursu İmam Hatip Ortaokulu",
+    "evidence": "4 Öğretmen Sayısı 2 Öğrenci Sayısı 10 İLETİŞİM Adres: KONURSU KÖYÜ ",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "mevkonursuilkokulu",
+    "source_url": "https://mevkonursuilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:14.556161+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://mevkonursuilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "7f406d0375d57fbfb282998cab3e354e4664c397a652d0126bd3e68138050731",
+        "student_candidates": [
+          84
+        ]
+      },
+      {
+        "url": "https://mevkonursuilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "f463760edb9b91c15913e0893296811e7ca43f7624fc7365d3dd1f59c43ba677",
+        "student_candidates": [
+          79
+        ]
+      },
+      {
+        "url": "https://mevkonursuilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "f859a35f724315a9eb402b7d8d021de3f7a0cc5f311362888ad3efe188c6fc1c",
+        "student_candidates": [
+          79
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "status": "students_not_found"
+  },
+  {
+    "id": "mevkonursuortaokulu",
+    "source_url": "https://mevkonursuortaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:14.819242+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 75,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://mevkonursuortaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "00d122b293a1e86efd2dd4297f158a68d42f6cbcc6589e09d4ccf0f51d335e78",
+        "student_candidates": [
+          75
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Milli Eğitim Vakfı Konursu Ortaokulu",
+    "evidence": "Öğretmen Sayısı : 9 Öğrenci Sayısı : 75 Devamı İletişim Telefon : 458",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "mutluilkokulu",
+    "source_url": "https://mutluilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:14.826325+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 33,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://mutluilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "845077b1b72797a4f5598f0e4ff70f4f17936b8516ad292b4cb7f5f11af66299",
+        "student_candidates": [
+          33
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Mutlu İlkokulu",
+    "evidence": "6 Öğretmen Sayısı 4 Öğrenci Sayısı 33 İLETİŞİM Adres: Mutlu Köyü Me",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "nevzatkayailkokulu",
+    "source_url": "https://nevzatkayailkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:14.844700+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 311,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://nevzatkayailkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "d04024e69da7df5118a1fee19d7282a9f3a44e648ed98d4da70256a8d977d60f",
+        "student_candidates": [
+          311
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Şehit Nevzat Kaya İlkokulu",
+    "evidence": " Öğretmen Sayısı 19 Öğrenci Sayısı 311 İLETİŞİM Adres: Esentepe Mah.",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "nisantasiilkokulu",
+    "source_url": "https://nisantasiilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:15.047404+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 16,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://nisantasiilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "ca6ead9b9654d0d5e2f9cd1997b96f7d617711ba9d96bba87b59b130100a8afa",
+        "student_candidates": [
+          16
+        ]
+      }
+    ],
+    "name": "BAYBURT MERKEZ Nişantaşı İlkokulu",
+    "province": "Bayburt",
+    "district": "Merkez",
+    "evidence": " Öğretmen Sayısı: 2 Öğrenci Sayısı: 16 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "orucbeyliilkokulu",
+    "source_url": "https://orucbeyliilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:15.407388+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 17,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://orucbeyliilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "679298d7711328efbc1358e7de8129cc51f27780d0e7750cc8e9af514e32ca27",
+        "student_candidates": [
+          17
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Oruçbeyli İlkokulu",
+    "evidence": "3 Öğretmen Sayısı 2 Öğrenci Sayısı 17 İLETİŞİM Adres: Oruçbeyli Köy",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "rkbal",
+    "source_url": "https://rkbal.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:15.653634+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 394,
+    "grade": "lise",
+    "attempts": [
+      {
+        "url": "https://rkbal.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3d6a9e2a831509535fbc2f4f57031ded851142cd573de564761d7c34d25e789c",
+        "student_candidates": [
+          394
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Rekabet Kurumu Kız Anadolu Lisesi",
+    "evidence": " Öğretmen Sayısı 26 Öğrenci Sayısı 394 İLETİŞİM Adres: Rekabet Kurum",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "saircelaliiho",
+    "source_url": "https://saircelaliiho.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:15.674080+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://saircelaliiho.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "fecd39385a19c11a295d35ac8a5afaa568193becd9495bd157d464579c51d2b5",
+        "student_candidates": [
+          9
+        ]
+      },
+      {
+        "url": "https://saircelaliiho.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "36677b61f73dffeabd52774a262a173f3a6bf7c2e6acada6af287a9abb1552c0",
+        "student_candidates": []
+      },
+      {
+        "url": "https://saircelaliiho.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "5d60904624fd9bdc6d346176bef10d65d1c1cca1c12c6c5e523ed37c07c3bbb4",
+        "student_candidates": []
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "status": "students_not_found"
+  },
+  {
+    "id": "saircelaliortaokulu",
+    "source_url": "https://saircelaliortaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:15.687587+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 168,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://saircelaliortaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "21932cb8af432c2c8f87c0a88b3de383e3d7676f72190d7c793c937718b46d16",
+        "student_candidates": [
+          168
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Şair Celali Ortaokulu",
+    "evidence": "ğretmen Sayısı : 14 Öğrenci Sayısı : 168 Devamı İletişim Telefon : 045",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "sairzihni",
+    "source_url": "https://sairzihni.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:15.722693+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 123,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://sairzihni.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "69542c35265e8cb5fa503e9eac88bf7873bc2799010dc040a3a3f272cace5225",
+        "student_candidates": [
+          123
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Şair Zihni İlkokulu",
+    "evidence": " Öğretmen Sayısı 12 Öğrenci Sayısı 123 İLETİŞİM Adres: Mehmet Çelebi",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "sehitcemnuribasgulilkokulu",
+    "source_url": "https://sehitcemnuribasgulilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:16.263173+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 461,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://sehitcemnuribasgulilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "bcb08fd87d15b8fa24bec90334bc332e732a57923182ba20f55d52175e3600e6",
+        "student_candidates": [
+          461
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Şehit Üsteğmen Cem Nuri Başgül İlkokulu",
+    "evidence": " Öğretmen Sayısı 21 Öğrenci Sayısı 461 İLETİŞİM Adres: Şingah Mah. B",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "sehiterdaleraslanortaokulu",
+    "source_url": "https://sehiterdaleraslanortaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:16.430093+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 137,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://sehiterdaleraslanortaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "fcaa41adeef41b12d5e5040346946b02a85c3fd42b0698d95e791872b1a175f4",
+        "student_candidates": [
+          137
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Aydintepe",
+    "name": "Şehit Erdal Eraslan Ortaokulu",
+    "evidence": "ğretmen Sayısı : 16 Öğrenci Sayısı : 137 Devamı İletişim Telefon : 053",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "sehitfatihkostikiho",
+    "source_url": "https://sehitfatihkostikiho.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:16.590055+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 84,
+    "grade": "imam_hatip_ortaokulu",
+    "attempts": [
+      {
+        "url": "https://sehitfatihkostikiho.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "6bbe549772c6de23ea1caeb37d779e42443ce0f7622f85d270569a37b73ce1a2",
+        "student_candidates": [
+          84
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Şehit Fatih Kostik İmam Hatip Ortaokulu",
+    "evidence": "1 Öğretmen Sayısı 9 Öğrenci Sayısı 84 İLETİŞİM Adres: ARPALI BELDES",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "sehitfatihkostikio",
+    "source_url": "https://sehitfatihkostikio.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:16.671952+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 78,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://sehitfatihkostikio.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "14954935eefd296de40d678c7963b65dbe6ca9625fb91384ba165ab9f0b6d58f",
+        "student_candidates": [
+          78
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Şehit Fatih Kostik İlkokulu",
+    "evidence": "6 Öğretmen Sayısı 6 Öğrenci Sayısı 78 İLETİŞİM Adres: ARPALI BELDES",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "sehithamitsahinilkokulu",
+    "source_url": "https://sehithamitsahinilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:16.685005+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 214,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://sehithamitsahinilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "16bb0cc9899f5021d96b2b621c3100185cb97256277e4ee310610b947bd52a7d",
+        "student_candidates": [
+          214
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Şehit Hamit Şahin İlkokulu",
+    "evidence": " Öğretmen Sayısı 12 Öğrenci Sayısı 214 İLETİŞİM Adres: Şingah Mah. T",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "sehitlerortaokulu",
+    "source_url": "https://sehitlerortaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:16.687660+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 667,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://sehitlerortaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "83d28c7094d6ff730a96a1190d6d22dd61fa372344b69d653e637296f43b06d7",
+        "student_candidates": [
+          667
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Şehitler Ortaokulu",
+    "evidence": " Öğretmen Sayısı 43 Öğrenci Sayısı 667 İLETİŞİM Adres: Şingah Mahall",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "sehitmeteokuriho",
+    "source_url": "https://sehitmeteokuriho.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:16.919969+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 42,
+    "grade": "imam_hatip_ortaokulu",
+    "attempts": [
+      {
+        "url": "https://sehitmeteokuriho.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "dad3959a791b377aa76c435ef20c9666d49b1d4dbf31b78846b871b5c0cc3661",
+        "student_candidates": [
+          42
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Şehit Mete Okur İmam Hatip Ortaokulu",
+    "evidence": "Öğretmen Sayısı : 7 Öğrenci Sayısı : 42 Devamı İletişim Telefon : 055",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "sehitmeteokurortaokulu",
+    "source_url": "https://sehitmeteokurortaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:17.241216+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://sehitmeteokurortaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "ffe7e4d9f29a98e995bc1cd74cf8eca5706b93f3064685b8baa8b35f0f10674a",
+        "student_candidates": [
+          146
+        ]
+      },
+      {
+        "url": "https://sehitmeteokurortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "c1058acc335e11b2d1cf4a640aa755d84a63c5d717ea13b6c72d2fe739669f54",
+        "student_candidates": [
+          146
+        ]
+      },
+      {
+        "url": "https://sehitmeteokurortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "ff1cc774431152c30b60ac0aeaa7954e26c909d0d9c44c6170c43cb9b46ce474",
+        "student_candidates": [
+          146
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "status": "students_not_found"
+  },
+  {
+    "id": "sehitrecepesiyokio",
+    "source_url": "https://sehitrecepesiyokio.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:17.243273+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 360,
+    "grade": "diger_kurum",
+    "attempts": [
+      {
+        "url": "https://sehitrecepesiyokio.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "1b03049a1927d768568f4cb116e8efe43b7c1218629e8031e9b8610e96b38690",
+        "student_candidates": [
+          360
+        ]
+      }
+    ],
+    "name": "BAYBURT MERKEZ",
+    "province": "Bayburt",
+    "district": "Merkez",
+    "evidence": "Öğretmen Sayısı: 18 Öğrenci Sayısı: 360 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "sehitrecepesiyokoo",
+    "source_url": "https://sehitrecepesiyokoo.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:17.378154+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 275,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://sehitrecepesiyokoo.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "ed6ddee665984f3a9039037daae3131fddfdf052d78a8829544e62b5603dc5b5",
+        "student_candidates": [
+          275
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Şehit Recep Eşiyok Ortaokulu",
+    "evidence": " Öğretmen Sayısı 19 Öğrenci Sayısı 275 İletişim Adres: Zahit Mah. Ay",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "sehitsebahattinbozooo",
+    "source_url": "https://sehitsebahattinbozooo.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:17.489413+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 169,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://sehitsebahattinbozooo.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "2dbc9c2b69398d516e6da1294720b4a4c6b75c967c54e3ff70f9e5e89355c567",
+        "student_candidates": [
+          169
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Şehit Sebahattin Bozo Ortaokulu",
+    "evidence": "ğretmen Sayısı : 18 Öğrenci Sayısı : 169 Devamı İletişim Telefon : 045",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "soktayaltuntas",
+    "source_url": "https://soktayaltuntas.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:17.518559+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 137,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://soktayaltuntas.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "2e05ae2fb0c55d28983e7c82961acac8c1809be41301d4227d69c2ef2662b220",
+        "student_candidates": [
+          137
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Aydintepe",
+    "name": "Şehit Oktay Altuntaş İlkokulu",
+    "evidence": "ğretmen Sayısı : 12 Öğrenci Sayısı : 137 Devamı İletişim Telefon : 045",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "suleymanersoyilkokulu",
+    "source_url": "https://suleymanersoyilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:17.519214+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 377,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://suleymanersoyilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "ef8259eac5f7f0607e89b29949f452f381523c6450eccce85158251f57363bc6",
+        "student_candidates": [
+          377
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Süleyman Ersoy İlkokulu",
+    "evidence": " Öğretmen Sayısı 18 Öğrenci Sayısı 377 İLETİŞİM Adres: ŞİNGAH MAH. B",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "tahtilkokulu",
+    "source_url": "https://tahtilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:17.729698+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 24,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://tahtilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "281fc2468859eb216f184c450323f660b7c7c309860587debe4f36a2e2d70fa5",
+        "student_candidates": [
+          24
+        ]
+      }
+    ],
+    "name": "BAYBURT MERKEZ Taht İlkokulu",
+    "province": "Bayburt",
+    "district": "Merkez",
+    "evidence": " Öğretmen Sayısı: 1 Öğrenci Sayısı: 24 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "tahtoo",
+    "source_url": "https://tahtoo.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:18.053209+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://tahtoo.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "5eb5471c56d68072b3e4914a8c3a121da625a283bd5424f3c796abba1fd51b85",
+        "student_candidates": []
+      },
+      {
+        "url": "https://tahtoo.meb.k12.tr/tema/okulumuz_hakkinda.php",
+        "page": "tema/okulumuz_hakkinda.php",
+        "status": "fetched",
+        "sha256": "5380b42cc1c06a219cf792a30323d7bd07df80ebbe0a88efaf6f626495bcf4ed",
+        "student_candidates": []
+      },
+      {
+        "url": "https://tahtoo.meb.k12.tr/okulumuz_hakkinda.html",
+        "page": "okulumuz_hakkinda.html",
+        "status": "fetched",
+        "sha256": "ad87ac60e255605e83c9109654c1aabe0ac2d2b2c5766cff07e4a90bdceb3b08",
+        "student_candidates": []
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Taht Ortaokulu",
+    "status": "students_not_found"
+  },
+  {
+    "id": "tasocagistailkokulu",
+    "source_url": "https://tasocagistailkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:18.087211+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 16,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://tasocagistailkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "7296abe6d17191d6d28d951eedb5fec63ce59a5e0290e49af5d24571efc564f4",
+        "student_candidates": [
+          16
+        ]
+      }
+    ],
+    "name": "BAYBURT MERKEZ Taşocağı Şehit Tacettin Akyüz İlkokulu",
+    "province": "Bayburt",
+    "district": "Merkez",
+    "evidence": " Öğretmen Sayısı: 2 Öğrenci Sayısı: 16 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "tobborenceimamhatip",
+    "source_url": "https://tobborenceimamhatip.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:18.191265+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 39,
+    "grade": "imam_hatip_ortaokulu",
+    "attempts": [
+      {
+        "url": "https://tobborenceimamhatip.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "0a2d9c291fbfe3c5a9ac65bde2386ea2032722f7dbb0d756a9dc3f0563c72ad6",
+        "student_candidates": [
+          39
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Türkiye Odalar ve Borsalar Birliği Örence İmam Hatip Ortaokulu",
+    "evidence": "6 Öğretmen Sayısı 8 Öğrenci Sayısı 39 İLETİŞİM Adres: Örence Köyü /",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "tobborenceortaokulu",
+    "source_url": "https://tobborenceortaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:18.304566+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 79,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://tobborenceortaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "b9054c6259bb73d246e17ece7000dada26490a36d4133221f3d010388d609057",
+        "student_candidates": [
+          79
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Türkiye Odalar ve Borsalar Birliği Örence Ortaokulu",
+    "evidence": "Öğretmen Sayısı : 8 Öğrenci Sayısı : 79 Devamı İletişim Telefon : 458",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "ugrakilkokulu",
+    "source_url": "https://ugrakilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:18.328118+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 14,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://ugrakilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "17007649a75a705b0a3758d368aff5113dd7aae6a64c095b46e0cd87f1f94dcf",
+        "student_candidates": [
+          14
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Uğrak İlkokulu",
+    "evidence": "3 Öğretmen Sayısı 1 Öğrenci Sayısı 14 İLETİŞİM Adres: Uğrak Köyü BA",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "yunusemreortaokul",
+    "source_url": "https://yunusemreortaokul.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:18.341341+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 133,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://yunusemreortaokul.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "763b72588764d5d34f1e99d3243927770750c9c995e34e0f34474a3d8b648b96",
+        "student_candidates": [
+          133
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Yunus Emre Ortaokulu",
+    "evidence": " Öğretmen Sayısı 11 Öğrenci Sayısı 133 İLETİŞİM Adres: Kaleardı Mah.",
+    "status": "source_snapshot"
+  },
+  {
+    "id": "yzbsehitagahilkokulu",
+    "source_url": "https://yzbsehitagahilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T11:46:18.424680+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 142,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://yzbsehitagahilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "a2edc89ac97abf46787c5d410b3bd4d45829b032a56ec88adda0237fc1f2a057",
+        "student_candidates": [
+          142
+        ]
+      }
+    ],
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Yüzbaşı Şehit Agah İlkokulu",
+    "evidence": "ğretmen Sayısı : 12 Öğrenci Sayısı : 142 Devamı İletişim Telefon : 045",
+    "status": "source_snapshot"
+  }
+]
