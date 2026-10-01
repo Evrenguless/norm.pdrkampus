@@ -1,12 +1,12 @@
 {
   "summary": {
     "province": "Ardahan",
-    "candidate_sites": 45,
+    "candidate_sites": 50,
     "expected_school_records": 167,
     "inventory_matches_target": true,
-    "inventory_records": 212,
+    "inventory_records": 217,
     "student_count_found": 0,
-    "unresolved": 212,
+    "unresolved": 217,
     "school_records": 167,
     "school_student_count_found": 0,
     "school_unresolved": 167,
@@ -184,7 +184,7 @@
     "note": "Primary values are labelled public MEB school-page snapshots. Explicit fallback values are marked secondary_snapshot. Manual roster-only schools remain null until a count is verified.",
     "grades": {
       "siniflandirilamayan": {
-        "records": 45,
+        "records": 50,
         "count_found": 0
       },
       "anaokulu": {
@@ -222,7 +222,7 @@
       {
         "id": "23subatilkokulu",
         "source_url": "https://23subatilkokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:40.805949+00:00",
+        "observed_at": "2026-10-01T15:31:15.898808+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -239,14 +239,14 @@
             "url": "https://23subatilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "f008dd2fc347296feec3ef577e393ce437f565ffc14745a202e539d024f5aee8",
+            "sha256": "3ec753badf6d22e7cdb96b395dc2b93f80d471cc954d346cc997992289751332",
             "student_candidates": []
           },
           {
             "url": "https://23subatilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "0029de07af1eb2d065953dbc2bf5393bf15fa1519c096e8ace5af1c466e1e10a",
+            "sha256": "55b30ef729b17b5f640fb52c1bad881e111fac192d9aa60820a336b706ba06f1",
             "student_candidates": []
           }
         ],
@@ -255,7 +255,7 @@
       {
         "id": "30eylulortaokulu",
         "source_url": "https://30eylulortaokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:40.807017+00:00",
+        "observed_at": "2026-10-01T15:31:15.899687+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -272,14 +272,14 @@
             "url": "https://30eylulortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "5528dcd469ec57e6b919bbd325b1e456831fcf87c8a818057e86bc659ac9d237",
+            "sha256": "8ba1a5469f91bf40f1936eb6c11f6656c2f3488e3ca1fbe7c489cdaa3bb54edf",
             "student_candidates": []
           },
           {
             "url": "https://30eylulortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "c3a0621b5dd62c475d08b995a2a65f6c37c2f18271ffb03d1aaf94673232d36e",
+            "sha256": "ce73158813bb784b048e27bcc2865e1dfc6cd05334d03396fd641f7c5ca4ade4",
             "student_candidates": []
           }
         ],
@@ -288,7 +288,7 @@
       {
         "id": "703602",
         "source_url": "https://703602.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:40.807566+00:00",
+        "observed_at": "2026-10-01T15:31:15.900114+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -305,14 +305,14 @@
             "url": "https://703602.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "8f01e848bb28d65758c18e7cf46a280a1787244fe0cbe0a0ab94d63b2aa0b07b",
+            "sha256": "a426423d4112737217b77d97745a42e65e8ee2cba2d02fd96a83997ea28e1632",
             "student_candidates": []
           },
           {
             "url": "https://703602.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "db889fe44d21c653bcb310bff8f4032daadee5d9827b20ff702eee8300600240",
+            "sha256": "b58d9e47189441a360837a26df89abf197018ac8b004d3de4213e1e8b53b7c3b",
             "student_candidates": []
           }
         ],
@@ -321,7 +321,7 @@
       {
         "id": "ardahanmehmetakifersoyilkokulu",
         "source_url": "https://ardahanmehmetakifersoyilkokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:40.808128+00:00",
+        "observed_at": "2026-10-01T15:31:15.900767+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -338,14 +338,14 @@
             "url": "https://ardahanmehmetakifersoyilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "2b767ac514da78220763b095d353d884080cf745404fa5a2f08c3670eb5d55fd",
+            "sha256": "1de4cee3cc29733ce898e5d82e1cf35e2fa0b9428d7c15c7be98579a817dc6f5",
             "student_candidates": []
           },
           {
             "url": "https://ardahanmehmetakifersoyilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "47ebb073fa717316219a5ade7b893a72d64817bc9ce21aa5448886f253d6294f",
+            "sha256": "ef1f13bfd03cd444763c2d7bf51a25ff17e9a289fe39a160aa7cec3891f7fb8f",
             "student_candidates": []
           }
         ],
@@ -354,7 +354,7 @@
       {
         "id": "ardahanmehmetakifersoyortaokulu",
         "source_url": "https://ardahanmehmetakifersoyortaokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:40.808951+00:00",
+        "observed_at": "2026-10-01T15:31:15.903702+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -371,14 +371,14 @@
             "url": "https://ardahanmehmetakifersoyortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "5fce4eaebb12841f9778cc89d473db82ec932a09caa0565c8b610f3f52ec3941",
+            "sha256": "91c9f9daacb92c2780784bb067834e80d8ef2317f422427f12f52f7af5ad150e",
             "student_candidates": []
           },
           {
             "url": "https://ardahanmehmetakifersoyortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "0bb119b274b1c12b8cbe3c9658def801cc4520a211e135384d70458a5d35204d",
+            "sha256": "80f7eb98d63a1548013928b0a2fa1c22d79d15373f5b33a4aed5ac7840c42dca",
             "student_candidates": []
           }
         ],
@@ -387,7 +387,7 @@
       {
         "id": "ardahanram",
         "source_url": "https://ardahanram.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:40.812069+00:00",
+        "observed_at": "2026-10-01T15:31:15.904244+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -404,14 +404,14 @@
             "url": "https://ardahanram.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "c892a0cb651605341f1f236d29e91a1d98c0f41dc95188bd6f1e287ad2f0ca14",
+            "sha256": "edeecea524741484c4465ed27988bc03d6e603c3463ba3cf6f0e09f953e4d85c",
             "student_candidates": []
           },
           {
             "url": "https://ardahanram.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "c59640322804d15b183b6b0e1119f1632be723819ff92357975145290af72758",
+            "sha256": "093b7c46f75413f4e204e6e7290cbdce43bf8edc4b5df09fee03eea918c79d1b",
             "student_candidates": []
           }
         ],
@@ -420,7 +420,7 @@
       {
         "id": "ardahanyunusemreanadolulisesi",
         "source_url": "https://ardahanyunusemreanadolulisesi.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:40.814953+00:00",
+        "observed_at": "2026-10-01T15:31:15.907017+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -437,14 +437,14 @@
             "url": "https://ardahanyunusemreanadolulisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "543aa0a25d0e778a6e8bcd0a6bbf5b44679db8bdf95bd114e4ca67795faf9e17",
+            "sha256": "31833ff7ee7a42a1d2eb55d01a41aabfb5302dd5bd6936f9beed27a02fbb5268",
             "student_candidates": []
           },
           {
             "url": "https://ardahanyunusemreanadolulisesi.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "ec32394c3974678226f5cb56b2d0a83116af329c8bcd1c3b4268125f0947e8de",
+            "sha256": "4fb93040b2e2d1f0887f70868e2e56af8b9b7bb0dc70f0be6fa9ae6ec0fbeb52",
             "student_candidates": []
           }
         ],
@@ -453,7 +453,7 @@
       {
         "id": "arpasenibrahimozturkilkokulu",
         "source_url": "https://arpasenibrahimozturkilkokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:40.816960+00:00",
+        "observed_at": "2026-10-01T15:31:15.907693+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -470,14 +470,14 @@
             "url": "https://arpasenibrahimozturkilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "81a42e6408bc8d7f61e9863ecc718efbe7253b9449ad02bf991aa90f0b01c0b0",
+            "sha256": "d07646fb94bcbc3c95a711614c68cdac33b4cc53d1735f8ca925e55a3d08b1c8",
             "student_candidates": []
           },
           {
             "url": "https://arpasenibrahimozturkilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "b6c2cf6f8b8b2d774e68cb20c788032574965b0f6c36a7e7742b3966166eb64f",
+            "sha256": "bc40d78fda2fb340fa1368de2217da8728312e4a8390fdd29afa90b239da57ad",
             "student_candidates": []
           }
         ],
@@ -486,7 +486,7 @@
       {
         "id": "atessannaimatesortaokulu",
         "source_url": "https://atessannaimatesortaokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:43.169899+00:00",
+        "observed_at": "2026-10-01T15:31:18.574792+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -503,14 +503,14 @@
             "url": "https://atessannaimatesortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "5605d268591946c876d9a686e4c20466dbee81f002b86ee884c33c61f21f7e1c",
+            "sha256": "84a7f25c03cbe683d1e789bc8ad8d087e3298b1b91c0a5e689d953a2f3fe83f1",
             "student_candidates": []
           },
           {
             "url": "https://atessannaimatesortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "b2fbba9fe7a07f2018b94b3d06c5a1192006d6826eaf7a7332823020d0570a5c",
+            "sha256": "ea43cfcba14aabdd56f68a51fca4ac3d257bdf61c97e071749ba5ac8c9720615",
             "student_candidates": []
           }
         ],
@@ -519,7 +519,7 @@
       {
         "id": "borsaistanbulybo",
         "source_url": "https://borsaistanbulybo.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:43.185157+00:00",
+        "observed_at": "2026-10-01T15:31:18.578272+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -536,14 +536,14 @@
             "url": "https://borsaistanbulybo.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "938bc76e88cf460be512636ab854a6c21b2b009f4f7112eea2f24375d2d23935",
+            "sha256": "d58ce3bfe24b7bbfd643fc482f3acfe10bca1ca686dd1dd22a969f8d997dbd5c",
             "student_candidates": []
           },
           {
             "url": "https://borsaistanbulybo.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "080b8572c8a384b5d01341dae8a2ab059849f13c2177777a2da99cd61a47f08e",
+            "sha256": "124197f4721dd7666f194bda649304c644bf595d220ca74d0ea609b2e528040e",
             "student_candidates": []
           }
         ],
@@ -552,7 +552,7 @@
       {
         "id": "cildiranaokulu",
         "source_url": "https://cildiranaokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:43.324906+00:00",
+        "observed_at": "2026-10-01T15:31:18.694335+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -569,14 +569,14 @@
             "url": "https://cildiranaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "01c28e21a8e45936552c8bf811af7270bdc8c0e4c7aa8721787eaba7064472da",
+            "sha256": "9c2b6dd3249c3510f86d33703e081946adfd1de7f23bb472f5887dc73b6e0612",
             "student_candidates": []
           },
           {
             "url": "https://cildiranaokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "f7bfe3b6c23d385739be90edc9c6e16b7a171d3ed515ec372b9ca6223e9d9ad7",
+            "sha256": "0c43bc772ccf2da1bbebe8b1fecb7a17be97d29da49e4cecd39133c08ffe59db",
             "student_candidates": []
           }
         ],
@@ -585,7 +585,7 @@
       {
         "id": "cildirihl",
         "source_url": "https://cildirihl.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:43.343032+00:00",
+        "observed_at": "2026-10-01T15:31:18.697721+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -602,14 +602,14 @@
             "url": "https://cildirihl.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "bed88c9887fb78f6480a7fcafdf2d9fd360c7e0ad736e0a3cdc34c4e9379db19",
+            "sha256": "1296ceb83ae34baaea1786041d0265d832ab9f5729aa8294de41265353dd2373",
             "student_candidates": []
           },
           {
             "url": "https://cildirihl.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "a8f47a781dced4eadb88eef5e3171c9914ff74e279070cb0c337c668bbcab7af",
+            "sha256": "0643302f7ff304b228c050bd9e54f599a225603f240648225864bb6927758aab",
             "student_candidates": []
           }
         ],
@@ -618,7 +618,7 @@
       {
         "id": "cildirilkokulu",
         "source_url": "https://cildirilkokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:43.371803+00:00",
+        "observed_at": "2026-10-01T15:31:18.899305+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -635,14 +635,14 @@
             "url": "https://cildirilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "3453ceffaa407c86adc6ded49d7ae7badecea67415c25a6ac31af180d515c4ab",
+            "sha256": "2192d449956c9473e8c9152a0aa201f3910fdd4c401e3d83c6ff573372761123",
             "student_candidates": []
           },
           {
             "url": "https://cildirilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "876244e90755bf30c80189ee53bf8820f2b151e68c3a3e3d41f8e2f3e49016be",
+            "sha256": "7465e1e79f5202014034688b44219ab494bf3e180944bb0f42238866bb736ca4",
             "student_candidates": []
           }
         ],
@@ -651,7 +651,7 @@
       {
         "id": "cildirlisesi",
         "source_url": "https://cildirlisesi.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:43.375591+00:00",
+        "observed_at": "2026-10-01T15:31:18.915114+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -668,14 +668,47 @@
             "url": "https://cildirlisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "03324bef8dba75e95eab6fbc5154ff010c37eac42e2c761de7736cd463ee937c",
+            "sha256": "1955281bb997741a53081b54159678cc25e346d95eaa90536d2b6be475de67d9",
             "student_candidates": []
           },
           {
             "url": "https://cildirlisesi.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "95af10ee6e3d9c7fe58fd46f34015703442613f68bb046a0a7edc273122b69b8",
+            "sha256": "638bed8edebf8a08f6cb64bc4ccbc8bcab69003c374b0621d68a88580caec0c3",
+            "student_candidates": []
+          }
+        ],
+        "status": "identity_unverified"
+      },
+      {
+        "id": "damalcsdoo",
+        "source_url": "https://damalcsdoo.meb.k12.tr/",
+        "observed_at": "2026-10-01T15:31:18.924637+00:00",
+        "year": null,
+        "source_date": null,
+        "students": null,
+        "grade": null,
+        "attempts": [
+          {
+            "url": "https://damalcsdoo.meb.k12.tr/",
+            "page": "homepage",
+            "status": "fetched",
+            "sha256": "2af1eba85f60c026d8c315b3abb818fe738685fcdb4d9568af576cf1315e4fcf",
+            "student_candidates": []
+          },
+          {
+            "url": "https://damalcsdoo.meb.k12.tr/tema/okulumuz_hakkinda.php",
+            "page": "tema/okulumuz_hakkinda.php",
+            "status": "fetched",
+            "sha256": "83024c450f2465d780810f94e57a6530e15ebaacfc0c5057dffaa2e57ae4a76e",
+            "student_candidates": []
+          },
+          {
+            "url": "https://damalcsdoo.meb.k12.tr/okulumuz_hakkinda.html",
+            "page": "okulumuz_hakkinda.html",
+            "status": "fetched",
+            "sha256": "26805115e81a550aeba0291939d02821592eef9b3b2ebfdb4d8421a5fcc69a88",
             "student_candidates": []
           }
         ],
@@ -684,7 +717,7 @@
       {
         "id": "damalotaglioo",
         "source_url": "https://damalotaglioo.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:43.382262+00:00",
+        "observed_at": "2026-10-01T15:31:19.049366+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -717,7 +750,7 @@
       {
         "id": "dolekcayirilkokulu",
         "source_url": "https://dolekcayirilkokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:43.594354+00:00",
+        "observed_at": "2026-10-01T15:31:21.012561+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -734,14 +767,14 @@
             "url": "https://dolekcayirilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "d4c9db03ff1bd8d320696d770788cd76d7fd55cfd861bd021789bd9d133b3c7a",
+            "sha256": "7fdadf84e2ec1cfd7cc3f9caf30ceed15631debc14429bf0015503728b4e6872",
             "student_candidates": []
           },
           {
             "url": "https://dolekcayirilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "346cf76e6e58d4077685e48b349fbad27770e6168146687b9952bf28a7e97366",
+            "sha256": "515b9879a61c3bb51086dc3839e6b9539cadf5fd3998dbf96fc79156acab07e5",
             "student_candidates": []
           }
         ],
@@ -750,7 +783,7 @@
       {
         "id": "enveravcilkokulu",
         "source_url": "https://enveravcilkokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:45.289710+00:00",
+        "observed_at": "2026-10-01T15:31:21.043834+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -767,14 +800,14 @@
             "url": "https://enveravcilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "fd5570abd4469209f87c3ecb1515cd5a66bfb738cc51982315e1025982ccab73",
+            "sha256": "5ff43004940dbf03467968a7ff651331a1062490d992af81799440abecc2ff9f",
             "student_candidates": []
           },
           {
             "url": "https://enveravcilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "9c0583e8557242b263bc6a1aff4fd1eb16ae78437d63b876aa5e17c69055cd3b",
+            "sha256": "18759853abc0a017fa67ab4856a50782306e9117d42a094701ad4f01acbbeaed",
             "student_candidates": []
           }
         ],
@@ -783,7 +816,7 @@
       {
         "id": "escarmiklianadolulisesi",
         "source_url": "https://escarmiklianadolulisesi.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:45.360463+00:00",
+        "observed_at": "2026-10-01T15:31:21.201276+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -800,14 +833,14 @@
             "url": "https://escarmiklianadolulisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "3b47172726da0e17c41c8b8f8977783a97a998858ae7e68557997e20ade52fd5",
+            "sha256": "8a4d8988c5d0b0f0e1f007436a5613f91334e6ce7f57913de1aae8c95c9882dd",
             "student_candidates": []
           },
           {
             "url": "https://escarmiklianadolulisesi.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "5d0668a37b6c1229341f24af50d1cfcfa6c19e23d5b3deceb24bcb7e334f05b5",
+            "sha256": "abb0d74017d7bf9efaad97547e6ac4a86caf247e3c88a5ba0af36633fdc837bc",
             "student_candidates": []
           }
         ],
@@ -816,7 +849,7 @@
       {
         "id": "golehalkegitimi",
         "source_url": "https://golehalkegitimi.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:45.648194+00:00",
+        "observed_at": "2026-10-01T15:31:21.223104+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -833,14 +866,14 @@
             "url": "https://golehalkegitimi.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "d54854dcfd424b97717adbb2ca112b58fb1f34925b8edb2b4a89dc23f46343e1",
+            "sha256": "226011693620abc4373087e8d8de29f195c1164e3de414ec2ea4f05ca394a8e4",
             "student_candidates": []
           },
           {
             "url": "https://golehalkegitimi.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "f4eb34134950fbc539a89cf594643d6a51225b19d881074fd57d7280315c0f77",
+            "sha256": "8942e03a5e10a5de18961be7cd50d6c2f96bac3a94fa5b2b6c5fca4f6929af50",
             "student_candidates": []
           }
         ],
@@ -849,7 +882,7 @@
       {
         "id": "golekazimkarabekirpasamtal",
         "source_url": "https://golekazimkarabekirpasamtal.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:45.693622+00:00",
+        "observed_at": "2026-10-01T15:31:21.314447+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -866,14 +899,14 @@
             "url": "https://golekazimkarabekirpasamtal.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "020fdc4d83303e9bbde1325f26cd5619ed9cc41cbaea5fbcf4105cdd238a5731",
+            "sha256": "e07f52857f6971c117fc4c3c15c5f334d431da2974a16fce1a2adf79665a7c4d",
             "student_candidates": []
           },
           {
             "url": "https://golekazimkarabekirpasamtal.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "39a5b7aeb6d0323ed7a0bbafe1259653579d86bcffdf96f6bc4287ea0c5598b6",
+            "sha256": "99efe37d77d9e643cb1729d496118e6ee3eb42b1235224da65b2a2394220af7e",
             "student_candidates": []
           }
         ],
@@ -882,7 +915,7 @@
       {
         "id": "golekizmeslek",
         "source_url": "https://golekizmeslek.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:46.305458+00:00",
+        "observed_at": "2026-10-01T15:31:21.315172+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -899,14 +932,14 @@
             "url": "https://golekizmeslek.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "47fbe34246fdc548c03d6e645b2515fa81eb1e644dbedcd0413979dfecfe6e5e",
+            "sha256": "00c1aca110a4f76b7c8d90e77dc26d5424e4e179d6cc43f30f9b4ac480b79235",
             "student_candidates": []
           },
           {
             "url": "https://golekizmeslek.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "dbb748ca6f17208cd2062be19c2a660e8fce8df0a8fda15b7fcbe0e3c93d0465",
+            "sha256": "6b2d586adf183925509b60d9329dbe6741d2bf2c31b5e99fa4e5fc8edd2cc764",
             "student_candidates": []
           }
         ],
@@ -915,7 +948,7 @@
       {
         "id": "goleozelegitimuygulamaokulu",
         "source_url": "https://goleozelegitimuygulamaokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:46.323056+00:00",
+        "observed_at": "2026-10-01T15:31:21.339831+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -932,14 +965,14 @@
             "url": "https://goleozelegitimuygulamaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "c55b2ed4d6916d5c418be3b024dfd3890f54ce269ae42938024c88f75dc5256c",
+            "sha256": "5fd43baaac3e67e0c19eb74e80db244b907abaf92db820792edc76a692b421a5",
             "student_candidates": []
           },
           {
             "url": "https://goleozelegitimuygulamaokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "0ceb5084f4cd8c80482b80236d76ba99485c6b6567d7d5d95dbd27e2ac9b39de",
+            "sha256": "88a05652e8dbc39af793cc106d1838d315d509e3575fd7d567a1d51af1f3d604",
             "student_candidates": []
           }
         ],
@@ -948,7 +981,7 @@
       {
         "id": "hanakataturkortaokulu",
         "source_url": "https://hanakataturkortaokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:46.371646+00:00",
+        "observed_at": "2026-10-01T15:31:22.392035+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -965,14 +998,14 @@
             "url": "https://hanakataturkortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "283ed3759af8e926c1b7eef18f9e7b3d2da8d6e25f30a4f857dc41d21ac9f562",
+            "sha256": "9b3270348c65831dc89903efeacf99586b2b45b1a0d0902a9163b3b7f4eec44f",
             "student_candidates": []
           },
           {
             "url": "https://hanakataturkortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "370f2f3ec2a4bee75bd9460d06f2b2cea03da3d17f6247c5df7e73fd69caf406",
+            "sha256": "9356fc25f043aa6a4fb077acdfe4824fdcfcb80a97f953326330b2f74f7823fa",
             "student_candidates": []
           }
         ],
@@ -981,7 +1014,7 @@
       {
         "id": "hanakcpl",
         "source_url": "https://hanakcpl.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:47.428958+00:00",
+        "observed_at": "2026-10-01T15:31:23.585047+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -998,14 +1031,14 @@
             "url": "https://hanakcpl.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "0c2a4c9a5c1f159620bd33372cb15689606bde259c38463c51ac73ad302e3949",
+            "sha256": "675bcf0c5f59d4524029e859164729820214b778ecfab5b6fafa41563ae2a3f9",
             "student_candidates": []
           },
           {
             "url": "https://hanakcpl.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "af6eb2596873a40bfe24824966f327f6b2fe59c1f13abe91ee8935cac6d7d9f9",
+            "sha256": "ece5da4a9c7404c384d6f646383f993529d00acf28d5412b1042d6a5c6fb9b6c",
             "student_candidates": []
           }
         ],
@@ -1014,7 +1047,7 @@
       {
         "id": "hanakortakentortaokulu",
         "source_url": "https://hanakortakentortaokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:47.904493+00:00",
+        "observed_at": "2026-10-01T15:31:23.654945+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1031,14 +1064,14 @@
             "url": "https://hanakortakentortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "945401dd71ce030b7dddb24ed7f610d5d37f8fa58285bb9c8a5f3673a823bbfc",
+            "sha256": "516e48a596eca2f649dab4c87f5bc6e323e65160c257c96d6824322f487e0b97",
             "student_candidates": []
           },
           {
             "url": "https://hanakortakentortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "b8f987ae5a13171d795816f0cd50dee08bb411e342d1a107593f4a87e5b06f5f",
+            "sha256": "16893f5773e4d608a4ca7b5afa297d6e911feb056e89cf26b34c816f92e66343",
             "student_candidates": []
           }
         ],
@@ -1047,7 +1080,7 @@
       {
         "id": "hanaksadiyeveabdullahtanilkokulu",
         "source_url": "https://hanaksadiyeveabdullahtanilkokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:48.039923+00:00",
+        "observed_at": "2026-10-01T15:31:23.678936+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1064,14 +1097,14 @@
             "url": "https://hanaksadiyeveabdullahtanilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "5e0c49a43d85e339172c00eb66a5da5dee311f7bfbb4e78506ee763304141248",
+            "sha256": "68c73f79a0d441bd98421c84f399c54e664b92804b43084bb65c63daba625f85",
             "student_candidates": []
           },
           {
             "url": "https://hanaksadiyeveabdullahtanilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "47ac3652fc744b67765103eda65ac79d99fa07b28822bfe9a57ae06d3497c695",
+            "sha256": "959bfa72f07288aeeb7bc1324af16e4451c1c06654ee9c67df7e5d82732e43df",
             "student_candidates": []
           }
         ],
@@ -1080,7 +1113,7 @@
       {
         "id": "hanaksadiyeveabdullahtanortaokul",
         "source_url": "https://hanaksadiyeveabdullahtanortaokul.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:48.048231+00:00",
+        "observed_at": "2026-10-01T15:31:23.680225+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1097,14 +1130,14 @@
             "url": "https://hanaksadiyeveabdullahtanortaokul.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "285cba842f52cb0ed5af8b37dc57926c9361f4b7cacb2354abd13ab267b57ec4",
+            "sha256": "74f8db3bde7b27cbcfbcdce429b671117cf6295345f7744f932616816601f2fc",
             "student_candidates": []
           },
           {
             "url": "https://hanaksadiyeveabdullahtanortaokul.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "7b4098566df91c45cc1a3493fb218cd3f6360d012bf68ed519753671a8d56add",
+            "sha256": "f3915e728793bffba0ce4a5ecc15486d60c2665271ef7ded84fb3809dbfc1bb0",
             "student_candidates": []
           }
         ],
@@ -1113,7 +1146,7 @@
       {
         "id": "huseyingedikio",
         "source_url": "https://huseyingedikio.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:48.175073+00:00",
+        "observed_at": "2026-10-01T15:31:23.714649+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1130,14 +1163,14 @@
             "url": "https://huseyingedikio.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "28aab259e910d92310f36755ecbab57b8f2be0f4c2e220be3bb32d3742016512",
+            "sha256": "8d9a928422b4d646413acb766421d65f5ba4c306334e13573fff146cdb948ce7",
             "student_candidates": []
           },
           {
             "url": "https://huseyingedikio.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "714aa61ba80ea69f5d32452ec73f5400d163ce3191db416537e9694c753152c8",
+            "sha256": "22131cb7bd0700277f6d97c48c42f518aea996ae56f51f0cc9cdf11bcb34507a",
             "student_candidates": []
           }
         ],
@@ -1146,7 +1179,7 @@
       {
         "id": "ibrahimozturkortaokulu",
         "source_url": "https://ibrahimozturkortaokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:48.645593+00:00",
+        "observed_at": "2026-10-01T15:31:23.836125+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1163,14 +1196,14 @@
             "url": "https://ibrahimozturkortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "cfb05a0ab82a918c26c9bfa418cac5a48591fd77614fc94b66c3475f694412fa",
+            "sha256": "5bc01f5ee012288407111bde3caa121ff95819f16c10bd8eca22e9fbb5f353a1",
             "student_candidates": []
           },
           {
             "url": "https://ibrahimozturkortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "09e87dd5043b9b98b1c7a78faa7998ad5ae22a51b856af5a2d68406f91daf610",
+            "sha256": "3db1131da6f12d54f06626b7fe90a685c6759b17c61df580ca0008d90d92eee1",
             "student_candidates": []
           }
         ],
@@ -1179,7 +1212,7 @@
       {
         "id": "karliyaziilkokulu",
         "source_url": "https://karliyaziilkokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:48.818456+00:00",
+        "observed_at": "2026-10-01T15:31:24.051239+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1196,14 +1229,14 @@
             "url": "https://karliyaziilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "c56f7122a2e98a98cadd042b1fc295296858837f36de6124d514c0a8e6c9b6e7",
+            "sha256": "1d8af9e8eb40ef111b0d7d5c88181ab6dc1d9435bc525fe96e21e2d822ff509a",
             "student_candidates": []
           },
           {
             "url": "https://karliyaziilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "027a996f9e84a3b67873b98fcd243f74b8405ca9908b419256db752c4939fa8a",
+            "sha256": "0450aa0dcffc5dabd9ba4dd1eceb8026ec8c8c249940caa8d3fda4cd811ebc2c",
             "student_candidates": []
           }
         ],
@@ -1212,7 +1245,7 @@
       {
         "id": "kayaaltiortaokulu",
         "source_url": "https://kayaaltiortaokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:48.949932+00:00",
+        "observed_at": "2026-10-01T15:31:24.770086+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1229,14 +1262,14 @@
             "url": "https://kayaaltiortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "fd4b8a832235b0c56bc40b3c91725047070721a7e5229912f6dc57fdf4cf8fb3",
+            "sha256": "7804f17bbb9a80d8ca168b1f757d705560c2154302d3a8e7cb438d42156b05f3",
             "student_candidates": []
           },
           {
             "url": "https://kayaaltiortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "1e6c095525d119e4d07891ef2b849a7d49fe6fb65daef83103159c6fdd1c7676",
+            "sha256": "0b39b7f8d9acfc9f15e3a15c83f135703e00751623c44dbf8ecb5758a4a33763",
             "student_candidates": []
           }
         ],
@@ -1245,7 +1278,7 @@
       {
         "id": "koyunluortaokulu",
         "source_url": "https://koyunluortaokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:49.963087+00:00",
+        "observed_at": "2026-10-01T15:31:25.839939+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1262,14 +1295,14 @@
             "url": "https://koyunluortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "b4b75c062073614851baeff8d14d9b30d726920c7fd07ecb82ff853d9177b8a8",
+            "sha256": "7e8454887adbd1e593de13331050b9b47abd86dc4e3066c707f13839ebe494f8",
             "student_candidates": []
           },
           {
             "url": "https://koyunluortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "1f5c3ade5a5727004f3f3136e8b0a2cde0ae411f1c4b7c6e9db5d2d25d13e11b",
+            "sha256": "cae255b64eba6a27facefdaacd2f811f202f8b2f082e1f78635af3af6e18e4b4",
             "student_candidates": []
           }
         ],
@@ -1278,7 +1311,7 @@
       {
         "id": "merkezataturkortaokulu",
         "source_url": "https://merkezataturkortaokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:50.439235+00:00",
+        "observed_at": "2026-10-01T15:31:25.923903+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1295,14 +1328,47 @@
             "url": "https://merkezataturkortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "8d7ba1741379e88d6f701bca628d30ea0cbfae86c20b26c90bbf2da1125b32a3",
+            "sha256": "f0f806658007e5e7d2e4f30853b33d16e2376fcc49e3a34a8b1ae8e54a143942",
             "student_candidates": []
           },
           {
             "url": "https://merkezataturkortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "86cff02ce818d35d7a9200958792f40337624ef03712e9272e9ede07966763b0",
+            "sha256": "343b00322d6b04cf5ee51fe78e6bdd396f5b5608f773a8c96f23c2e1e3179fe3",
+            "student_candidates": []
+          }
+        ],
+        "status": "identity_unverified"
+      },
+      {
+        "id": "mesedibiortaokulu",
+        "source_url": "https://mesedibiortaokulu.meb.k12.tr/",
+        "observed_at": "2026-10-01T15:31:25.992726+00:00",
+        "year": null,
+        "source_date": null,
+        "students": null,
+        "grade": null,
+        "attempts": [
+          {
+            "url": "https://mesedibiortaokulu.meb.k12.tr/",
+            "page": "homepage",
+            "status": "fetched",
+            "sha256": "c356c505bed24ab4efdeedd8274e8b345c5a5e81b694bb01535e07bae1ffb2b2",
+            "student_candidates": []
+          },
+          {
+            "url": "https://mesedibiortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
+            "page": "tema/okulumuz_hakkinda.php",
+            "status": "fetched",
+            "sha256": "57c38662e7e3aef327dc508b7594831978161912771dccd7141be76b60d42f49",
+            "student_candidates": []
+          },
+          {
+            "url": "https://mesedibiortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
+            "page": "okulumuz_hakkinda.html",
+            "status": "fetched",
+            "sha256": "4150f9d62e69749537ea7a9692a0f7103b06a8908fde1a12c558db8eed410125",
             "student_candidates": []
           }
         ],
@@ -1311,7 +1377,7 @@
       {
         "id": "nilufergolesosyalbilimlerlisesi",
         "source_url": "https://nilufergolesosyalbilimlerlisesi.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:50.469895+00:00",
+        "observed_at": "2026-10-01T15:31:26.099118+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1328,14 +1394,47 @@
             "url": "https://nilufergolesosyalbilimlerlisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "15dd488083bac56625d6454c369befe1d6f72a2008a6b665e107de935c3d2346",
+            "sha256": "822b781e9a20c13a18d8b3da74260b9f6d3cd940b5a58eadc9119c5a2d142de9",
             "student_candidates": []
           },
           {
             "url": "https://nilufergolesosyalbilimlerlisesi.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "5d7aae5644fc1df594137fc7dcd1b6dcf4d5c2af98776482656372fea4f59a5b",
+            "sha256": "69bdd861283db6774114806b0abc487eb570286d2f1413dda625f074fbb20f81",
+            "student_candidates": []
+          }
+        ],
+        "status": "identity_unverified"
+      },
+      {
+        "id": "olcekortaokulu",
+        "source_url": "https://olcekortaokulu.meb.k12.tr/",
+        "observed_at": "2026-10-01T15:31:26.141053+00:00",
+        "year": null,
+        "source_date": null,
+        "students": null,
+        "grade": null,
+        "attempts": [
+          {
+            "url": "https://olcekortaokulu.meb.k12.tr/",
+            "page": "homepage",
+            "status": "fetched",
+            "sha256": "04a994a08b0f77b44bdf210324673789c2946f1ce45431cae06a70946cd5f282",
+            "student_candidates": []
+          },
+          {
+            "url": "https://olcekortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
+            "page": "tema/okulumuz_hakkinda.php",
+            "status": "fetched",
+            "sha256": "36fbb07cb45b6826016af406eceffd793a8636f61e1c24b08c779cc911e76373",
+            "student_candidates": []
+          },
+          {
+            "url": "https://olcekortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
+            "page": "okulumuz_hakkinda.html",
+            "status": "fetched",
+            "sha256": "92faa5c364364adeb0c012e9a8a9e57569f815e2ec59367685368cf58fc81e8f",
             "student_candidates": []
           }
         ],
@@ -1344,7 +1443,7 @@
       {
         "id": "ozelegitimuygulama2kademe",
         "source_url": "https://ozelegitimuygulama2kademe.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:50.560691+00:00",
+        "observed_at": "2026-10-01T15:31:26.338389+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1361,14 +1460,14 @@
             "url": "https://ozelegitimuygulama2kademe.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "c8bef08f8eeea1ac9a78dd1ba78592314c8e0122cc9fac8fd7c707acfdbc0074",
+            "sha256": "7ce2b7a9738862c990ea8e96c154457df09de31345af9ead1d7b34cfdc6c9948",
             "student_candidates": []
           },
           {
             "url": "https://ozelegitimuygulama2kademe.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "9e1aea2714ea78e772018484f002da249bc25bc10c93e52156d2bbaec341a52d",
+            "sha256": "411cbeff9580d4eadf4b36f08604bac1277846dcb01d64353eaec93035401e3c",
             "student_candidates": []
           }
         ],
@@ -1377,7 +1476,7 @@
       {
         "id": "posofhem",
         "source_url": "https://posofhem.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:50.562300+00:00",
+        "observed_at": "2026-10-01T15:31:26.415582+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1394,14 +1493,14 @@
             "url": "https://posofhem.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "4e8c93e2beb6a783a08d928cd80c4b3bdc9281eb09815f3fefcd89b26a564a08",
+            "sha256": "18f6d1eca7c03faf389abc1be908fd03861a59ddbdd17141cf2460b0fd21c0b3",
             "student_candidates": []
           },
           {
             "url": "https://posofhem.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "7662a1c156b8cbe3a99b87b5f5aa5039433d2d9f87d3948c4b067f5a22c5dc88",
+            "sha256": "8d4b0b317a9024bb529f2efbe9db50e0fd41e1b797a98ed9fe2c3f7ad707e67c",
             "student_candidates": []
           }
         ],
@@ -1410,7 +1509,7 @@
       {
         "id": "posofilkokulu",
         "source_url": "https://posofilkokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:50.995676+00:00",
+        "observed_at": "2026-10-01T15:31:27.195646+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1427,14 +1526,14 @@
             "url": "https://posofilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "6c89eaa0d6616311b55802b5dd254445bdca66f511e09f6e32f815a8426873e3",
+            "sha256": "331548ea21d05c7c9195b87d32c50f406af16526b1c728228d834ac97936ca74",
             "student_candidates": []
           },
           {
             "url": "https://posofilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "0798f612ffe31bd82bd1a9d219942afac0f33e176691a2bc452fc62358fc27fe",
+            "sha256": "a31cb3bda5ee5c0ebacb35e09964a81c5a7bd3b81209b6e06ec708b35bc6f415",
             "student_candidates": []
           }
         ],
@@ -1443,7 +1542,7 @@
       {
         "id": "posofimamhatiplisesi",
         "source_url": "https://posofimamhatiplisesi.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:51.123708+00:00",
+        "observed_at": "2026-10-01T15:31:28.221456+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1460,14 +1559,14 @@
             "url": "https://posofimamhatiplisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "c86af9dc773add487df36dc02faf5aa5d5e181260f0f50719428c725cd6db406",
+            "sha256": "b69c4f7cff43718b6254b385da491d55980191d7d82165120342a34809bb5a21",
             "student_candidates": []
           },
           {
             "url": "https://posofimamhatiplisesi.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "e5014061beb422da71795551a018ca961221580e5b16edb4a5cf6fe9600697d6",
+            "sha256": "43285fdcd0fdca50b2ea814ade65106ea31d1054a7c9a5d441ddf475987a0d08",
             "student_candidates": []
           }
         ],
@@ -1476,7 +1575,7 @@
       {
         "id": "posoflisesi",
         "source_url": "https://posoflisesi.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:51.741936+00:00",
+        "observed_at": "2026-10-01T15:31:28.359246+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1493,14 +1592,14 @@
             "url": "https://posoflisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "e26b2b5dc21793b8d35bdb1f7cd870ffc18a0be8ad2f719bef518d49baf29d7b",
+            "sha256": "b5ca3e7eddc2be7d332db5590dbbb92c7c48d9938af7c8dd062c28d0228a24ca",
             "student_candidates": []
           },
           {
             "url": "https://posoflisesi.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "818878da8d594f4133f0f555ce1e06c344bbae821441726a00c743677f164830",
+            "sha256": "6a54b65424597c9714a29cc1b4be0445f5a8b041bbc0766e364238b77f55d996",
             "student_candidates": []
           }
         ],
@@ -1509,7 +1608,7 @@
       {
         "id": "posofogretmenevi",
         "source_url": "https://posofogretmenevi.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:52.683974+00:00",
+        "observed_at": "2026-10-01T15:31:28.373210+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1526,14 +1625,47 @@
             "url": "https://posofogretmenevi.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "394669fc02808c64bb7b881d3e7529bbcfd2a3b655e71b7222e63e352392c2df",
+            "sha256": "d173375894af3bbaf9d733658691b8ef6920d16112733152871be709d81288c4",
             "student_candidates": []
           },
           {
             "url": "https://posofogretmenevi.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "867b91fe677e4a01c8c0643f255d8bf818ee3ab8a1dc3f5a9694f8114a666632",
+            "sha256": "d4eec524cae659fa605664a0486ad806986262e3e9db379fd22068cf133e105f",
+            "student_candidates": []
+          }
+        ],
+        "status": "identity_unverified"
+      },
+      {
+        "id": "sehitburhankilicortaokulu",
+        "source_url": "https://sehitburhankilicortaokulu.meb.k12.tr/",
+        "observed_at": "2026-10-01T15:31:28.509033+00:00",
+        "year": null,
+        "source_date": null,
+        "students": null,
+        "grade": null,
+        "attempts": [
+          {
+            "url": "https://sehitburhankilicortaokulu.meb.k12.tr/",
+            "page": "homepage",
+            "status": "fetched",
+            "sha256": "31e64193db5da6b573ba6c5cebd515944c72c43be5a5394b81ef694a14629fd7",
+            "student_candidates": []
+          },
+          {
+            "url": "https://sehitburhankilicortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
+            "page": "tema/okulumuz_hakkinda.php",
+            "status": "fetched",
+            "sha256": "2e95018992777cf47985dd4d5fe5ac74c346fc8b7952122603926bf9339ef962",
+            "student_candidates": []
+          },
+          {
+            "url": "https://sehitburhankilicortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
+            "page": "okulumuz_hakkinda.html",
+            "status": "fetched",
+            "sha256": "82e55f249954a3f802ec941c30986b509146dbd3cc90ef2e115df2b293626434",
             "student_candidates": []
           }
         ],
@@ -1542,7 +1674,7 @@
       {
         "id": "sehitercevdetcelenkortaokulu",
         "source_url": "https://sehitercevdetcelenkortaokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:52.882648+00:00",
+        "observed_at": "2026-10-01T15:31:28.546637+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1559,14 +1691,14 @@
             "url": "https://sehitercevdetcelenkortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "7f19d7dadd65063cca2d4352cf6ef33cb6c13d84b627b9d57e9a960a24fa029a",
+            "sha256": "a4c0d67b5d4108c9cbb629bbe6d6d6e9e70677c2b9e0a1c23faba7f31c44847b",
             "student_candidates": []
           },
           {
             "url": "https://sehitercevdetcelenkortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "4e56b5d26fdbe0e277dc017d7ff2c367185c2717f9178fb909aa223019af49e0",
+            "sha256": "415fb3b6cc393b41b0f162a5752eb1a78cfe3f2abb8a23916bb3b59dfc66ed57",
             "student_candidates": []
           }
         ],
@@ -1575,7 +1707,7 @@
       {
         "id": "sehiterkemalizciortaokulu",
         "source_url": "https://sehiterkemalizciortaokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:52.921633+00:00",
+        "observed_at": "2026-10-01T15:31:28.702710+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1592,14 +1724,47 @@
             "url": "https://sehiterkemalizciortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "2bae3918958a22066f80593b4e8d7752230d028f021810187487181ba0b96685",
+            "sha256": "a6ce40161badf40abc7483778c9393af85376342772ccce37029cd39ebe6c83c",
             "student_candidates": []
           },
           {
             "url": "https://sehiterkemalizciortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "22af95c047447cfbc64bbae589a68e403addd166be7262779b3de515457e9ef1",
+            "sha256": "26bd54925d1e7688c6d6c9d983ec606abda996828cffa763280d18012795a4dd",
+            "student_candidates": []
+          }
+        ],
+        "status": "identity_unverified"
+      },
+      {
+        "id": "sehitrecepkilicortaokulu",
+        "source_url": "https://sehitrecepkilicortaokulu.meb.k12.tr/",
+        "observed_at": "2026-10-01T15:31:28.767540+00:00",
+        "year": null,
+        "source_date": null,
+        "students": null,
+        "grade": null,
+        "attempts": [
+          {
+            "url": "https://sehitrecepkilicortaokulu.meb.k12.tr/",
+            "page": "homepage",
+            "status": "fetched",
+            "sha256": "86015a45d78a5939db4366d9342bae985b626fc7e11ec7a5e531dced2d9bd1cd",
+            "student_candidates": []
+          },
+          {
+            "url": "https://sehitrecepkilicortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
+            "page": "tema/okulumuz_hakkinda.php",
+            "status": "fetched",
+            "sha256": "060c6c4c42031715306e19b80ea5f9c8263b997edd0c670fc62e28801ca5293d",
+            "student_candidates": []
+          },
+          {
+            "url": "https://sehitrecepkilicortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
+            "page": "okulumuz_hakkinda.html",
+            "status": "fetched",
+            "sha256": "824240573741fdc8f331c41d6eae3e4e8f1d099fc0f63a4e0227a20a1f39a8e3",
             "student_candidates": []
           }
         ],
@@ -1608,7 +1773,7 @@
       {
         "id": "sehittayfurhancerilkokulu",
         "source_url": "https://sehittayfurhancerilkokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:53.387453+00:00",
+        "observed_at": "2026-10-01T15:31:29.493282+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1625,14 +1790,14 @@
             "url": "https://sehittayfurhancerilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "56c90a546267406c36deda44ce3194f31874a591299e77f17cb7430ba63012f8",
+            "sha256": "56aa6daa3793e85cd15ded42b94ec40d49cac63b632d2df5a07adf9085fff6ed",
             "student_candidates": []
           },
           {
             "url": "https://sehittayfurhancerilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "03f459874f7d217866e66c1164033c3d720003257265eb70e386576b72560d9f",
+            "sha256": "765eb62a0ec3a487bfc2c1e92d8908be66ca821fbc8c651037537e4f37d89340",
             "student_candidates": []
           }
         ],
@@ -1641,7 +1806,7 @@
       {
         "id": "sunguluortaokulu",
         "source_url": "https://sunguluortaokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:53.521621+00:00",
+        "observed_at": "2026-10-01T15:31:30.507105+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1658,14 +1823,14 @@
             "url": "https://sunguluortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "c23c7f0f95355d743e3b780c51ebb444581d1197871e5d70f5090ffaf759011f",
+            "sha256": "0659465f9b030eeaaf94a1679164d9755b19e7086542483ec2be8f9cad84da57",
             "student_candidates": []
           },
           {
             "url": "https://sunguluortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "ff6baf8205db56916f2e03ab2cf4265f59acaa738a3038cd2e98a650e7283d34",
+            "sha256": "946c29c0b4f407f3007c5d2f2e4db8ced4024ae2da05f944b870e034fb6ebe9e",
             "student_candidates": []
           }
         ],
@@ -1674,7 +1839,7 @@
       {
         "id": "tahtakiranilkokulu",
         "source_url": "https://tahtakiranilkokulu.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:30:53.582197+00:00",
+        "observed_at": "2026-10-01T15:31:30.537149+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -1691,14 +1856,14 @@
             "url": "https://tahtakiranilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "74d571d084abf97ecf1553d9302b2f131de788bca138a9c5033add090616d70f",
+            "sha256": "262a74022e03839c468e2b50a0cfc326abedbc88de5e9d1b796788d47839b311",
             "student_candidates": []
           },
           {
             "url": "https://tahtakiranilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "79119f70e2923fcdcac49790854b592290310260a8bdf5cb731772e554879460",
+            "sha256": "ddacae2de7b9a206e3bc0c364fa969c27ab1d3db8982f8d051050466b62f9a07",
             "student_candidates": []
           }
         ],
@@ -1716,7 +1881,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Çıldır-1",
-        "observed_at": "2026-10-01T15:30:55.962425+00:00",
+        "observed_at": "2026-10-01T15:31:32.883083+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1731,7 +1896,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Damal-14",
-        "observed_at": "2026-10-01T15:30:55.962484+00:00",
+        "observed_at": "2026-10-01T15:31:32.883145+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1746,7 +1911,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-25",
-        "observed_at": "2026-10-01T15:30:55.962515+00:00",
+        "observed_at": "2026-10-01T15:31:32.883172+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1761,7 +1926,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Hanak-80",
-        "observed_at": "2026-10-01T15:30:55.962652+00:00",
+        "observed_at": "2026-10-01T15:31:32.883289+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1776,7 +1941,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-90",
-        "observed_at": "2026-10-01T15:30:55.962679+00:00",
+        "observed_at": "2026-10-01T15:31:32.883309+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1791,7 +1956,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-91",
-        "observed_at": "2026-10-01T15:30:55.962681+00:00",
+        "observed_at": "2026-10-01T15:31:32.883311+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1806,7 +1971,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-92",
-        "observed_at": "2026-10-01T15:30:55.962684+00:00",
+        "observed_at": "2026-10-01T15:31:32.883313+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1821,7 +1986,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-93",
-        "observed_at": "2026-10-01T15:30:55.962686+00:00",
+        "observed_at": "2026-10-01T15:31:32.883315+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1836,7 +2001,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-94",
-        "observed_at": "2026-10-01T15:30:55.962689+00:00",
+        "observed_at": "2026-10-01T15:31:32.883317+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1851,7 +2016,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Posof-161",
-        "observed_at": "2026-10-01T15:30:55.962870+00:00",
+        "observed_at": "2026-10-01T15:31:32.883449+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1868,7 +2033,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Çıldır-2",
-        "observed_at": "2026-10-01T15:30:55.962446+00:00",
+        "observed_at": "2026-10-01T15:31:32.883107+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1883,7 +2048,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Çıldır-3",
-        "observed_at": "2026-10-01T15:30:55.962451+00:00",
+        "observed_at": "2026-10-01T15:31:32.883111+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1898,7 +2063,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Çıldır-4",
-        "observed_at": "2026-10-01T15:30:55.962455+00:00",
+        "observed_at": "2026-10-01T15:31:32.883117+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1913,7 +2078,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Çıldır-5",
-        "observed_at": "2026-10-01T15:30:55.962458+00:00",
+        "observed_at": "2026-10-01T15:31:32.883119+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1928,7 +2093,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Çıldır-6",
-        "observed_at": "2026-10-01T15:30:55.962461+00:00",
+        "observed_at": "2026-10-01T15:31:32.883123+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1943,7 +2108,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Çıldır-7",
-        "observed_at": "2026-10-01T15:30:55.962463+00:00",
+        "observed_at": "2026-10-01T15:31:32.883126+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1958,7 +2123,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Çıldır-8",
-        "observed_at": "2026-10-01T15:30:55.962466+00:00",
+        "observed_at": "2026-10-01T15:31:32.883128+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1973,7 +2138,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Damal-15",
-        "observed_at": "2026-10-01T15:30:55.962487+00:00",
+        "observed_at": "2026-10-01T15:31:32.883149+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -1988,7 +2153,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Damal-16",
-        "observed_at": "2026-10-01T15:30:55.962489+00:00",
+        "observed_at": "2026-10-01T15:31:32.883152+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2003,7 +2168,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Damal-17",
-        "observed_at": "2026-10-01T15:30:55.962492+00:00",
+        "observed_at": "2026-10-01T15:31:32.883154+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2018,7 +2183,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Damal-18",
-        "observed_at": "2026-10-01T15:30:55.962495+00:00",
+        "observed_at": "2026-10-01T15:31:32.883157+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2033,7 +2198,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Damal-19",
-        "observed_at": "2026-10-01T15:30:55.962497+00:00",
+        "observed_at": "2026-10-01T15:31:32.883159+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2048,7 +2213,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-26",
-        "observed_at": "2026-10-01T15:30:55.962517+00:00",
+        "observed_at": "2026-10-01T15:31:32.883174+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2063,7 +2228,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-27",
-        "observed_at": "2026-10-01T15:30:55.962520+00:00",
+        "observed_at": "2026-10-01T15:31:32.883177+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2078,7 +2243,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-28",
-        "observed_at": "2026-10-01T15:30:55.962523+00:00",
+        "observed_at": "2026-10-01T15:31:32.883179+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2093,7 +2258,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-29",
-        "observed_at": "2026-10-01T15:30:55.962525+00:00",
+        "observed_at": "2026-10-01T15:31:32.883181+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2108,7 +2273,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-30",
-        "observed_at": "2026-10-01T15:30:55.962528+00:00",
+        "observed_at": "2026-10-01T15:31:32.883184+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2123,7 +2288,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-31",
-        "observed_at": "2026-10-01T15:30:55.962530+00:00",
+        "observed_at": "2026-10-01T15:31:32.883186+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2138,7 +2303,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-32",
-        "observed_at": "2026-10-01T15:30:55.962533+00:00",
+        "observed_at": "2026-10-01T15:31:32.883188+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2153,7 +2318,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-33",
-        "observed_at": "2026-10-01T15:30:55.962536+00:00",
+        "observed_at": "2026-10-01T15:31:32.883190+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2168,7 +2333,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-35",
-        "observed_at": "2026-10-01T15:30:55.962541+00:00",
+        "observed_at": "2026-10-01T15:31:32.883194+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2183,7 +2348,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-36",
-        "observed_at": "2026-10-01T15:30:55.962544+00:00",
+        "observed_at": "2026-10-01T15:31:32.883197+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2198,7 +2363,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-37",
-        "observed_at": "2026-10-01T15:30:55.962546+00:00",
+        "observed_at": "2026-10-01T15:31:32.883199+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2213,7 +2378,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-38",
-        "observed_at": "2026-10-01T15:30:55.962549+00:00",
+        "observed_at": "2026-10-01T15:31:32.883201+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2228,7 +2393,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-39",
-        "observed_at": "2026-10-01T15:30:55.962551+00:00",
+        "observed_at": "2026-10-01T15:31:32.883203+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2243,7 +2408,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-40",
-        "observed_at": "2026-10-01T15:30:55.962554+00:00",
+        "observed_at": "2026-10-01T15:31:32.883205+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2258,7 +2423,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-41",
-        "observed_at": "2026-10-01T15:30:55.962556+00:00",
+        "observed_at": "2026-10-01T15:31:32.883207+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2273,7 +2438,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-42",
-        "observed_at": "2026-10-01T15:30:55.962559+00:00",
+        "observed_at": "2026-10-01T15:31:32.883210+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2288,7 +2453,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-43",
-        "observed_at": "2026-10-01T15:30:55.962561+00:00",
+        "observed_at": "2026-10-01T15:31:32.883212+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2303,7 +2468,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-44",
-        "observed_at": "2026-10-01T15:30:55.962564+00:00",
+        "observed_at": "2026-10-01T15:31:32.883214+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2318,7 +2483,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-45",
-        "observed_at": "2026-10-01T15:30:55.962566+00:00",
+        "observed_at": "2026-10-01T15:31:32.883216+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2333,7 +2498,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-46",
-        "observed_at": "2026-10-01T15:30:55.962569+00:00",
+        "observed_at": "2026-10-01T15:31:32.883218+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2348,7 +2513,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-47",
-        "observed_at": "2026-10-01T15:30:55.962572+00:00",
+        "observed_at": "2026-10-01T15:31:32.883221+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2363,7 +2528,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-48",
-        "observed_at": "2026-10-01T15:30:55.962574+00:00",
+        "observed_at": "2026-10-01T15:31:32.883223+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2378,7 +2543,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-49",
-        "observed_at": "2026-10-01T15:30:55.962577+00:00",
+        "observed_at": "2026-10-01T15:31:32.883225+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2393,7 +2558,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-50",
-        "observed_at": "2026-10-01T15:30:55.962579+00:00",
+        "observed_at": "2026-10-01T15:31:32.883227+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2408,7 +2573,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-51",
-        "observed_at": "2026-10-01T15:30:55.962581+00:00",
+        "observed_at": "2026-10-01T15:31:32.883230+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2423,7 +2588,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-52",
-        "observed_at": "2026-10-01T15:30:55.962584+00:00",
+        "observed_at": "2026-10-01T15:31:32.883232+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2438,7 +2603,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-53",
-        "observed_at": "2026-10-01T15:30:55.962586+00:00",
+        "observed_at": "2026-10-01T15:31:32.883234+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2453,7 +2618,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-54",
-        "observed_at": "2026-10-01T15:30:55.962589+00:00",
+        "observed_at": "2026-10-01T15:31:32.883236+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2468,7 +2633,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-55",
-        "observed_at": "2026-10-01T15:30:55.962591+00:00",
+        "observed_at": "2026-10-01T15:31:32.883238+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2483,7 +2648,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Hanak-81",
-        "observed_at": "2026-10-01T15:30:55.962654+00:00",
+        "observed_at": "2026-10-01T15:31:32.883291+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2498,7 +2663,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Hanak-82",
-        "observed_at": "2026-10-01T15:30:55.962657+00:00",
+        "observed_at": "2026-10-01T15:31:32.883293+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2513,7 +2678,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Hanak-83",
-        "observed_at": "2026-10-01T15:30:55.962659+00:00",
+        "observed_at": "2026-10-01T15:31:32.883295+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2528,7 +2693,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-95",
-        "observed_at": "2026-10-01T15:30:55.962691+00:00",
+        "observed_at": "2026-10-01T15:31:32.883319+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2543,7 +2708,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-97",
-        "observed_at": "2026-10-01T15:30:55.962696+00:00",
+        "observed_at": "2026-10-01T15:31:32.883323+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2558,7 +2723,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-98",
-        "observed_at": "2026-10-01T15:30:55.962698+00:00",
+        "observed_at": "2026-10-01T15:31:32.883325+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2573,7 +2738,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-99",
-        "observed_at": "2026-10-01T15:30:55.962701+00:00",
+        "observed_at": "2026-10-01T15:31:32.883327+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2588,7 +2753,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-100",
-        "observed_at": "2026-10-01T15:30:55.962703+00:00",
+        "observed_at": "2026-10-01T15:31:32.883329+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2603,7 +2768,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-101",
-        "observed_at": "2026-10-01T15:30:55.962706+00:00",
+        "observed_at": "2026-10-01T15:31:32.883331+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2618,7 +2783,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-102",
-        "observed_at": "2026-10-01T15:30:55.962708+00:00",
+        "observed_at": "2026-10-01T15:31:32.883333+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2633,7 +2798,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-103",
-        "observed_at": "2026-10-01T15:30:55.962710+00:00",
+        "observed_at": "2026-10-01T15:31:32.883335+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2648,7 +2813,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-104",
-        "observed_at": "2026-10-01T15:30:55.962712+00:00",
+        "observed_at": "2026-10-01T15:31:32.883337+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2663,7 +2828,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-105",
-        "observed_at": "2026-10-01T15:30:55.962715+00:00",
+        "observed_at": "2026-10-01T15:31:32.883339+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2678,7 +2843,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-106",
-        "observed_at": "2026-10-01T15:30:55.962717+00:00",
+        "observed_at": "2026-10-01T15:31:32.883341+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2693,7 +2858,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-107",
-        "observed_at": "2026-10-01T15:30:55.962720+00:00",
+        "observed_at": "2026-10-01T15:31:32.883343+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2708,7 +2873,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-108",
-        "observed_at": "2026-10-01T15:30:55.962722+00:00",
+        "observed_at": "2026-10-01T15:31:32.883345+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2723,7 +2888,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-109",
-        "observed_at": "2026-10-01T15:30:55.962725+00:00",
+        "observed_at": "2026-10-01T15:31:32.883347+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2738,7 +2903,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-110",
-        "observed_at": "2026-10-01T15:30:55.962727+00:00",
+        "observed_at": "2026-10-01T15:31:32.883349+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2753,7 +2918,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-111",
-        "observed_at": "2026-10-01T15:30:55.962729+00:00",
+        "observed_at": "2026-10-01T15:31:32.883351+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2768,7 +2933,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-112",
-        "observed_at": "2026-10-01T15:30:55.962732+00:00",
+        "observed_at": "2026-10-01T15:31:32.883353+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2783,7 +2948,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-113",
-        "observed_at": "2026-10-01T15:30:55.962734+00:00",
+        "observed_at": "2026-10-01T15:31:32.883355+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2798,7 +2963,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-114",
-        "observed_at": "2026-10-01T15:30:55.962736+00:00",
+        "observed_at": "2026-10-01T15:31:32.883357+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2813,7 +2978,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-115",
-        "observed_at": "2026-10-01T15:30:55.962739+00:00",
+        "observed_at": "2026-10-01T15:31:32.883359+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2828,7 +2993,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-116",
-        "observed_at": "2026-10-01T15:30:55.962741+00:00",
+        "observed_at": "2026-10-01T15:31:32.883361+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2843,7 +3008,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-117",
-        "observed_at": "2026-10-01T15:30:55.962744+00:00",
+        "observed_at": "2026-10-01T15:31:32.883363+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2858,7 +3023,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-118",
-        "observed_at": "2026-10-01T15:30:55.962746+00:00",
+        "observed_at": "2026-10-01T15:31:32.883365+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2873,7 +3038,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-119",
-        "observed_at": "2026-10-01T15:30:55.962748+00:00",
+        "observed_at": "2026-10-01T15:31:32.883366+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2888,7 +3053,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-120",
-        "observed_at": "2026-10-01T15:30:55.962750+00:00",
+        "observed_at": "2026-10-01T15:31:32.883368+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2903,7 +3068,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-121",
-        "observed_at": "2026-10-01T15:30:55.962753+00:00",
+        "observed_at": "2026-10-01T15:31:32.883370+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2918,7 +3083,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-122",
-        "observed_at": "2026-10-01T15:30:55.962755+00:00",
+        "observed_at": "2026-10-01T15:31:32.883372+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2933,7 +3098,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-123",
-        "observed_at": "2026-10-01T15:30:55.962758+00:00",
+        "observed_at": "2026-10-01T15:31:32.883374+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2948,7 +3113,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-124",
-        "observed_at": "2026-10-01T15:30:55.962761+00:00",
+        "observed_at": "2026-10-01T15:31:32.883376+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2963,7 +3128,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Posof-162",
-        "observed_at": "2026-10-01T15:30:55.962872+00:00",
+        "observed_at": "2026-10-01T15:31:32.883451+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2978,7 +3143,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Posof-163",
-        "observed_at": "2026-10-01T15:30:55.962875+00:00",
+        "observed_at": "2026-10-01T15:31:32.883453+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -2995,7 +3160,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Çıldır-9",
-        "observed_at": "2026-10-01T15:30:55.962469+00:00",
+        "observed_at": "2026-10-01T15:31:32.883132+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3010,7 +3175,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Çıldır-10",
-        "observed_at": "2026-10-01T15:30:55.962472+00:00",
+        "observed_at": "2026-10-01T15:31:32.883135+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3025,7 +3190,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Damal-20",
-        "observed_at": "2026-10-01T15:30:55.962500+00:00",
+        "observed_at": "2026-10-01T15:31:32.883161+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3040,7 +3205,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-56",
-        "observed_at": "2026-10-01T15:30:55.962594+00:00",
+        "observed_at": "2026-10-01T15:31:32.883240+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3055,7 +3220,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-57",
-        "observed_at": "2026-10-01T15:30:55.962596+00:00",
+        "observed_at": "2026-10-01T15:31:32.883242+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3070,7 +3235,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-58",
-        "observed_at": "2026-10-01T15:30:55.962599+00:00",
+        "observed_at": "2026-10-01T15:31:32.883244+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3085,7 +3250,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-59",
-        "observed_at": "2026-10-01T15:30:55.962601+00:00",
+        "observed_at": "2026-10-01T15:31:32.883246+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3100,7 +3265,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-61",
-        "observed_at": "2026-10-01T15:30:55.962606+00:00",
+        "observed_at": "2026-10-01T15:31:32.883251+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3115,7 +3280,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-62",
-        "observed_at": "2026-10-01T15:30:55.962608+00:00",
+        "observed_at": "2026-10-01T15:31:32.883253+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3130,7 +3295,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Hanak-84",
-        "observed_at": "2026-10-01T15:30:55.962662+00:00",
+        "observed_at": "2026-10-01T15:31:32.883297+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3145,7 +3310,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Hanak-85",
-        "observed_at": "2026-10-01T15:30:55.962666+00:00",
+        "observed_at": "2026-10-01T15:31:32.883299+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3160,7 +3325,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-148",
-        "observed_at": "2026-10-01T15:30:55.962816+00:00",
+        "observed_at": "2026-10-01T15:31:32.883424+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3175,7 +3340,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-149",
-        "observed_at": "2026-10-01T15:30:55.962818+00:00",
+        "observed_at": "2026-10-01T15:31:32.883426+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3190,7 +3355,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-153",
-        "observed_at": "2026-10-01T15:30:55.962828+00:00",
+        "observed_at": "2026-10-01T15:31:32.883434+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3205,7 +3370,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-154",
-        "observed_at": "2026-10-01T15:30:55.962830+00:00",
+        "observed_at": "2026-10-01T15:31:32.883436+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3220,7 +3385,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-155",
-        "observed_at": "2026-10-01T15:30:55.962833+00:00",
+        "observed_at": "2026-10-01T15:31:32.883438+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3235,7 +3400,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-156",
-        "observed_at": "2026-10-01T15:30:55.962835+00:00",
+        "observed_at": "2026-10-01T15:31:32.883439+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3250,7 +3415,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-157",
-        "observed_at": "2026-10-01T15:30:55.962857+00:00",
+        "observed_at": "2026-10-01T15:31:32.883441+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3265,7 +3430,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-158",
-        "observed_at": "2026-10-01T15:30:55.962861+00:00",
+        "observed_at": "2026-10-01T15:31:32.883443+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3280,7 +3445,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-159",
-        "observed_at": "2026-10-01T15:30:55.962864+00:00",
+        "observed_at": "2026-10-01T15:31:32.883445+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3295,7 +3460,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-160",
-        "observed_at": "2026-10-01T15:30:55.962867+00:00",
+        "observed_at": "2026-10-01T15:31:32.883448+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3310,7 +3475,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Posof-164",
-        "observed_at": "2026-10-01T15:30:55.962877+00:00",
+        "observed_at": "2026-10-01T15:31:32.883455+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3325,7 +3490,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Posof-167",
-        "observed_at": "2026-10-01T15:30:55.962884+00:00",
+        "observed_at": "2026-10-01T15:31:32.883461+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3342,7 +3507,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Çıldır-11",
-        "observed_at": "2026-10-01T15:30:55.962475+00:00",
+        "observed_at": "2026-10-01T15:31:32.883138+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3357,7 +3522,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Çıldır-12",
-        "observed_at": "2026-10-01T15:30:55.962478+00:00",
+        "observed_at": "2026-10-01T15:31:32.883140+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3372,7 +3537,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Çıldır-13",
-        "observed_at": "2026-10-01T15:30:55.962481+00:00",
+        "observed_at": "2026-10-01T15:31:32.883142+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3387,7 +3552,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Damal-21",
-        "observed_at": "2026-10-01T15:30:55.962504+00:00",
+        "observed_at": "2026-10-01T15:31:32.883163+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3402,7 +3567,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Damal-22",
-        "observed_at": "2026-10-01T15:30:55.962507+00:00",
+        "observed_at": "2026-10-01T15:31:32.883165+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3417,7 +3582,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Damal-23",
-        "observed_at": "2026-10-01T15:30:55.962509+00:00",
+        "observed_at": "2026-10-01T15:31:32.883168+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3432,7 +3597,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Damal-24",
-        "observed_at": "2026-10-01T15:30:55.962512+00:00",
+        "observed_at": "2026-10-01T15:31:32.883170+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3447,7 +3612,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-63",
-        "observed_at": "2026-10-01T15:30:55.962611+00:00",
+        "observed_at": "2026-10-01T15:31:32.883254+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3462,7 +3627,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-64",
-        "observed_at": "2026-10-01T15:30:55.962613+00:00",
+        "observed_at": "2026-10-01T15:31:32.883256+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3477,7 +3642,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-65",
-        "observed_at": "2026-10-01T15:30:55.962615+00:00",
+        "observed_at": "2026-10-01T15:31:32.883258+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3492,7 +3657,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-66",
-        "observed_at": "2026-10-01T15:30:55.962618+00:00",
+        "observed_at": "2026-10-01T15:31:32.883260+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3507,7 +3672,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-68",
-        "observed_at": "2026-10-01T15:30:55.962623+00:00",
+        "observed_at": "2026-10-01T15:31:32.883264+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3522,7 +3687,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-69",
-        "observed_at": "2026-10-01T15:30:55.962625+00:00",
+        "observed_at": "2026-10-01T15:31:32.883267+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3537,7 +3702,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-70",
-        "observed_at": "2026-10-01T15:30:55.962627+00:00",
+        "observed_at": "2026-10-01T15:31:32.883268+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3552,7 +3717,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-71",
-        "observed_at": "2026-10-01T15:30:55.962630+00:00",
+        "observed_at": "2026-10-01T15:31:32.883271+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3567,7 +3732,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-72",
-        "observed_at": "2026-10-01T15:30:55.962632+00:00",
+        "observed_at": "2026-10-01T15:31:32.883272+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3582,7 +3747,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-73",
-        "observed_at": "2026-10-01T15:30:55.962634+00:00",
+        "observed_at": "2026-10-01T15:31:32.883274+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3597,7 +3762,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-74",
-        "observed_at": "2026-10-01T15:30:55.962637+00:00",
+        "observed_at": "2026-10-01T15:31:32.883276+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3612,7 +3777,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-75",
-        "observed_at": "2026-10-01T15:30:55.962640+00:00",
+        "observed_at": "2026-10-01T15:31:32.883278+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3627,7 +3792,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-76",
-        "observed_at": "2026-10-01T15:30:55.962642+00:00",
+        "observed_at": "2026-10-01T15:31:32.883280+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3642,7 +3807,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-77",
-        "observed_at": "2026-10-01T15:30:55.962644+00:00",
+        "observed_at": "2026-10-01T15:31:32.883282+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3657,7 +3822,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-78",
-        "observed_at": "2026-10-01T15:30:55.962647+00:00",
+        "observed_at": "2026-10-01T15:31:32.883284+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3672,7 +3837,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-79",
-        "observed_at": "2026-10-01T15:30:55.962649+00:00",
+        "observed_at": "2026-10-01T15:31:32.883286+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3687,7 +3852,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Hanak-86",
-        "observed_at": "2026-10-01T15:30:55.962669+00:00",
+        "observed_at": "2026-10-01T15:31:32.883301+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3702,7 +3867,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Hanak-87",
-        "observed_at": "2026-10-01T15:30:55.962671+00:00",
+        "observed_at": "2026-10-01T15:31:32.883303+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3717,7 +3882,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Hanak-88",
-        "observed_at": "2026-10-01T15:30:55.962674+00:00",
+        "observed_at": "2026-10-01T15:31:32.883305+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3732,7 +3897,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-126",
-        "observed_at": "2026-10-01T15:30:55.962765+00:00",
+        "observed_at": "2026-10-01T15:31:32.883380+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3747,7 +3912,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-127",
-        "observed_at": "2026-10-01T15:30:55.962768+00:00",
+        "observed_at": "2026-10-01T15:31:32.883382+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3762,7 +3927,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-128",
-        "observed_at": "2026-10-01T15:30:55.962770+00:00",
+        "observed_at": "2026-10-01T15:31:32.883384+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3777,7 +3942,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-129",
-        "observed_at": "2026-10-01T15:30:55.962773+00:00",
+        "observed_at": "2026-10-01T15:31:32.883385+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3792,7 +3957,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-130",
-        "observed_at": "2026-10-01T15:30:55.962775+00:00",
+        "observed_at": "2026-10-01T15:31:32.883387+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3807,7 +3972,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-131",
-        "observed_at": "2026-10-01T15:30:55.962778+00:00",
+        "observed_at": "2026-10-01T15:31:32.883389+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3822,7 +3987,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-132",
-        "observed_at": "2026-10-01T15:30:55.962780+00:00",
+        "observed_at": "2026-10-01T15:31:32.883391+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3837,7 +4002,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-133",
-        "observed_at": "2026-10-01T15:30:55.962783+00:00",
+        "observed_at": "2026-10-01T15:31:32.883393+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3852,7 +4017,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-134",
-        "observed_at": "2026-10-01T15:30:55.962785+00:00",
+        "observed_at": "2026-10-01T15:31:32.883395+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3867,7 +4032,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-135",
-        "observed_at": "2026-10-01T15:30:55.962787+00:00",
+        "observed_at": "2026-10-01T15:31:32.883397+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3882,7 +4047,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-136",
-        "observed_at": "2026-10-01T15:30:55.962789+00:00",
+        "observed_at": "2026-10-01T15:31:32.883400+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3897,7 +4062,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-137",
-        "observed_at": "2026-10-01T15:30:55.962791+00:00",
+        "observed_at": "2026-10-01T15:31:32.883402+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3912,7 +4077,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-138",
-        "observed_at": "2026-10-01T15:30:55.962793+00:00",
+        "observed_at": "2026-10-01T15:31:32.883404+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3927,7 +4092,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-139",
-        "observed_at": "2026-10-01T15:30:55.962796+00:00",
+        "observed_at": "2026-10-01T15:31:32.883406+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3942,7 +4107,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-141",
-        "observed_at": "2026-10-01T15:30:55.962801+00:00",
+        "observed_at": "2026-10-01T15:31:32.883411+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3957,7 +4122,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-142",
-        "observed_at": "2026-10-01T15:30:55.962803+00:00",
+        "observed_at": "2026-10-01T15:31:32.883412+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3972,7 +4137,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-143",
-        "observed_at": "2026-10-01T15:30:55.962805+00:00",
+        "observed_at": "2026-10-01T15:31:32.883414+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -3987,7 +4152,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-144",
-        "observed_at": "2026-10-01T15:30:55.962807+00:00",
+        "observed_at": "2026-10-01T15:31:32.883416+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -4002,7 +4167,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-145",
-        "observed_at": "2026-10-01T15:30:55.962809+00:00",
+        "observed_at": "2026-10-01T15:31:32.883418+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -4017,7 +4182,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-146",
-        "observed_at": "2026-10-01T15:30:55.962811+00:00",
+        "observed_at": "2026-10-01T15:31:32.883420+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -4032,7 +4197,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-147",
-        "observed_at": "2026-10-01T15:30:55.962814+00:00",
+        "observed_at": "2026-10-01T15:31:32.883422+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -4047,7 +4212,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Posof-165",
-        "observed_at": "2026-10-01T15:30:55.962879+00:00",
+        "observed_at": "2026-10-01T15:31:32.883457+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -4062,7 +4227,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Posof-166",
-        "observed_at": "2026-10-01T15:30:55.962882+00:00",
+        "observed_at": "2026-10-01T15:31:32.883459+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -4079,7 +4244,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-34",
-        "observed_at": "2026-10-01T15:30:55.962538+00:00",
+        "observed_at": "2026-10-01T15:31:32.883192+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -4094,7 +4259,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-60",
-        "observed_at": "2026-10-01T15:30:55.962604+00:00",
+        "observed_at": "2026-10-01T15:31:32.883249+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -4109,7 +4274,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Göle-67",
-        "observed_at": "2026-10-01T15:30:55.962620+00:00",
+        "observed_at": "2026-10-01T15:31:32.883262+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -4124,7 +4289,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-89",
-        "observed_at": "2026-10-01T15:30:55.962676+00:00",
+        "observed_at": "2026-10-01T15:31:32.883307+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -4139,7 +4304,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-96",
-        "observed_at": "2026-10-01T15:30:55.962694+00:00",
+        "observed_at": "2026-10-01T15:31:32.883321+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -4154,7 +4319,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-125",
-        "observed_at": "2026-10-01T15:30:55.962763+00:00",
+        "observed_at": "2026-10-01T15:31:32.883378+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -4169,7 +4334,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-151",
-        "observed_at": "2026-10-01T15:30:55.962823+00:00",
+        "observed_at": "2026-10-01T15:31:32.883430+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -4184,7 +4349,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-152",
-        "observed_at": "2026-10-01T15:30:55.962826+00:00",
+        "observed_at": "2026-10-01T15:31:32.883432+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -4201,7 +4366,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-140",
-        "observed_at": "2026-10-01T15:30:55.962798+00:00",
+        "observed_at": "2026-10-01T15:31:32.883409+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
@@ -4218,7 +4383,7 @@
         "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
         "id": "manual-Merkez-150",
-        "observed_at": "2026-10-01T15:30:55.962820+00:00",
+        "observed_at": "2026-10-01T15:31:32.883428+00:00",
         "year": null,
         "source_date": null,
         "attempts": []
