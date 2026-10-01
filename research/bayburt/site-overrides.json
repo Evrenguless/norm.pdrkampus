@@ -68,5 +68,35 @@
     "province": "Bayburt",
     "district": "Merkez",
     "name": "Veyselefendi Ortaokulu"
+  },
+  "bayburterdembayaztiho": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Erdem Bayazıt İmam Hatip Ortaokulu"
+  },
+  "bayburtmadenilkokulu": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Maden İlkokulu"
+  },
+  "demirozuimamhatip": {
+    "province": "Bayburt",
+    "district": "Demirözü",
+    "name": "Demirözü Hüseyin Nüsret Resul Beyler İmam Hatip Ortaokulu"
+  },
+  "mustafakoseoglucpl": {
+    "province": "Bayburt",
+    "district": "Demirözü",
+    "name": "Mustafa Köseoğlu Çok Programlı Anadolu Lisesi"
+  },
+  "sehitlerimamhatiportaokulu": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Şehitler İmam Hatip Ortaokulu"
+  },
+  "sehitfatihkostikoo": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Şehit Fatih Kostik Ortaokulu"
   }
 }
