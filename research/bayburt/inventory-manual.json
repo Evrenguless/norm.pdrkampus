@@ -1,0 +1,27 @@
+{
+  "note": "Formal Bayburt schools/institutions confirmed in official/current rosters but without a distinct verified live MEB school endpoint at collection time. Kept explicitly so the province inventory does not silently omit them.",
+  "records": [
+    {
+      "institution_code": "759584",
+      "province": "Bayburt",
+      "district": "Merkez",
+      "name": "Veyselefendi İmam Hatip Ortaokulu",
+      "grade": "imam_hatip_ortaokulu",
+      "students": null,
+      "status": "confirmed_in_roster_no_verified_live_endpoint",
+      "source_url": "https://dhgm.meb.gov.tr/tebligler-dergisi/2020/2749_Subat_2020.pdf",
+      "current_roster_url": "https://www.okultanitimi.net/turler/il-15-ortaokul-bayburt-ortaokul-okullari?do=turler&link=il-15-ortaokul-bayburt-ortaokul-okullari"
+    },
+    {
+      "institution_code": "760972",
+      "province": "Bayburt",
+      "district": "Merkez",
+      "name": "Yunus Emre İmam Hatip Ortaokulu",
+      "grade": "imam_hatip_ortaokulu",
+      "students": null,
+      "status": "confirmed_in_roster_no_verified_live_endpoint",
+      "source_url": "https://dhgm.meb.gov.tr/tebligler-dergisi/2020/2749_Subat_2020.pdf",
+      "current_roster_url": "https://www.okultanitimi.net/turler/il-15-ortaokul-bayburt-ortaokul-okullari?do=turler&link=il-15-ortaokul-bayburt-ortaokul-okullari"
+    }
+  ]
+}
