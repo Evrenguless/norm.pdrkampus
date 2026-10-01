@@ -113,7 +113,8 @@ def collect(url, province, districts, overrides=None):
     full_identity = identity_pattern(province, districts)
     province_district = province_district_pattern(province, districts)
 
-    for path in ["", "tema/okulumuz_hakkinda.php", "okulumuz_hakkinda.html"]:
+    paths = [""] if out["id"].isdigit() else ["", "tema/okulumuz_hakkinda.php", "okulumuz_hakkinda.html"]
+    for path in paths:
         requested = "https://" + host + "/" + path
         try:
             actual, source, digest = fetch(requested)
