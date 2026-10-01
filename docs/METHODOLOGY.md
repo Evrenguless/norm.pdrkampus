@@ -69,3 +69,10 @@ Madde 21/4'teki yerleşim merkezi atama sıralaması ayrı bir süreçtir; mevcu
 - İl toplamı yayımlanmadan önce kapsam raporu ve tekrar üretilebilir testler hazırlandı.
 
 Bu ölçütler tamamlanana kadar v0.1 bir kaynak toplama ve hesaplama platformudur; doğrulanmış ihtiyaç araştırmasının tamamlanmış sonucu değildir.
+
+
+## Tarihsel karşılaştırma: 2021 Bayburt ihtiyaç cetveli
+
+Resmî PDF sayfa 2 görsel olarak doğrulandı. Rehberlik için listelenen beş okulda norm toplamı 6, mevcut 1, bildirilen ihtiyaç 5. Bu bir ihtiyaç listesidir; tüm il norm/personel envanteri değildir. Yayın yılı 2021 eğitim yılı yerine kullanılmaz. Öğrenci sayısı bulunmadığından hesap motorunun öğrenci eşiklerini bu belgeyle doğruladığımız iddia edilmez. Kayıtlar `dist/data/historical-norms.json` içinde tutulur ve güncel okul hesaplarına katılmaz.
+
+Pilot liste 25 okul kaydı içerir. Eğitim yılı belirsiz resmî web sayfası görüntüleri, 2026 eğitim yılı verisi olarak etiketlenmez. Şehit Oktay Altuntaş sayfasındaki 136 değeri, farklı arama önbelleklerindeki 105/137 değerleriyle tutarsızdır; güncel yıl doğrulaması gerektirir.

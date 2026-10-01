@@ -1,0 +1,46 @@
+{
+  "title": "2021 Bayburt il içi öğretmen ihtiyacı — Rehberlik",
+  "publication_year": 2021,
+  "source_url": "https://bayburt.meb.gov.tr/meb_iys_dosyalar/2021_07/12160121_2021_YYlY_Yl_Yci_OYretmen_BranY_BazYnda_Yhtiyac_Listesi.pdf",
+  "source_page": 2,
+  "scope": "Yalnızca ihtiyaç listesinde bulunan Rehberlik satırları; tüm il kurumları değildir.",
+  "academic_year": null,
+  "current_data": false,
+  "rows": [
+    {
+      "district": "Aydıntepe",
+      "name": "Şehit Oktay Altuntaş İlkokulu",
+      "approved_norm": 1,
+      "staff": 0,
+      "reported_vacancy": 1
+    },
+    {
+      "district": "Merkez",
+      "name": "Bayburt Mesleki Eğitim Merkezi",
+      "approved_norm": 1,
+      "staff": 0,
+      "reported_vacancy": 1
+    },
+    {
+      "district": "Merkez",
+      "name": "Bayburt Ortaokulu",
+      "approved_norm": 2,
+      "staff": 1,
+      "reported_vacancy": 1
+    },
+    {
+      "district": "Merkez",
+      "name": "Çoruh Mesleki ve Teknik Anadolu Lisesi",
+      "approved_norm": 1,
+      "staff": 0,
+      "reported_vacancy": 1
+    },
+    {
+      "district": "Merkez",
+      "name": "Mehmet Akif Ersoy Ortaokulu",
+      "approved_norm": 1,
+      "staff": 0,
+      "reported_vacancy": 1
+    }
+  ]
+}
