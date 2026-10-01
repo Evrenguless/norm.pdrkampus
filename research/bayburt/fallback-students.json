@@ -12,6 +12,12 @@
       "institution_code": "706069",
       "source_quality": "secondary_meb-derived_directory",
       "source_url": "https://www.okultanitimi.net/okul/706069-bayburt-merkez-yolalti-ilkokulu-nerede?do=okul&link=706069-bayburt-merkez-yolalti-ilkokulu-nerede"
+    },
+    "gokcedereortaokulu": {
+      "students": 0,
+      "institution_code": "722125",
+      "source_quality": "secondary_meb-derived_directory",
+      "source_url": "https://www.okultanitimi.net/okul/722125-bayburt-demirozu-gokcedere-ortaokulu-nerede?do=okul&link=722125-bayburt-demirozu-gokcedere-ortaokulu-nerede"
     }
   }
 }
