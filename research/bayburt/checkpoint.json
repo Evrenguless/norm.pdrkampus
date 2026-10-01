@@ -2,7 +2,7 @@
   {
     "id": "15temmuz",
     "source_url": "https://15temmuz.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:34.588231+00:00",
+    "observed_at": "2026-10-01T14:25:35.581402+00:00",
     "year": null,
     "source_date": null,
     "students": 250,
@@ -27,7 +27,7 @@
   {
     "id": "21subat",
     "source_url": "https://21subat.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:34.589071+00:00",
+    "observed_at": "2026-10-01T14:25:35.582068+00:00",
     "year": null,
     "source_date": null,
     "students": 103,
@@ -53,7 +53,7 @@
   {
     "id": "722068",
     "source_url": "https://722068.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:34.589600+00:00",
+    "observed_at": "2026-10-01T14:25:35.582559+00:00",
     "year": null,
     "source_date": null,
     "students": 40,
@@ -78,7 +78,7 @@
   {
     "id": "722094",
     "source_url": "https://722094.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:34.590183+00:00",
+    "observed_at": "2026-10-01T14:25:35.583065+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -88,21 +88,21 @@
         "url": "https://722094.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
-        "sha256": "9cf7267a9adb9221f6ef6d74682c145c17feb5f9acb8bf318468631c36075f67",
+        "sha256": "baebcdc2abf92da601cdaa18365bb3fb1c3b86c80332e7851767babe00615312",
         "student_candidates": []
       },
       {
         "url": "https://722094.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "4a8bef6f59846786779816fa3bb62adcf004cba8af51dc621fe291effcbeb204",
+        "sha256": "61cc9cc08f9ae4f6df581b11ea92d98dc5ea38f8070cdb60835062aa68d621f3",
         "student_candidates": []
       },
       {
         "url": "https://722094.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "6c348db45eb902d57c0755098e6fb7af76fa0ade84c9c2c2c32b88b667ad7f98",
+        "sha256": "d524563821ab8855aecfb7af6cf9ba549f7099ed193f23ee5621ed7affbb68cb",
         "student_candidates": []
       }
     ],
@@ -116,7 +116,7 @@
   {
     "id": "85yilanaokulu",
     "source_url": "https://85yilanaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:34.593218+00:00",
+    "observed_at": "2026-10-01T14:25:35.583723+00:00",
     "year": null,
     "source_date": null,
     "students": 113,
@@ -141,7 +141,7 @@
   {
     "id": "adabasiiho",
     "source_url": "https://adabasiiho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:34.594343+00:00",
+    "observed_at": "2026-10-01T14:25:35.585353+00:00",
     "year": null,
     "source_date": null,
     "students": 76,
@@ -166,7 +166,7 @@
   {
     "id": "adabasiio",
     "source_url": "https://adabasiio.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:34.598240+00:00",
+    "observed_at": "2026-10-01T14:25:35.589361+00:00",
     "year": null,
     "source_date": null,
     "students": 47,
@@ -191,7 +191,7 @@
   {
     "id": "adabasiortaokulu",
     "source_url": "https://adabasiortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:34.598906+00:00",
+    "observed_at": "2026-10-01T14:25:35.594317+00:00",
     "year": null,
     "source_date": null,
     "students": 9,
@@ -216,7 +216,7 @@
   {
     "id": "ahievranmvtal",
     "source_url": "https://ahievranmvtal.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:35.545099+00:00",
+    "observed_at": "2026-10-01T14:25:36.640568+00:00",
     "year": null,
     "source_date": null,
     "students": 2,
@@ -241,7 +241,7 @@
   {
     "id": "aksargencosmaniho",
     "source_url": "https://aksargencosmaniho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:35.775346+00:00",
+    "observed_at": "2026-10-01T14:25:36.821680+00:00",
     "year": null,
     "source_date": null,
     "students": 55,
@@ -266,7 +266,7 @@
   {
     "id": "aksargencosmanio",
     "source_url": "https://aksargencosmanio.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:35.779274+00:00",
+    "observed_at": "2026-10-01T14:25:36.828314+00:00",
     "year": null,
     "source_date": null,
     "students": 32,
@@ -291,7 +291,7 @@
   {
     "id": "aksargencosmanoo",
     "source_url": "https://aksargencosmanoo.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:35.797350+00:00",
+    "observed_at": "2026-10-01T14:25:36.834664+00:00",
     "year": null,
     "source_date": null,
     "students": 50,
@@ -316,7 +316,7 @@
   {
     "id": "asagikirziilkokulu",
     "source_url": "https://asagikirziilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:35.810562+00:00",
+    "observed_at": "2026-10-01T14:25:36.939387+00:00",
     "year": null,
     "source_date": null,
     "students": 11,
@@ -341,7 +341,7 @@
   {
     "id": "aydintepeanaokulu",
     "source_url": "https://aydintepeanaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:35.831976+00:00",
+    "observed_at": "2026-10-01T14:25:37.086792+00:00",
     "year": null,
     "source_date": null,
     "students": 42,
@@ -366,7 +366,7 @@
   {
     "id": "aydintepecpl",
     "source_url": "https://aydintepecpl.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:35.837633+00:00",
+    "observed_at": "2026-10-01T14:25:37.199913+00:00",
     "year": null,
     "source_date": null,
     "students": 81,
@@ -391,7 +391,7 @@
   {
     "id": "aydintepehem",
     "source_url": "https://aydintepehem.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:36.416443+00:00",
+    "observed_at": "2026-10-01T14:25:37.700749+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -408,14 +408,14 @@
         "url": "https://aydintepehem.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "6102079ca023debee222869b718cfe90f87633eeea715cacf6f27820b2b55f83",
+        "sha256": "8d0fe36ae0d7ef0326b07d940c5b01d4093d14937de74d353df5efc83b5b5fd3",
         "student_candidates": []
       },
       {
         "url": "https://aydintepehem.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "c867f48dd681c73e824379548a3dfae5c5adcc1018628932fcb7bbf537b2b325",
+        "sha256": "193f7f059b3e83ecf4bbe1da5717ea0cb78716734bfd6a39534481947580a9f3",
         "student_candidates": []
       }
     ],
@@ -427,7 +427,7 @@
   {
     "id": "aydintepeimamhatiportaokulu",
     "source_url": "https://aydintepeimamhatiportaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:36.618440+00:00",
+    "observed_at": "2026-10-01T14:25:37.733173+00:00",
     "year": null,
     "source_date": null,
     "students": 28,
@@ -452,7 +452,7 @@
   {
     "id": "bal",
     "source_url": "https://bal.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:36.640482+00:00",
+    "observed_at": "2026-10-01T14:25:37.812680+00:00",
     "year": null,
     "source_date": null,
     "students": 357,
@@ -477,7 +477,7 @@
   {
     "id": "bayburt75yilanaokulu",
     "source_url": "https://bayburt75yilanaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:36.677601+00:00",
+    "observed_at": "2026-10-01T14:25:37.820025+00:00",
     "year": null,
     "source_date": null,
     "students": 160,
@@ -502,7 +502,7 @@
   {
     "id": "bayburtaihl",
     "source_url": "https://bayburtaihl.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:36.679319+00:00",
+    "observed_at": "2026-10-01T14:25:37.902965+00:00",
     "year": null,
     "source_date": null,
     "students": 253,
@@ -527,7 +527,7 @@
   {
     "id": "bayburtataturk",
     "source_url": "https://bayburtataturk.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:36.684315+00:00",
+    "observed_at": "2026-10-01T14:25:37.977520+00:00",
     "year": null,
     "source_date": null,
     "students": 43,
@@ -552,7 +552,7 @@
   {
     "id": "bayburtbilsem",
     "source_url": "https://bayburtbilsem.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:36.703752+00:00",
+    "observed_at": "2026-10-01T14:25:38.113960+00:00",
     "year": null,
     "source_date": null,
     "students": 126,
@@ -577,7 +577,7 @@
   {
     "id": "bayburtcumhuriyetilkokulu",
     "source_url": "https://bayburtcumhuriyetilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:37.474614+00:00",
+    "observed_at": "2026-10-01T14:25:38.612413+00:00",
     "year": null,
     "source_date": null,
     "students": 441,
@@ -602,7 +602,7 @@
   {
     "id": "bayburtdagtarlailkokulu",
     "source_url": "https://bayburtdagtarlailkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:37.486407+00:00",
+    "observed_at": "2026-10-01T14:25:38.626599+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -640,7 +640,7 @@
   {
     "id": "bayburtdedekorkutilkokulu",
     "source_url": "https://bayburtdedekorkutilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:37.522713+00:00",
+    "observed_at": "2026-10-01T14:25:38.693634+00:00",
     "year": null,
     "source_date": null,
     "students": 55,
@@ -665,7 +665,7 @@
   {
     "id": "bayburteml",
     "source_url": "https://bayburteml.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:37.544364+00:00",
+    "observed_at": "2026-10-01T14:25:38.735966+00:00",
     "year": null,
     "source_date": null,
     "students": 779,
@@ -690,7 +690,7 @@
   {
     "id": "bayburterdembyztiho",
     "source_url": "https://bayburterdembyztiho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:37.555254+00:00",
+    "observed_at": "2026-10-01T14:25:38.827607+00:00",
     "year": null,
     "source_date": null,
     "students": 143,
@@ -716,7 +716,7 @@
   {
     "id": "bayburtfatihiho",
     "source_url": "https://bayburtfatihiho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:37.886344+00:00",
+    "observed_at": "2026-10-01T14:25:38.870367+00:00",
     "year": null,
     "source_date": null,
     "students": 15,
@@ -741,7 +741,7 @@
   {
     "id": "bayburtfatihoo",
     "source_url": "https://bayburtfatihoo.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:37.895144+00:00",
+    "observed_at": "2026-10-01T14:25:38.991873+00:00",
     "year": null,
     "source_date": null,
     "students": 119,
@@ -766,7 +766,7 @@
   {
     "id": "bayburtfenlisesi",
     "source_url": "https://bayburtfenlisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:38.381621+00:00",
+    "observed_at": "2026-10-01T14:25:39.655039+00:00",
     "year": null,
     "source_date": null,
     "students": 349,
@@ -791,7 +791,7 @@
   {
     "id": "bayburtgazilerortaokulu",
     "source_url": "https://bayburtgazilerortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:38.424630+00:00",
+    "observed_at": "2026-10-01T14:25:39.699632+00:00",
     "year": null,
     "source_date": null,
     "students": 142,
@@ -817,7 +817,7 @@
   {
     "id": "bayburtguzelsanatlarlisesi",
     "source_url": "https://bayburtguzelsanatlarlisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:38.443758+00:00",
+    "observed_at": "2026-10-01T14:25:39.700344+00:00",
     "year": null,
     "source_date": null,
     "students": 46,
@@ -842,7 +842,7 @@
   {
     "id": "bayburthem",
     "source_url": "https://bayburthem.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:38.457767+00:00",
+    "observed_at": "2026-10-01T14:25:39.771037+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -859,14 +859,14 @@
         "url": "https://bayburthem.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "d6e1d63047d79aba7fa0715418486102f8abed455767ecd500f4773d9f16de04",
+        "sha256": "8d59f67ab7d634092c39811e38b24b0ade58fa996d91ed79a84b85528a0d16f3",
         "student_candidates": []
       },
       {
         "url": "https://bayburthem.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "67d505e3f19468c2bbe50e141faba8122af9ea5d4c991bdaacd968d5b902de1e",
+        "sha256": "3373e3b6313930b86eb58da384e72fe72996377cd9770ed6ff4d94db298a54e4",
         "student_candidates": []
       }
     ],
@@ -878,7 +878,7 @@
   {
     "id": "bayburthocaahmetyeseviilkokulu",
     "source_url": "https://bayburthocaahmetyeseviilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:38.753512+00:00",
+    "observed_at": "2026-10-01T14:25:39.805901+00:00",
     "year": null,
     "source_date": null,
     "students": 167,
@@ -903,7 +903,7 @@
   {
     "id": "bayburtiho",
     "source_url": "https://bayburtiho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:38.763782+00:00",
+    "observed_at": "2026-10-01T14:25:39.894407+00:00",
     "year": null,
     "source_date": null,
     "students": 110,
@@ -913,7 +913,7 @@
         "url": "https://bayburtiho.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
-        "sha256": "df96fd69b18ce95b977686fd4b46bb827ebb0e9e628467dc0d94d95efc804bee",
+        "sha256": "2719381384cf81c0cb79a0fab68bd0ecf561b86ae31f724d38f75136d87c485f",
         "student_candidates": [
           110
         ]
@@ -928,7 +928,7 @@
   {
     "id": "bayburtkizaihl",
     "source_url": "https://bayburtkizaihl.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:39.072448+00:00",
+    "observed_at": "2026-10-01T14:25:40.540175+00:00",
     "year": null,
     "source_date": null,
     "students": 274,
@@ -953,7 +953,7 @@
   {
     "id": "bayburtkizilayanaokulu",
     "source_url": "https://bayburtkizilayanaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:39.249982+00:00",
+    "observed_at": "2026-10-01T14:25:40.592762+00:00",
     "year": null,
     "source_date": null,
     "students": 59,
@@ -978,7 +978,7 @@
   {
     "id": "bayburtlisesi",
     "source_url": "https://bayburtlisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:39.302704+00:00",
+    "observed_at": "2026-10-01T14:25:40.642641+00:00",
     "year": null,
     "source_date": null,
     "students": 465,
@@ -1003,7 +1003,7 @@
   {
     "id": "bayburtmadenilkokulu",
     "source_url": "https://bayburtmadenilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:39.360106+00:00",
+    "observed_at": "2026-10-01T14:25:40.778509+00:00",
     "year": null,
     "source_date": null,
     "students": 90,
@@ -1029,7 +1029,7 @@
   {
     "id": "bayburtmehmetakifersoy",
     "source_url": "https://bayburtmehmetakifersoy.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:39.628785+00:00",
+    "observed_at": "2026-10-01T14:25:40.816023+00:00",
     "year": null,
     "source_date": null,
     "students": 217,
@@ -1055,7 +1055,7 @@
   {
     "id": "bayburtmehmetakifersoyiho",
     "source_url": "https://bayburtmehmetakifersoyiho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:39.634720+00:00",
+    "observed_at": "2026-10-01T14:25:40.903615+00:00",
     "year": null,
     "source_date": null,
     "students": 61,
@@ -1081,7 +1081,7 @@
   {
     "id": "bayburtmesem",
     "source_url": "https://bayburtmesem.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:39.944053+00:00",
+    "observed_at": "2026-10-01T14:25:41.476951+00:00",
     "year": null,
     "source_date": null,
     "students": 148,
@@ -1106,7 +1106,7 @@
   {
     "id": "bayburtoeuokulu1kademe",
     "source_url": "https://bayburtoeuokulu1kademe.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:40.119400+00:00",
+    "observed_at": "2026-10-01T14:25:41.536628+00:00",
     "year": null,
     "source_date": null,
     "students": 6,
@@ -1131,7 +1131,7 @@
   {
     "id": "bayburtoeuokulu2kademe",
     "source_url": "https://bayburtoeuokulu2kademe.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:40.147705+00:00",
+    "observed_at": "2026-10-01T14:25:41.643162+00:00",
     "year": null,
     "source_date": null,
     "students": 10,
@@ -1156,7 +1156,7 @@
   {
     "id": "bayburtoeuokulu3kademe",
     "source_url": "https://bayburtoeuokulu3kademe.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:40.240832+00:00",
+    "observed_at": "2026-10-01T14:25:41.691009+00:00",
     "year": null,
     "source_date": null,
     "students": 27,
@@ -1181,7 +1181,7 @@
   {
     "id": "bayburtogretmenevi",
     "source_url": "https://bayburtogretmenevi.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:40.530296+00:00",
+    "observed_at": "2026-10-01T14:25:41.734889+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1198,14 +1198,14 @@
         "url": "https://bayburtogretmenevi.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "13ccb4729bf0125ec6c5a955350cb783ff99645f676d105c9c068ab4874b563e",
+        "sha256": "9ceb11e518c36b01151f5216e702e05a02d6df02c4f108674ace446340fe4994",
         "student_candidates": []
       },
       {
         "url": "https://bayburtogretmenevi.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "959868de05584e029ecf1e788b3234fb6586461e2457e5e02c2246f250c96958",
+        "sha256": "ac6ab4aee5c65b5bf1216edb817dce7c35ed7a13a76f76336bcdd6367bdced66",
         "student_candidates": []
       }
     ],
@@ -1217,7 +1217,7 @@
   {
     "id": "bayburtortaokulu",
     "source_url": "https://bayburtortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:40.541966+00:00",
+    "observed_at": "2026-10-01T14:25:41.803020+00:00",
     "year": null,
     "source_date": null,
     "students": 610,
@@ -1242,7 +1242,7 @@
   {
     "id": "bayburtozelegitimanaokulu",
     "source_url": "https://bayburtozelegitimanaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:40.826583+00:00",
+    "observed_at": "2026-10-01T14:25:42.377435+00:00",
     "year": null,
     "source_date": null,
     "students": 6,
@@ -1267,7 +1267,7 @@
   {
     "id": "bayburtozelegitimmeslekokulu",
     "source_url": "https://bayburtozelegitimmeslekokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:40.971725+00:00",
+    "observed_at": "2026-10-01T14:25:42.417843+00:00",
     "year": null,
     "source_date": null,
     "students": 26,
@@ -1292,7 +1292,7 @@
   {
     "id": "bayburtram",
     "source_url": "https://bayburtram.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:41.004926+00:00",
+    "observed_at": "2026-10-01T14:25:42.464152+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1309,14 +1309,14 @@
         "url": "https://bayburtram.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "9ce8d86109f37d26c28ce7fc4e287c8025bb3d00b76b0ca196a118632877d163",
+        "sha256": "e8819cd70d5e098e57a28fe9f460fd99dad2ad86cd75d27d358aa379fa4221b2",
         "student_candidates": []
       },
       {
         "url": "https://bayburtram.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "fb9a883cb23d7f7ea37ddc97dd29f674056b8e956825c4e4d1eea2a11ea02cc1",
+        "sha256": "56030868549e8af21573e0ee28fddf3d7e966231095aa71180626a1abe1cc667",
         "student_candidates": []
       }
     ],
@@ -1328,7 +1328,7 @@
   {
     "id": "bayburtsancaktepeiho",
     "source_url": "https://bayburtsancaktepeiho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:41.105521+00:00",
+    "observed_at": "2026-10-01T14:25:42.525996+00:00",
     "year": null,
     "source_date": null,
     "students": 41,
@@ -1353,7 +1353,7 @@
   {
     "id": "bayburtsancaktepeilkokulu",
     "source_url": "https://bayburtsancaktepeilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:41.114197+00:00",
+    "observed_at": "2026-10-01T14:25:42.532987+00:00",
     "year": null,
     "source_date": null,
     "students": 56,
@@ -1378,7 +1378,7 @@
   {
     "id": "bayburtsancaktepeortaokulu",
     "source_url": "https://bayburtsancaktepeortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:41.313679+00:00",
+    "observed_at": "2026-10-01T14:25:42.593530+00:00",
     "year": null,
     "source_date": null,
     "students": 20,
@@ -1388,7 +1388,7 @@
         "url": "https://bayburtsancaktepeortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
-        "sha256": "30c0b1a4b1aa00ed39aa02e775f5fb141ac1c5f75f60627ef93d4f112df2a6e8",
+        "sha256": "5080afdda4689b7df960b566983a0eb672ff72523c34b5bcd9b207ee8c8ae727",
         "student_candidates": [
           20
         ]
@@ -1404,7 +1404,7 @@
   {
     "id": "bayburtyolaltiio",
     "source_url": "https://bayburtyolaltiio.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:41.453966+00:00",
+    "observed_at": "2026-10-01T14:25:42.731416+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1442,7 +1442,7 @@
   {
     "id": "bayburtyoncaliio",
     "source_url": "https://bayburtyoncaliio.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:41.708590+00:00",
+    "observed_at": "2026-10-01T14:25:43.330811+00:00",
     "year": null,
     "source_date": null,
     "students": 3,
@@ -1467,7 +1467,7 @@
   {
     "id": "bayraktario",
     "source_url": "https://bayraktario.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:41.890326+00:00",
+    "observed_at": "2026-10-01T14:25:43.419541+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1504,7 +1504,7 @@
   {
     "id": "catiksuiho",
     "source_url": "https://catiksuiho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:41.970391+00:00",
+    "observed_at": "2026-10-01T14:25:43.438019+00:00",
     "year": null,
     "source_date": null,
     "students": 17,
@@ -1529,7 +1529,7 @@
   {
     "id": "catiksuilkokulu",
     "source_url": "https://catiksuilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:41.986995+00:00",
+    "observed_at": "2026-10-01T14:25:43.524557+00:00",
     "year": null,
     "source_date": null,
     "students": 35,
@@ -1554,7 +1554,7 @@
   {
     "id": "catiksuioo",
     "source_url": "https://catiksuioo.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:42.246799+00:00",
+    "observed_at": "2026-10-01T14:25:43.543785+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1592,7 +1592,7 @@
   {
     "id": "cigdemtepearaskargoilkokulu",
     "source_url": "https://cigdemtepearaskargoilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:42.586734+00:00",
+    "observed_at": "2026-10-01T14:25:44.236913+00:00",
     "year": null,
     "source_date": null,
     "students": 4,
@@ -1617,7 +1617,7 @@
   {
     "id": "coruhanaokulu",
     "source_url": "https://coruhanaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:42.825213+00:00",
+    "observed_at": "2026-10-01T14:25:44.250862+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1655,7 +1655,7 @@
   {
     "id": "coruhmtal",
     "source_url": "https://coruhmtal.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:42.874241+00:00",
+    "observed_at": "2026-10-01T14:25:44.307590+00:00",
     "year": null,
     "source_date": null,
     "students": 281,
@@ -1681,7 +1681,7 @@
   {
     "id": "danismentio",
     "source_url": "https://danismentio.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:43.126263+00:00",
+    "observed_at": "2026-10-01T14:25:44.415708+00:00",
     "year": null,
     "source_date": null,
     "students": 22,
@@ -1706,7 +1706,7 @@
   {
     "id": "dedekorkutiho",
     "source_url": "https://dedekorkutiho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:43.131675+00:00",
+    "observed_at": "2026-10-01T14:25:44.803331+00:00",
     "year": null,
     "source_date": null,
     "students": 55,
@@ -1731,7 +1731,7 @@
   {
     "id": "dedekorkutortaokulu",
     "source_url": "https://dedekorkutortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:43.293730+00:00",
+    "observed_at": "2026-10-01T14:25:44.960770+00:00",
     "year": null,
     "source_date": null,
     "students": 35,
@@ -1756,7 +1756,7 @@
   {
     "id": "demirozuhem",
     "source_url": "https://demirozuhem.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:43.730278+00:00",
+    "observed_at": "2026-10-01T14:25:45.223917+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1773,14 +1773,14 @@
         "url": "https://demirozuhem.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "8ec568bcac0bb74ea81f1f992fc47e521fc3a0b1a52701a4baaede47d0defd09",
+        "sha256": "a7f1511653f50cb8740e32e8d7a37a8cd714de2eab74fa3a6527cff13f7d8355",
         "student_candidates": []
       },
       {
         "url": "https://demirozuhem.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "152a4d9b1cfe7b748002042e909d60839205cd22580d6bab76d708ec16b3eb27",
+        "sha256": "cfebc042f0fd599e6546db7cdcac37ccc743cf3f3c10e61b5eb2db6ce65a78a5",
         "student_candidates": []
       }
     ],
@@ -1792,7 +1792,7 @@
   {
     "id": "demirozuimamhatip",
     "source_url": "https://demirozuimamhatip.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:43.993665+00:00",
+    "observed_at": "2026-10-01T14:25:45.324208+00:00",
     "year": null,
     "source_date": null,
     "students": 37,
@@ -1818,7 +1818,7 @@
   {
     "id": "demirozuio",
     "source_url": "https://demirozuio.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:44.002823+00:00",
+    "observed_at": "2026-10-01T14:25:45.742575+00:00",
     "year": null,
     "source_date": null,
     "students": 141,
@@ -1843,7 +1843,7 @@
   {
     "id": "demirozuortaokulu",
     "source_url": "https://demirozuortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:44.010540+00:00",
+    "observed_at": "2026-10-01T14:25:45.761245+00:00",
     "year": null,
     "source_date": null,
     "students": 106,
@@ -1868,7 +1868,7 @@
   {
     "id": "demirozuvhbanaokulu",
     "source_url": "https://demirozuvhbanaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:44.835515+00:00",
+    "observed_at": "2026-10-01T14:25:46.210607+00:00",
     "year": null,
     "source_date": null,
     "students": 52,
@@ -1893,7 +1893,7 @@
   {
     "id": "fatmaersoyanaokulu",
     "source_url": "https://fatmaersoyanaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:44.860237+00:00",
+    "observed_at": "2026-10-01T14:25:46.625137+00:00",
     "year": null,
     "source_date": null,
     "students": 159,
@@ -1918,7 +1918,7 @@
   {
     "id": "gazilerimamhatiportaokulu",
     "source_url": "https://gazilerimamhatiportaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:44.887351+00:00",
+    "observed_at": "2026-10-01T14:25:46.629819+00:00",
     "year": null,
     "source_date": null,
     "students": 6,
@@ -1943,7 +1943,7 @@
   {
     "id": "gencosmangencagaio",
     "source_url": "https://gencosmangencagaio.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:44.993577+00:00",
+    "observed_at": "2026-10-01T14:25:46.636131+00:00",
     "year": null,
     "source_date": null,
     "students": 2,
@@ -1968,7 +1968,7 @@
   {
     "id": "gokcedereanaokulu",
     "source_url": "https://gokcedereanaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:45.232705+00:00",
+    "observed_at": "2026-10-01T14:25:47.085313+00:00",
     "year": null,
     "source_date": null,
     "students": 26,
@@ -1993,7 +1993,7 @@
   {
     "id": "gokcederecokprogramlilisesi",
     "source_url": "https://gokcederecokprogramlilisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:45.680466+00:00",
+    "observed_at": "2026-10-01T14:25:47.375969+00:00",
     "year": null,
     "source_date": null,
     "students": 61,
@@ -2018,7 +2018,7 @@
   {
     "id": "gokcedereiho",
     "source_url": "https://gokcedereiho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:45.704114+00:00",
+    "observed_at": "2026-10-01T14:25:47.498210+00:00",
     "year": null,
     "source_date": null,
     "students": 115,
@@ -2044,7 +2044,7 @@
   {
     "id": "gokcedereilkokulu",
     "source_url": "https://gokcedereilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:45.749718+00:00",
+    "observed_at": "2026-10-01T14:25:47.506474+00:00",
     "year": null,
     "source_date": null,
     "students": 100,
@@ -2069,7 +2069,7 @@
   {
     "id": "gokcedereortaokulu",
     "source_url": "https://gokcedereortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:45.814830+00:00",
+    "observed_at": "2026-10-01T14:25:47.510938+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -2079,21 +2079,21 @@
         "url": "https://gokcedereortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
-        "sha256": "7306311995b4bfeae533867f4b4c9680bef77daf387f5ff6f9960b772dce2340",
+        "sha256": "cb054ce5fb4d98381e6c9637665b0007308180a030786c9bdf7a644687745056",
         "student_candidates": []
       },
       {
         "url": "https://gokcedereortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "62b678fd9a106349dc0a9976a0378974cd4c762628b531c47ab340b7cbb1bc6d",
+        "sha256": "cb346e19f73df1b6a41912e40ddc7a0ca66d747add38a182d52d8142ed15c119",
         "student_candidates": []
       },
       {
         "url": "https://gokcedereortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "9d57e0bce68a6cc3a6014e12f690ba439ad9acd33d295924babcbcfc1e885c34",
+        "sha256": "498fd7896a9c95068f854905d90efe51eda221942e8e3055c8092eabcebfde52",
         "student_candidates": []
       }
     ],
@@ -2105,7 +2105,7 @@
   {
     "id": "kaleardi75io",
     "source_url": "https://kaleardi75io.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:45.876557+00:00",
+    "observed_at": "2026-10-01T14:25:47.516197+00:00",
     "year": null,
     "source_date": null,
     "students": 134,
@@ -2130,7 +2130,7 @@
   {
     "id": "kaleardiilkokulu",
     "source_url": "https://kaleardiilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:46.109655+00:00",
+    "observed_at": "2026-10-01T14:25:47.864761+00:00",
     "year": null,
     "source_date": null,
     "students": 117,
@@ -2155,7 +2155,7 @@
   {
     "id": "kalecikimamhatip",
     "source_url": "https://kalecikimamhatip.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:46.262744+00:00",
+    "observed_at": "2026-10-01T14:25:47.971341+00:00",
     "year": null,
     "source_date": null,
     "students": 38,
@@ -2180,7 +2180,7 @@
   {
     "id": "kircicekleri",
     "source_url": "https://kircicekleri.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:46.497541+00:00",
+    "observed_at": "2026-10-01T14:25:48.034100+00:00",
     "year": null,
     "source_date": null,
     "students": 132,
@@ -2205,7 +2205,7 @@
   {
     "id": "kirkpinariho",
     "source_url": "https://kirkpinariho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:46.540387+00:00",
+    "observed_at": "2026-10-01T14:25:48.260171+00:00",
     "year": null,
     "source_date": null,
     "students": 55,
@@ -2230,7 +2230,7 @@
   {
     "id": "kirkpinarortaokulu",
     "source_url": "https://kirkpinarortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:46.547339+00:00",
+    "observed_at": "2026-10-01T14:25:48.396817+00:00",
     "year": null,
     "source_date": null,
     "students": 61,
@@ -2240,7 +2240,7 @@
         "url": "https://kirkpinarortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
-        "sha256": "0c66ea1e22d05159bca4f93ffe254d55d937fa1a458cb2ada3c0d9962fda4bfc",
+        "sha256": "304857235972a1959420b706896befec56474bba0de1ec17188495ebd895a853",
         "student_candidates": [
           61
         ]
@@ -2255,7 +2255,7 @@
   {
     "id": "klckilkokulu",
     "source_url": "https://klckilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:46.576447+00:00",
+    "observed_at": "2026-10-01T14:25:48.435627+00:00",
     "year": null,
     "source_date": null,
     "students": 31,
@@ -2280,7 +2280,7 @@
   {
     "id": "kopmtal",
     "source_url": "https://kopmtal.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:46.711318+00:00",
+    "observed_at": "2026-10-01T14:25:48.471090+00:00",
     "year": null,
     "source_date": null,
     "students": 200,
@@ -2305,7 +2305,7 @@
   {
     "id": "madenihoo",
     "source_url": "https://madenihoo.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:46.987064+00:00",
+    "observed_at": "2026-10-01T14:25:48.727472+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -2322,14 +2322,14 @@
         "url": "https://madenihoo.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "8167e8ef4e3f97620e0ae02e674d73e72363b87eb606a3aec3af8b270c2dda9f",
+        "sha256": "901cf06380a7228301dd506eca2ac4e2044509f2883451bfd253d90f5760285b",
         "student_candidates": []
       },
       {
         "url": "https://madenihoo.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "51629a63c5ee32b3b1e958f4f54757f483c967a3157c1a9bcbfb8c0b3138e761",
+        "sha256": "79e039191770b460bdd0360452fc6e23b263ad737f03346e6a7b69ce4701f31a",
         "student_candidates": []
       }
     ],
@@ -2342,7 +2342,7 @@
   {
     "id": "madenoo",
     "source_url": "https://madenoo.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:47.132820+00:00",
+    "observed_at": "2026-10-01T14:25:48.893733+00:00",
     "year": null,
     "source_date": null,
     "students": 63,
@@ -2368,7 +2368,7 @@
   {
     "id": "mahmutkemalyanbegilkokulu",
     "source_url": "https://mahmutkemalyanbegilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:47.372443+00:00",
+    "observed_at": "2026-10-01T14:25:48.935983+00:00",
     "year": null,
     "source_date": null,
     "students": 276,
@@ -2393,7 +2393,7 @@
   {
     "id": "mevkonursuiho",
     "source_url": "https://mevkonursuiho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:47.423837+00:00",
+    "observed_at": "2026-10-01T14:25:49.158339+00:00",
     "year": null,
     "source_date": null,
     "students": 10,
@@ -2418,7 +2418,7 @@
   {
     "id": "mevkonursuilkokulu",
     "source_url": "https://mevkonursuilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:47.532498+00:00",
+    "observed_at": "2026-10-01T14:25:49.305833+00:00",
     "year": null,
     "source_date": null,
     "students": 84,
@@ -2444,7 +2444,7 @@
   {
     "id": "mevkonursuortaokulu",
     "source_url": "https://mevkonursuortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:47.616706+00:00",
+    "observed_at": "2026-10-01T14:25:49.312912+00:00",
     "year": null,
     "source_date": null,
     "students": 75,
@@ -2469,7 +2469,7 @@
   {
     "id": "mustafakoseoglucpl",
     "source_url": "https://mustafakoseoglucpl.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:47.764313+00:00",
+    "observed_at": "2026-10-01T14:25:49.358264+00:00",
     "year": null,
     "source_date": null,
     "students": 98,
@@ -2495,7 +2495,7 @@
   {
     "id": "mutluilkokulu",
     "source_url": "https://mutluilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:48.069280+00:00",
+    "observed_at": "2026-10-01T14:25:49.763502+00:00",
     "year": null,
     "source_date": null,
     "students": 33,
@@ -2520,7 +2520,7 @@
   {
     "id": "nevzatkayailkokulu",
     "source_url": "https://nevzatkayailkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:48.148722+00:00",
+    "observed_at": "2026-10-01T14:25:49.833947+00:00",
     "year": null,
     "source_date": null,
     "students": 311,
@@ -2545,7 +2545,7 @@
   {
     "id": "nisantasiilkokulu",
     "source_url": "https://nisantasiilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:48.279754+00:00",
+    "observed_at": "2026-10-01T14:25:50.055396+00:00",
     "year": null,
     "source_date": null,
     "students": 16,
@@ -2570,7 +2570,7 @@
   {
     "id": "orucbeyliilkokulu",
     "source_url": "https://orucbeyliilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:48.307114+00:00",
+    "observed_at": "2026-10-01T14:25:50.227562+00:00",
     "year": null,
     "source_date": null,
     "students": 17,
@@ -2595,7 +2595,7 @@
   {
     "id": "rkbal",
     "source_url": "https://rkbal.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:48.368521+00:00",
+    "observed_at": "2026-10-01T14:25:50.240443+00:00",
     "year": null,
     "source_date": null,
     "students": 394,
@@ -2620,7 +2620,7 @@
   {
     "id": "saircelaliiho",
     "source_url": "https://saircelaliiho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:48.468161+00:00",
+    "observed_at": "2026-10-01T14:25:50.242802+00:00",
     "year": null,
     "source_date": null,
     "students": 9,
@@ -2646,7 +2646,7 @@
   {
     "id": "saircelaliortaokulu",
     "source_url": "https://saircelaliortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:48.609056+00:00",
+    "observed_at": "2026-10-01T14:25:50.244243+00:00",
     "year": null,
     "source_date": null,
     "students": 168,
@@ -2671,7 +2671,7 @@
   {
     "id": "sairzihni",
     "source_url": "https://sairzihni.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:48.929351+00:00",
+    "observed_at": "2026-10-01T14:25:50.649040+00:00",
     "year": null,
     "source_date": null,
     "students": 123,
@@ -2696,7 +2696,7 @@
   {
     "id": "sehitcemnuribasgulilkokulu",
     "source_url": "https://sehitcemnuribasgulilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:49.001184+00:00",
+    "observed_at": "2026-10-01T14:25:50.753755+00:00",
     "year": null,
     "source_date": null,
     "students": 461,
@@ -2721,7 +2721,7 @@
   {
     "id": "sehiterdaleraslanortaokulu",
     "source_url": "https://sehiterdaleraslanortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:49.014229+00:00",
+    "observed_at": "2026-10-01T14:25:50.811906+00:00",
     "year": null,
     "source_date": null,
     "students": 137,
@@ -2746,7 +2746,7 @@
   {
     "id": "sehitfatihkostikiho",
     "source_url": "https://sehitfatihkostikiho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:49.164946+00:00",
+    "observed_at": "2026-10-01T14:25:51.107913+00:00",
     "year": null,
     "source_date": null,
     "students": 84,
@@ -2771,7 +2771,7 @@
   {
     "id": "sehitfatihkostikio",
     "source_url": "https://sehitfatihkostikio.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:49.249466+00:00",
+    "observed_at": "2026-10-01T14:25:51.117331+00:00",
     "year": null,
     "source_date": null,
     "students": 78,
@@ -2796,7 +2796,7 @@
   {
     "id": "sehitfatihkostikoo",
     "source_url": "https://sehitfatihkostikoo.meb.k12.tr/tema/okulumuz_hakkinda.php",
-    "observed_at": "2026-10-01T14:25:49.317350+00:00",
+    "observed_at": "2026-10-01T14:25:51.124175+00:00",
     "year": null,
     "source_date": null,
     "students": 1,
@@ -2813,7 +2813,7 @@
         "url": "https://sehitfatihkostikoo.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "2c63b8114cbd9a477de29abe76cc19c25b2afc83c45a468c58a7aa8a0481aa65",
+        "sha256": "df324f1f728c6770eb4baed3e3250de8ead43c23b0294d6918d94447318b74f0",
         "student_candidates": [
           1
         ]
@@ -2829,7 +2829,7 @@
   {
     "id": "sehitgurcanyavuziho",
     "source_url": "https://sehitgurcanyavuziho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:49.469051+00:00",
+    "observed_at": "2026-10-01T14:25:51.148921+00:00",
     "year": null,
     "source_date": null,
     "students": 17,
@@ -2854,7 +2854,7 @@
   {
     "id": "sehithamitsahinilkokulu",
     "source_url": "https://sehithamitsahinilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:49.544938+00:00",
+    "observed_at": "2026-10-01T14:25:51.342153+00:00",
     "year": null,
     "source_date": null,
     "students": 214,
@@ -2879,7 +2879,7 @@
   {
     "id": "sehitlerimamhatiportaokulu",
     "source_url": "https://sehitlerimamhatiportaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:49.798815+00:00",
+    "observed_at": "2026-10-01T14:25:51.518929+00:00",
     "year": null,
     "source_date": null,
     "students": 51,
@@ -2905,7 +2905,7 @@
   {
     "id": "sehitlerortaokulu",
     "source_url": "https://sehitlerortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:49.829812+00:00",
+    "observed_at": "2026-10-01T14:25:51.660206+00:00",
     "year": null,
     "source_date": null,
     "students": 667,
@@ -2930,7 +2930,7 @@
   {
     "id": "sehitmeteokuriho",
     "source_url": "https://sehitmeteokuriho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:49.874085+00:00",
+    "observed_at": "2026-10-01T14:25:51.718405+00:00",
     "year": null,
     "source_date": null,
     "students": 42,
@@ -2955,7 +2955,7 @@
   {
     "id": "sehitmeteokurilkokulu",
     "source_url": "https://sehitmeteokurilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:50.028519+00:00",
+    "observed_at": "2026-10-01T14:25:51.887669+00:00",
     "year": null,
     "source_date": null,
     "students": 57,
@@ -2980,7 +2980,7 @@
   {
     "id": "sehitmeteokurortaokulu",
     "source_url": "https://sehitmeteokurortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:50.108737+00:00",
+    "observed_at": "2026-10-01T14:25:52.008040+00:00",
     "year": null,
     "source_date": null,
     "students": 146,
@@ -3006,7 +3006,7 @@
   {
     "id": "sehitrecepesiyokio",
     "source_url": "https://sehitrecepesiyokio.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:50.175035+00:00",
+    "observed_at": "2026-10-01T14:25:52.018091+00:00",
     "year": null,
     "source_date": null,
     "students": 360,
@@ -3031,7 +3031,7 @@
   {
     "id": "sehitrecepesiyokoo",
     "source_url": "https://sehitrecepesiyokoo.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:50.400186+00:00",
+    "observed_at": "2026-10-01T14:25:52.257197+00:00",
     "year": null,
     "source_date": null,
     "students": 275,
@@ -3056,7 +3056,7 @@
   {
     "id": "sehitsebahattinbozoiho",
     "source_url": "https://sehitsebahattinbozoiho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:50.662242+00:00",
+    "observed_at": "2026-10-01T14:25:52.416562+00:00",
     "year": null,
     "source_date": null,
     "students": 77,
@@ -3082,7 +3082,7 @@
   {
     "id": "sehitsebahattinbozooo",
     "source_url": "https://sehitsebahattinbozooo.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:50.704726+00:00",
+    "observed_at": "2026-10-01T14:25:52.533245+00:00",
     "year": null,
     "source_date": null,
     "students": 169,
@@ -3107,7 +3107,7 @@
   {
     "id": "sgyilkokulu",
     "source_url": "https://sgyilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:50.749533+00:00",
+    "observed_at": "2026-10-01T14:25:52.675893+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -3145,7 +3145,7 @@
   {
     "id": "soktayaltuntas",
     "source_url": "https://soktayaltuntas.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:50.880443+00:00",
+    "observed_at": "2026-10-01T14:25:52.755096+00:00",
     "year": null,
     "source_date": null,
     "students": 137,
@@ -3170,7 +3170,7 @@
   {
     "id": "suleymanersoyilkokulu",
     "source_url": "https://suleymanersoyilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:50.960382+00:00",
+    "observed_at": "2026-10-01T14:25:52.899011+00:00",
     "year": null,
     "source_date": null,
     "students": 377,
@@ -3195,7 +3195,7 @@
   {
     "id": "tahtiho",
     "source_url": "https://tahtiho.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:51.028940+00:00",
+    "observed_at": "2026-10-01T14:25:52.940948+00:00",
     "year": null,
     "source_date": null,
     "students": 22,
@@ -3220,7 +3220,7 @@
   {
     "id": "tahtilkokulu",
     "source_url": "https://tahtilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:51.057059+00:00",
+    "observed_at": "2026-10-01T14:25:53.043996+00:00",
     "year": null,
     "source_date": null,
     "students": 24,
@@ -3245,7 +3245,7 @@
   {
     "id": "tahtoo",
     "source_url": "https://tahtoo.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:51.284491+00:00",
+    "observed_at": "2026-10-01T14:25:53.161490+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -3255,21 +3255,21 @@
         "url": "https://tahtoo.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
-        "sha256": "b65df72266d2112cecaf5e3158c21cbc4b6f68674b597901155b6e62007002c3",
+        "sha256": "17e094a36cd630bc945213df7b133c3ca3680662ea544e2430472b5acfcddda1",
         "student_candidates": []
       },
       {
         "url": "https://tahtoo.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "c96660cdf8e4d87e0221715c3112d6e75833a7e12bf672d20191418da032e816",
+        "sha256": "55cf1ff1a68209083792a6bc6b2d9d120c73d8a61e8f777bd0206350461fe531",
         "student_candidates": []
       },
       {
         "url": "https://tahtoo.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "6f64dedd8ff44a3c2d310c729311e7f7d59fb8cdc86416ff9194afac2d98f16a",
+        "sha256": "30fd94da6e5081b1048b5f36eb29514de0c9c1f17d8a5ba0fd04db32008883e7",
         "student_candidates": []
       }
     ],
@@ -3281,7 +3281,7 @@
   {
     "id": "tasocagistailkokulu",
     "source_url": "https://tasocagistailkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:51.491642+00:00",
+    "observed_at": "2026-10-01T14:25:53.406518+00:00",
     "year": null,
     "source_date": null,
     "students": 16,
@@ -3306,7 +3306,7 @@
   {
     "id": "tobborenceilkokulu",
     "source_url": "https://tobborenceilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:51.542053+00:00",
+    "observed_at": "2026-10-01T14:25:53.418979+00:00",
     "year": null,
     "source_date": null,
     "students": 40,
@@ -3331,7 +3331,7 @@
   {
     "id": "tobborenceimamhatip",
     "source_url": "https://tobborenceimamhatip.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:51.739926+00:00",
+    "observed_at": "2026-10-01T14:25:53.639907+00:00",
     "year": null,
     "source_date": null,
     "students": 39,
@@ -3356,7 +3356,7 @@
   {
     "id": "tobborenceortaokulu",
     "source_url": "https://tobborenceortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:51.801336+00:00",
+    "observed_at": "2026-10-01T14:25:53.789649+00:00",
     "year": null,
     "source_date": null,
     "students": 79,
@@ -3381,7 +3381,7 @@
   {
     "id": "ugrakilkokulu",
     "source_url": "https://ugrakilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:51.802159+00:00",
+    "observed_at": "2026-10-01T14:25:53.799668+00:00",
     "year": null,
     "source_date": null,
     "students": 14,
@@ -3406,7 +3406,7 @@
   {
     "id": "veyselefendiortaokulu",
     "source_url": "https://veyselefendiortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:51.872351+00:00",
+    "observed_at": "2026-10-01T14:25:53.826026+00:00",
     "year": null,
     "source_date": null,
     "students": 27,
@@ -3432,7 +3432,7 @@
   {
     "id": "yunusemreortaokul",
     "source_url": "https://yunusemreortaokul.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:52.348175+00:00",
+    "observed_at": "2026-10-01T14:25:54.292606+00:00",
     "year": null,
     "source_date": null,
     "students": 133,
@@ -3457,7 +3457,7 @@
   {
     "id": "yzbsehitagahilkokulu",
     "source_url": "https://yzbsehitagahilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T14:25:52.396091+00:00",
+    "observed_at": "2026-10-01T14:25:54.366781+00:00",
     "year": null,
     "source_date": null,
     "students": 142,
