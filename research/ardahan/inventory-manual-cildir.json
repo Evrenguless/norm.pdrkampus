@@ -1,0 +1,135 @@
+{
+  "note": "Çıldır current state-school roster, reconciled 2026-10-01.",
+  "records": [
+    {
+      "province": "Ardahan",
+      "district": "Çıldır",
+      "name": "Çıldır Anaokulu",
+      "grade": "anaokulu",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Çıldır",
+      "name": "Aşık Şenlik İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Çıldır",
+      "name": "Çıldır İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Çıldır",
+      "name": "Eskibeyrehatun İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Çıldır",
+      "name": "Gölbelen İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Çıldır",
+      "name": "Gölebakan İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Çıldır",
+      "name": "Kurtkale İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Çıldır",
+      "name": "Öncül İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Çıldır",
+      "name": "Çıldır Anadolu İmam Hatip Lisesi",
+      "grade": "lise",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Çıldır",
+      "name": "Çıldır Çok Programlı Anadolu Lisesi",
+      "grade": "lise",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Çıldır",
+      "name": "Kurtkale Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Çıldır",
+      "name": "Şehit Öğretmen Sezgin Yolcu Yatılı Bölge Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Çıldır",
+      "name": "Şehit Taner Karadeniz Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    }
+  ]
+}
