@@ -95,6 +95,9 @@ def main():
     fallbacks = fallback_doc.get('records', {})
     manual_path = seed_path.with_name('inventory-manual.json')
     manual_doc = json.loads(manual_path.read_text()) if manual_path.exists() else {'records': []}
+    exclusion_path = seed_path.with_name('inventory-exclusions.json')
+    exclusion_doc = json.loads(exclusion_path.read_text()) if exclusion_path.exists() else {'ids': []}
+    excluded_ids = set(exclusion_doc.get('ids', []))
 
     results = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
@@ -110,6 +113,8 @@ def main():
             r['status'] = 'secondary_snapshot'
             r['secondary_source_url'] = fb.get('source_url')
             r['source_quality'] = fb.get('source_quality', 'secondary')
+
+    results = [r for r in results if r.get('id') not in excluded_ids]
 
     known_codes = {str(r.get('institution_code')) for r in results if r.get('institution_code')}
     known_names = {r.get('name') for r in results if r.get('name')}
