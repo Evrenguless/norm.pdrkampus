@@ -40,5 +40,11 @@
     "district": "Merkez",
     "name": "Şehit Türkmen Tekin Mesleki ve Teknik Anadolu Lisesi",
     "institution_code": "278307"
+  },
+  "senemogluortaokulu": {
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Senemoğlu Şehit İlyas Çapan Ortaokulu",
+    "institution_code": "700051"
   }
 }
