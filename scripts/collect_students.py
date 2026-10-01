@@ -48,7 +48,7 @@ def collect(url, overrides=None):
                 if m:
                     identity = m
                     break
-            if identity:
+            if identity and out.get('identity_source') != 'override':
                 district = identity[1].strip().replace('i̇','i').title()
                 school = re.split(r'\s{2,}|(?:T\.?C\.?\s*)?M[İI]LL[ÎİI]\s+EĞ[İI]T[İI]M', identity[2])[0].strip(' -–|')
                 out.update(province='Bayburt', district=district, name=school)
@@ -98,6 +98,8 @@ def main():
     exclusion_path = seed_path.with_name('inventory-exclusions.json')
     exclusion_doc = json.loads(exclusion_path.read_text()) if exclusion_path.exists() else {'ids': []}
     excluded_ids = set(exclusion_doc.get('ids', []))
+    target_path = seed_path.with_name('inventory-target.json')
+    target_doc = json.loads(target_path.read_text()) if target_path.exists() else {}
 
     results = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
@@ -130,8 +132,12 @@ def main():
     school_grades = {'anaokulu','ilkokul','ortaokul','imam_hatip_ortaokulu','lise','mesem','ozel_egitim'}
     school_rows = [r for r in results if r.get('grade') in school_grades]
     unresolved_schools = [r for r in school_rows if r.get('students') is None]
+    expected_school_records = target_doc.get('expected_school_records')
+    inventory_matches_target = expected_school_records is not None and len(school_rows) == expected_school_records
     summary = {
         'candidate_sites': len(urls),
+        'expected_school_records': expected_school_records,
+        'inventory_matches_target': inventory_matches_target,
         'inventory_records': len(results),
         'student_count_found': sum(r.get('students') is not None for r in results),
         'unresolved': sum(r.get('students') is None for r in results),
@@ -139,7 +145,7 @@ def main():
         'school_student_count_found': sum(r.get('students') is not None for r in school_rows),
         'school_unresolved': len(unresolved_schools),
         'unresolved_school_names': [r.get('name') for r in unresolved_schools],
-        'complete_province_inventory': len(manual_doc.get('records', [])) > 0,
+        'complete_province_inventory': inventory_matches_target,
         'unknown_academic_year': True,
         'note': 'Primary values are labelled public MEB school-page snapshots. Explicit fallback values are marked secondary_snapshot. Manual roster-only schools remain null until a count is verified.',
         'grades': {k:{'records':len(v), 'count_found':sum(r.get('students') is not None for r in v)} for k,v in grouped.items()}
