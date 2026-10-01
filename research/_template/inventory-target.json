@@ -1,0 +1,8 @@
+{
+  "province": "İL_ADI",
+  "checked_at": null,
+  "expected_school_records": null,
+  "source_quality": null,
+  "source_url": null,
+  "note": "Set expected_school_records only after reconciling a current province roster."
+}
