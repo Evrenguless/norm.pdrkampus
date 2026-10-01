@@ -1,0 +1,35 @@
+name: Refresh Bayburt school data
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/refresh-bayburt.yml"
+      - "scripts/collect_students.py"
+      - "research/bayburt/seeds.json"
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect all Bayburt candidate schools
+        run: python scripts/collect_students.py --seeds research/bayburt/seeds.json --output research/bayburt
+      - name: Commit refreshed snapshots
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add research/bayburt/students-by-grade.json research/bayburt/checkpoint.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "data: refresh Bayburt school snapshots"
+            git push
+          fi
