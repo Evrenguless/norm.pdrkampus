@@ -309,8 +309,8 @@ def main():
 
     if config.get("roster_authoritative") and manual_records:
         def roster_key(record):
-            district = (record.get("district") or "").casefold().replace("i̇", "i")
-            name = (record.get("name") or "").casefold().replace("i̇", "i")
+            district = (record.get("district") or "").casefold().replace("i̇", "i").replace("ı", "i")
+            name = (record.get("name") or "").casefold().replace("i̇", "i").replace("ı", "i")
             name = "".join(ch for ch in name if ch.isalnum())
             return district, name
 
