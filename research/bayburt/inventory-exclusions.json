@@ -1,0 +1,23 @@
+{
+  "note": "Current Bayburt roster reconciliation (checked 2026-10-01). These legacy/live endpoints are excluded from the current 125-school inventory because they are absent from the current province roster. Raw crawl evidence remains in checkpoint.json.",
+  "ids": [
+    "fatmaersoyanaokulu",
+    "bayburtguzelsanatlarlisesi"
+  ],
+  "records": [
+    {
+      "id": "fatmaersoyanaokulu",
+      "name": "Fatma Ersoy Anaokulu",
+      "reason": "absent_from_current_bayburt_roster",
+      "checked_at": "2026-10-01",
+      "roster_url": "https://www.okultanitimi.net/il/bayburt?do=il&link=bayburt"
+    },
+    {
+      "id": "bayburtguzelsanatlarlisesi",
+      "name": "Bayburt Güzel Sanatlar Lisesi",
+      "reason": "absent_from_current_bayburt_roster; current directory reports 0 beautiful-arts high schools for Bayburt",
+      "checked_at": "2026-10-01",
+      "roster_url": "https://www.okultanitimi.net/il/bayburt?do=il&link=bayburt"
+    }
+  ]
+}
