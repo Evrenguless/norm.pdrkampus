@@ -8,7 +8,7 @@ on:
       - "research/*/seeds.json"
       - "research/*/site-overrides.json"
       - "research/*/fallback-students.json"
-      - "research/*/inventory-manual.json"
+      - "research/*/inventory-manual*.json"
       - "research/*/inventory-exclusions.json"
       - "research/*/inventory-target.json"
       - "scripts/collect_students.py"
@@ -41,7 +41,6 @@ jobs:
           python-version: "3.12"
 
       - name: Select provinces
-        id: select
         shell: bash
         run: |
           set -euo pipefail
@@ -50,17 +49,15 @@ jobs:
             test -f "research/$INPUT/config.json"
             printf '%s\n' "$INPUT" > /tmp/provinces.txt
           elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            find research -mindepth 2 -maxdepth 2 -name config.json -printf '%h\n'               | sed 's#^research/##' | grep -v '^_template$' | sort -u > /tmp/provinces.txt
+            find research -mindepth 2 -maxdepth 2 -name config.json -printf '%h\n' | sed 's#^research/##' | grep -v '^_template$' | sort -u > /tmp/provinces.txt
           else
-            git diff --name-only HEAD^ HEAD               | sed -n 's#^research/\([^/]*\)/.*#\1#p'               | grep -v '^_template$' | sort -u > /tmp/provinces.txt || true
-            if git diff --name-only HEAD^ HEAD | grep -Eq '^(scripts/collect_students.py|scripts/run_all.py|.github/workflows/collect-changed-provinces.yml); then
-              find research -mindepth 2 -maxdepth 2 -name config.json -printf '%h\n'                 | sed 's#^research/##' | grep -v '^_template$' | sort -u > /tmp/provinces.txt
+            git diff --name-only HEAD^ HEAD | sed -n 's#^research/\([^/]*\)/.*#\1#p' | grep -v '^_template$' | sort -u > /tmp/provinces.txt || true
+            if git diff --name-only HEAD^ HEAD | grep -Eq '^(scripts/collect_students.py|scripts/run_all.py|[.]github/workflows/collect-changed-provinces.yml)$'; then
+              find research -mindepth 2 -maxdepth 2 -name config.json -printf '%h\n' | sed 's#^research/##' | grep -v '^_template$' | sort -u > /tmp/provinces.txt
             fi
           fi
+          touch /tmp/provinces.txt
           cat /tmp/provinces.txt
-          if [ ! -s /tmp/provinces.txt ]; then
-            echo "No configured province selected."
-          fi
 
       - name: Collect selected provinces
         shell: bash
@@ -68,53 +65,6 @@ jobs:
           set -euo pipefail
           while IFS= read -r SLUG; do
             [ -z "$SLUG" ] && continue
-            test -f "research/$SLUG/config.json"
-            python scripts/run_all.py --province "$SLUG"
-          done < /tmp/provinces.txt
-
-      - name: Commit refreshed datasets
-        shell: bash
-        run: |
-          set -euo pipefail
-          mkdir -p /tmp/province-results
-          while IFS= read -r SLUG; do
-            [ -z "$SLUG" ] && continue
-            mkdir -p "/tmp/province-results/$SLUG"
-            cp "research/$SLUG/students-by-grade.json" "/tmp/province-results/$SLUG/"
-            cp "research/$SLUG/checkpoint.json" "/tmp/province-results/$SLUG/"
-          done < /tmp/provinces.txt
-
-          git fetch origin main
-          git reset --hard origin/main
-
-          while IFS= read -r SLUG; do
-            [ -z "$SLUG" ] && continue
-            cp "/tmp/province-results/$SLUG/students-by-grade.json" "research/$SLUG/students-by-grade.json"
-            cp "/tmp/province-results/$SLUG/checkpoint.json" "research/$SLUG/checkpoint.json"
-            git add "research/$SLUG/students-by-grade.json" "research/$SLUG/checkpoint.json"
-          done < /tmp/provinces.txt
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --cached --quiet; then exit 0; fi
-          git commit -m "Refresh changed province school snapshots"
-          git push
-; then
-              find research -mindepth 2 -maxdepth 2 -name config.json -printf '%h\n'                 | sed 's#^research/##' | grep -v '^_template$' | sort -u > /tmp/provinces.txt
-            fi
-          fi
-          cat /tmp/provinces.txt
-          if [ ! -s /tmp/provinces.txt ]; then
-            echo "No configured province selected."
-          fi
-
-      - name: Collect selected provinces
-        shell: bash
-        run: |
-          set -euo pipefail
-          while IFS= read -r SLUG; do
-            [ -z "$SLUG" ] && continue
-            test -f "research/$SLUG/config.json"
             python scripts/run_all.py --province "$SLUG"
           done < /tmp/provinces.txt
 
