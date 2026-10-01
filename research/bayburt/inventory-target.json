@@ -1,0 +1,8 @@
+{
+  "province": "Bayburt",
+  "checked_at": "2026-10-01",
+  "expected_school_records": 125,
+  "source_quality": "secondary_meb-derived_current_roster",
+  "source_url": "https://www.okultanitimi.net/il/bayburt?do=il&link=bayburt",
+  "note": "Expected active-school inventory used only for completeness reconciliation. Student counts remain source-backed per school and may be null when no current labelled count is published."
+}
