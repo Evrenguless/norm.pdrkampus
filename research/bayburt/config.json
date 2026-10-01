@@ -1,0 +1,11 @@
+{
+  "province": "Bayburt",
+  "districts": [
+    "Merkez",
+    "Aydıntepe",
+    "Demirözü"
+  ],
+  "seeds": "seeds.json",
+  "output": ".",
+  "max_workers": 8
+}
