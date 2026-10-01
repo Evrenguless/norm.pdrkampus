@@ -50,10 +50,13 @@ def collect(url,overrides=None):
  return out
 
 def main():
- ap=argparse.ArgumentParser();ap.add_argument('--seeds',required=True);ap.add_argument('--output',required=True);args=ap.parse_args();urls=json.loads(pathlib.Path(args.seeds).read_text());root=pathlib.Path(args.output);root.mkdir(parents=True,exist_ok=True)
+ ap=argparse.ArgumentParser();ap.add_argument('--seeds',required=True);ap.add_argument('--output',required=True);args=ap.parse_args()
+ seed_path=pathlib.Path(args.seeds);urls=json.loads(seed_path.read_text());root=pathlib.Path(args.output);root.mkdir(parents=True,exist_ok=True)
+ override_path=seed_path.with_name('site-overrides.json')
+ overrides=json.loads(override_path.read_text()) if override_path.exists() else {}
  results=[]
  with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
-  for r in pool.map(collect,urls):
+  for r in pool.map(lambda u:collect(u,overrides),urls):
    results.append(r);(root/'checkpoint.json').write_text(json.dumps(results,ensure_ascii=False,indent=2))
  grouped={}
  for r in results:grouped.setdefault(r['grade'] or 'siniflandirilamayan',[]).append(r)
