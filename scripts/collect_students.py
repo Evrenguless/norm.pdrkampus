@@ -213,6 +213,67 @@ def collect(url, province, districts, overrides=None):
     return out
 
 
+def slugify(value):
+    table = str.maketrans("çğıöşüÇĞİÖŞÜ", "cgiosuCGIOSU")
+    value = (value or "").translate(table).casefold().replace("ı", "i")
+    return "".join(ch for ch in value if ch.isalnum())
+
+
+def secondary_candidates(record, province):
+    base = slugify(record.get("name"))
+    district = slugify(record.get("district"))
+    province_slug = slugify(province)
+    stems = {base}
+    for suffix in (
+        "ilkokulu", "ortaokulu", "anaokulu", "lisesi",
+        "meslekiveteknikanadolulisesi", "anadolulisesi"
+    ):
+        if base.endswith(suffix):
+            stems.add(base[:-len(suffix)])
+    if base.startswith("merkez"):
+        stems.add(base[len("merkez"):])
+    candidates = []
+    for stem in stems:
+        for slug in (stem, district + stem, province_slug + stem):
+            if slug and slug not in candidates:
+                candidates.append(slug)
+    return candidates
+
+
+def secondary_lookup(record, province):
+    if record.get("students") is not None:
+        return record
+    expected_name = slugify(record.get("name"))
+    expected_district = slugify(record.get("district"))
+    for slug in secondary_candidates(record, province):
+        url = f"https://www.okullarhakkinda.com/{slug}.html"
+        try:
+            req = urllib.request.Request(
+                url, headers={"User-Agent": "PDRNormResearch/2.0 (public school statistics)"}
+            )
+            with urllib.request.urlopen(req, timeout=5) as response:
+                body = response.read(1024 * 1024).decode("utf-8", "replace")
+            text = plain(body)
+            compact = slugify(text[:8000])
+            if slugify(province) not in compact or expected_district not in compact:
+                continue
+            if expected_name not in compact:
+                continue
+            match = re.search(r"Öğrenci Sayısı *: *([0-9]+)", text, re.I)
+            if not match:
+                continue
+            out = dict(record)
+            out["students"] = int(match.group(1))
+            out["status"] = "secondary_snapshot_auto"
+            out["source_quality"] = "secondary_meb_derived_directory"
+            out["secondary_source_url"] = url
+            out["evidence"] = match.group(0)
+            return out
+        except Exception:
+            continue
+    return record
+
+
 def load_json(path, default):
     return json.loads(path.read_text()) if path.exists() else default
 
@@ -335,6 +396,19 @@ def main():
 
         results = list(roster.values()) + non_school_live
         manual_records = []
+
+    if config.get("secondary_auto_fallback"):
+        unresolved_indexes = [
+            i for i, record in enumerate(results)
+            if record.get("grade") in SCHOOL_GRADES and record.get("students") is None
+        ]
+        with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as pool:
+            refreshed = pool.map(
+                lambda i: secondary_lookup(results[i], province),
+                unresolved_indexes,
+            )
+            for i, record in zip(unresolved_indexes, refreshed):
+                results[i] = record
 
     known_codes = {
         str(result.get("institution_code"))
