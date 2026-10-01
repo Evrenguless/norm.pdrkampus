@@ -1,15 +1,15 @@
 {
   "summary": {
     "province": "Ardahan",
-    "candidate_sites": 262,
+    "candidate_sites": 267,
     "expected_school_records": 167,
     "inventory_matches_target": true,
     "inventory_records": 359,
-    "student_count_found": 64,
-    "unresolved": 295,
+    "student_count_found": 70,
+    "unresolved": 289,
     "school_records": 167,
-    "school_student_count_found": 63,
-    "school_unresolved": 104,
+    "school_student_count_found": 69,
+    "school_unresolved": 98,
     "unresolved_school_names": [
       "Eskibeyrehatun İlkokulu",
       "Gölbelen İlkokulu",
@@ -28,9 +28,7 @@
       "Otağlı Ortaokulu",
       "Seyitören Ortaokulu",
       "Çalıdere İlkokulu",
-      "Çardaklı İlkokulu",
       "Çobanköy Ateşsan Naim Ateş İlkokulu",
-      "Dedekılıcı İlkokulu",
       "Durançam İlkokulu",
       "Kayaaltı İlkokulu",
       "Köprülü Şehit Jandarma Er Şerafettin Özdağ İlkokulu",
@@ -50,16 +48,12 @@
       "Yeniköy İlkokulu",
       "Göle Bedirhan Bey Anadolu İmam Hatip Lisesi",
       "Göle Özel Eğitim Uygulama Okulu III. Kademe",
-      "Çardaklı Ortaokulu",
       "Göle Özel Eğitim Uygulama Okulu II. Kademe",
       "Köprülü Şehit Jandarma Er Şerafettin Özdağ Ortaokulu",
       "Kuytuca Erkunt Traktör Sanayi A.Ş. Ortaokulu",
       "Şehit Er Gültekin Saraç Ortaokulu",
-      "Senemoğlu Şehit İlyas Çapan Ortaokulu",
-      "Atatürk İlkokulu",
       "Çiçeklidağ İlkokulu",
       "Şehit Serhat Yılmaz Anadolu İmam Hatip Lisesi",
-      "Çiçeklidağ Ortaokulu",
       "Cemal ve Zekiye Vatan Özel Eğitim Anaokulu",
       "Gazi Atalay Ürker Anaokulu",
       "Kardelen Anaokulu",
@@ -126,7 +120,7 @@
       },
       "ilkokul": {
         "records": 75,
-        "count_found": 20
+        "count_found": 23
       },
       "lise": {
         "records": 23,
@@ -134,7 +128,7 @@
       },
       "ortaokul": {
         "records": 49,
-        "count_found": 20
+        "count_found": 23
       },
       "ozel_egitim": {
         "records": 8,
@@ -173,7 +167,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://cildiranaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:26.354972+00:00",
+        "observed_at": "2026-10-01T15:38:40.190894+00:00",
         "evidence": "3 Öğretmen Sayısı 3 Öğrenci Sayısı 50 İletişim Adres: Yeni Mah. Evr",
         "attempts": [
           {
@@ -207,7 +201,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://saadetulusanaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:32.849166+00:00",
+        "observed_at": "2026-10-01T15:38:45.170282+00:00",
         "evidence": "3 Öğretmen Sayısı 3 Öğrenci Sayısı 49 İletişim Adres: SALİM BEY MAH",
         "attempts": [
           {
@@ -231,7 +225,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://hanakanaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:28.633121+00:00",
+        "observed_at": "2026-10-01T15:38:41.753992+00:00",
         "evidence": " Öğretmen Sayısı: 4 Öğrenci Sayısı: 35 Menü  Ana Sayfa Menü Level 1",
         "attempts": [
           {
@@ -275,7 +269,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://sehitcanercelikanaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:32.925383+00:00",
+        "observed_at": "2026-10-01T15:38:45.214380+00:00",
         "evidence": " Öğretmen Sayısı: 2 Öğrenci Sayısı: 22 Menü  Ana Sayfa Menü Level 1",
         "attempts": [
           {
@@ -299,7 +293,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://766932.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:16.944240+00:00",
+        "observed_at": "2026-10-01T15:38:32.335837+00:00",
         "evidence": " Öğretmen Sayısı: 5 Öğrenci Sayısı: 53 Menü  Ana Sayfa Menü Level 1",
         "attempts": [
           {
@@ -323,7 +317,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://ardahanzubeydehanimao.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:25.695983+00:00",
+        "observed_at": "2026-10-01T15:38:39.398493+00:00",
         "evidence": " Öğretmen Sayısı: 7 Öğrenci Sayısı: 119 Menü  Ana Sayfa Menü Level 1",
         "attempts": [
           {
@@ -347,7 +341,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://posofanaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:31.781588+00:00",
+        "observed_at": "2026-10-01T15:38:44.418526+00:00",
         "evidence": " Öğretmen Sayısı: 8 Öğrenci Sayısı: 66 Menü  Ana Sayfa Menü Level 1",
         "attempts": [
           {
@@ -373,7 +367,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://asiksenlikilkokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:26.322484+00:00",
+        "observed_at": "2026-10-01T15:38:39.478183+00:00",
         "evidence": "9 Öğretmen Sayısı 6 Öğrenci Sayısı 90 İLETİŞİM Adres: Suhara Mah. U",
         "attempts": [
           {
@@ -397,7 +391,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://cildirilkokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:26.573351+00:00",
+        "observed_at": "2026-10-01T15:38:40.593638+00:00",
         "evidence": " Öğretmen Sayısı 12 Öğrenci Sayısı 138 İletişim Adres: Eşmepınar Köy",
         "attempts": [
           {
@@ -461,7 +455,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://768130.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:17.950101+00:00",
+        "observed_at": "2026-10-01T15:38:33.085156+00:00",
         "evidence": "2 Öğretmen Sayısı 1 Öğrenci Sayısı 7 İletişim Adres: ÖNCÜL KÖYÜ ÖN",
         "attempts": [
           {
@@ -515,7 +509,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://damalotagliio.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:27.386878+00:00",
+        "observed_at": "2026-10-01T15:38:40.777061+00:00",
         "evidence": " Öğretmen Sayısı: 3 Öğrenci Sayısı: 32 Menü  Ana Sayfa Menü Level 1",
         "attempts": [
           {
@@ -555,10 +549,24 @@
         "district": "Göle",
         "name": "Çardaklı İlkokulu",
         "grade": "ilkokul",
-        "students": null,
-        "status": "confirmed_in_current_roster",
-        "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+        "students": 77,
+        "status": "source_snapshot_homepage",
+        "source_url": "https://cardakliio.meb.k12.tr/",
+        "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+        "observed_at": "2026-10-01T15:38:40.077354+00:00",
+        "evidence": " Öğretmen Sayısı: 7 Öğrenci Sayısı: 77 Menü  Ana Sayfa Menü Level 1",
+        "attempts": [
+          {
+            "url": "https://cardakliio.meb.k12.tr/",
+            "page": "homepage",
+            "status": "fetched",
+            "sha256": "fcc2187b3c400a7fd848fee9fedac3afa86ee0bcf4e28ed9908fe075583a3cdc",
+            "student_candidates": [
+              77
+            ]
+          }
+        ],
+        "id": "cardakliio"
       },
       {
         "province": "Ardahan",
@@ -575,10 +583,24 @@
         "district": "Göle",
         "name": "Dedekılıcı İlkokulu",
         "grade": "ilkokul",
-        "students": null,
-        "status": "confirmed_in_current_roster",
-        "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+        "students": 31,
+        "status": "source_snapshot_homepage",
+        "source_url": "https://dedekiliciilkokulu.meb.k12.tr/",
+        "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+        "observed_at": "2026-10-01T15:38:40.789525+00:00",
+        "evidence": "2 Öğretmen Sayısı 2 Öğrenci Sayısı 31 İLETİŞİM Adres: Dedekılıcı Kö",
+        "attempts": [
+          {
+            "url": "https://dedekiliciilkokulu.meb.k12.tr/",
+            "page": "homepage",
+            "status": "fetched",
+            "sha256": "557ebcd901c3b618b8c3261110923d1d43f849c021d2940d7c010bda7be6e177",
+            "student_candidates": [
+              31
+            ]
+          }
+        ],
+        "id": "dedekiliciilkokulu"
       },
       {
         "province": "Ardahan",
@@ -589,7 +611,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://dolekcayirilkokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:27.390502+00:00",
+        "observed_at": "2026-10-01T15:38:40.943375+00:00",
         "evidence": " Öğretmen Sayısı: 3 Öğrenci Sayısı: 27 Menü  Ana Sayfa Menü Level 1",
         "attempts": [
           {
@@ -623,7 +645,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://enveravcilkokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:27.402992+00:00",
+        "observed_at": "2026-10-01T15:38:40.986936+00:00",
         "evidence": "Öğretmen Sayısı : 8 Öğrenci Sayısı : 125 Devamı İletişim Telefon : 047",
         "attempts": [
           {
@@ -647,7 +669,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://703602.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:36:58.444698+00:00",
+        "observed_at": "2026-10-01T15:38:17.570568+00:00",
         "evidence": " Öğretmen Sayısı: 2 Öğrenci Sayısı: 23 Menü  Ana Sayfa Menü Level 1",
         "attempts": [
           {
@@ -671,7 +693,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://sehittayfurhancerilkokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:33.949329+00:00",
+        "observed_at": "2026-10-01T15:38:45.958669+00:00",
         "evidence": "Öğretmen Sayısı: 11 Öğrenci Sayısı: 167 Menü  Ana Sayfa Menü Level 1",
         "attempts": [
           {
@@ -695,7 +717,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://huseyingedikio.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:29.715523+00:00",
+        "observed_at": "2026-10-01T15:38:42.923367+00:00",
         "evidence": " Öğretmen Sayısı 17 Öğrenci Sayısı 173 İletişim Adres: Kazım Karabek",
         "attempts": [
           {
@@ -719,7 +741,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://karliyaziilkokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:29.798121+00:00",
+        "observed_at": "2026-10-01T15:38:43.070587+00:00",
         "evidence": "3 Öğretmen Sayısı 1 Öğrenci Sayısı 11 İLETİŞİM Adres: KARLIYAZI KÖY",
         "attempts": [
           {
@@ -813,7 +835,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://arpasenibrahimozturkilkokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:26.118986+00:00",
+        "observed_at": "2026-10-01T15:38:39.460359+00:00",
         "evidence": "Öğretmen Sayısı : 7 Öğrenci Sayısı : 55 Devamı İletişim Telefon : 047",
         "attempts": [
           {
@@ -907,7 +929,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://tahtakiranilkokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:34.706481+00:00",
+        "observed_at": "2026-10-01T15:38:46.164227+00:00",
         "evidence": "2 Öğretmen Sayısı 2 Öğrenci Sayısı 12 İletişim Adres: Tahtakıran Kö",
         "attempts": [
           {
@@ -947,10 +969,24 @@
         "district": "Hanak",
         "name": "Atatürk İlkokulu",
         "grade": "ilkokul",
-        "students": null,
-        "status": "confirmed_in_current_roster",
-        "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+        "students": 143,
+        "status": "source_snapshot_homepage",
+        "source_url": "https://hanakataturkilkokulu.meb.k12.tr/",
+        "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+        "observed_at": "2026-10-01T15:38:42.129129+00:00",
+        "evidence": "Öğretmen Sayısı: 18 Öğrenci Sayısı: 143 Menü  Ana Sayfa Menü Level 1",
+        "attempts": [
+          {
+            "url": "https://hanakataturkilkokulu.meb.k12.tr/",
+            "page": "homepage",
+            "status": "fetched",
+            "sha256": "e71c7ed226b77a1d1a8eb2598432175444b97f9992115364435f1144bb96a681",
+            "student_candidates": [
+              143
+            ]
+          }
+        ],
+        "id": "hanakataturkilkokulu"
       },
       {
         "province": "Ardahan",
@@ -971,7 +1007,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://hanaksadiyeveabdullahtanilkokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:29.534224+00:00",
+        "observed_at": "2026-10-01T15:38:42.504065+00:00",
         "evidence": " Öğretmen Sayısı: 6 Öğrenci Sayısı: 56 Menü  Ana Sayfa Menü Level 1",
         "attempts": [
           {
@@ -995,7 +1031,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://23subatilkokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:36:50.604787+00:00",
+        "observed_at": "2026-10-01T15:38:11.062713+00:00",
         "evidence": "ğretmen Sayısı : 22 Öğrenci Sayısı : 608 Devamı İletişim Telefon : 047",
         "attempts": [
           {
@@ -1019,7 +1055,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://merkezataturkilkokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:30.650860+00:00",
+        "observed_at": "2026-10-01T15:38:43.669634+00:00",
         "evidence": "Öğretmen Sayısı : 3 Öğrenci Sayısı : 50 Devamı İletişim Telefon : 047",
         "attempts": [
           {
@@ -1103,7 +1139,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://hocvanhaskoyataturkio.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:29.579593+00:00",
+        "observed_at": "2026-10-01T15:38:42.915020+00:00",
         "evidence": "slik: 7 Öğretmen: 4 Öğrenci: 53 İletişim RSS Site Haritası © ",
         "attempts": [
           {
@@ -1127,7 +1163,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://merkezinonuilkokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:30.772734+00:00",
+        "observed_at": "2026-10-01T15:38:43.699615+00:00",
         "evidence": " Öğretmen Sayısı 29 Öğrenci Sayısı 611 İletişim Adres: KARAGÖL MAH. ",
         "attempts": [
           {
@@ -1171,7 +1207,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://ardahanhalitpasailkokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:25.024905+00:00",
+        "observed_at": "2026-10-01T15:38:38.730895+00:00",
         "evidence": "8 Öğretmen Sayısı 9 Öğrenci Sayısı 159 İLETİŞİM Adres: ATATÜRK MAH. ",
         "attempts": [
           {
@@ -1315,7 +1351,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://ardahanmehmetakifersoyilkokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:25.257685+00:00",
+        "observed_at": "2026-10-01T15:38:39.095228+00:00",
         "evidence": " Öğretmen Sayısı 11 Öğrenci Sayısı 185 İLETİŞİM Adres: İNÖNÜ MAH. BE",
         "attempts": [
           {
@@ -1369,7 +1405,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://posofilkokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:31.848272+00:00",
+        "observed_at": "2026-10-01T15:38:44.466895+00:00",
         "evidence": " Öğretmen Sayısı 13 Öğrenci Sayısı 175 İLETİŞİM Adres: MERKEZ MAH. A",
         "attempts": [
           {
@@ -1405,7 +1441,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://cildirihl.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:26.488761+00:00",
+        "observed_at": "2026-10-01T15:38:40.216740+00:00",
         "evidence": "ğretmen Sayısı : 11 Öğrenci Sayısı : 72 Devamı İletişim Telefon : (04",
         "attempts": [
           {
@@ -1429,7 +1465,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://cildirlisesi.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:27.213152+00:00",
+        "observed_at": "2026-10-01T15:38:40.664149+00:00",
         "evidence": " Öğretmen Sayısı 27 Öğrenci Sayısı 171 İLETİŞİM Adres: DEDEKORKUT MA",
         "attempts": [
           {
@@ -1463,7 +1499,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://escarmiklianadolulisesi.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:27.590511+00:00",
+        "observed_at": "2026-10-01T15:38:41.358806+00:00",
         "evidence": " Öğretmen Sayısı 15 Öğrenci Sayısı 193 İLETİŞİM Adres: Fevzi Çakmak ",
         "attempts": [
           {
@@ -1497,7 +1533,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://golekizmeslek.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:28.446440+00:00",
+        "observed_at": "2026-10-01T15:38:41.536110+00:00",
         "evidence": " Öğretmen Sayısı 15 Öğrenci Sayısı 84 İletişim Adres: Kubilay Bey M",
         "attempts": [
           {
@@ -1522,7 +1558,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://goleasml.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:27.660346+00:00",
+        "observed_at": "2026-10-01T15:38:41.364499+00:00",
         "evidence": "ğretmen Sayısı : 11 Öğrenci Sayısı : 122 Devamı İletişim Telefon : (47",
         "attempts": [
           {
@@ -1547,7 +1583,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://golekazimkarabekirpasamtal.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:28.270690+00:00",
+        "observed_at": "2026-10-01T15:38:41.511821+00:00",
         "evidence": "ğretmen Sayısı : 28 Öğrenci Sayısı : 203 Devamı İletişim Telefon : 90 ",
         "attempts": [
           {
@@ -1571,7 +1607,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://nilufergolesosyalbilimlerlisesi.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:31.426128+00:00",
+        "observed_at": "2026-10-01T15:38:43.917817+00:00",
         "evidence": " Öğretmen Sayısı 24 Öğrenci Sayısı 271 İLETİŞİM Adres: Fevzi Çakmak ",
         "attempts": [
           {
@@ -1595,7 +1631,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://hanakcpl.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:28.737074+00:00",
+        "observed_at": "2026-10-01T15:38:42.315409+00:00",
         "evidence": " Öğretmen Sayısı 14 Öğrenci Sayısı 99 İletişim Adres: SELAM VERDİ M",
         "attempts": [
           {
@@ -1649,7 +1685,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://rekabetkurumuanadolulisesi.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:32.744059+00:00",
+        "observed_at": "2026-10-01T15:38:44.801930+00:00",
         "evidence": " Öğretmen Sayısı 19 Öğrenci Sayısı 200 İletişim Adres: ATATÜRK MAH. ",
         "attempts": [
           {
@@ -1683,7 +1719,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://ardahanyunusemreanadolulisesi.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:25.411140+00:00",
+        "observed_at": "2026-10-01T15:38:39.347848+00:00",
         "evidence": "ğretmen Sayısı : 25 Öğrenci Sayısı : 263 Devamı İletişim Telefon : 047",
         "attempts": [
           {
@@ -1737,7 +1773,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://meslekveteknikanadolulisesi.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:31.402664+00:00",
+        "observed_at": "2026-10-01T15:38:43.796307+00:00",
         "evidence": "ğretmen Sayısı : 32 Öğrenci Sayısı : 228 Devamı İletişim Telefon : 0 (",
         "attempts": [
           {
@@ -1762,7 +1798,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://sehitibrahimerdoganmtal.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:33.831975+00:00",
+        "observed_at": "2026-10-01T15:38:45.564468+00:00",
         "evidence": "ğretmen Sayısı : 21 Öğrenci Sayısı : 254 Devamı İletişim Telefon : (04",
         "attempts": [
           {
@@ -1786,7 +1822,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://posoflisesi.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:32.557394+00:00",
+        "observed_at": "2026-10-01T15:38:44.676743+00:00",
         "evidence": "ğretmen Sayısı : 10 Öğrenci Sayısı : 71 Devamı İletişim Telefon : (47",
         "attempts": [
           {
@@ -1862,7 +1898,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://damalcsdoo.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:27.384454+00:00",
+        "observed_at": "2026-10-01T15:38:40.713594+00:00",
         "evidence": " Öğretmen Sayısı 10 Öğrenci Sayısı 127 İletişim Adres: SERHAT MAH. K",
         "attempts": [
           {
@@ -1906,7 +1942,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://30eylulortaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:36:53.887916+00:00",
+        "observed_at": "2026-10-01T15:38:14.091076+00:00",
         "evidence": " Öğretmen Sayısı 19 Öğrenci Sayısı 278 İLETİŞİM Adres: SALİM BEY MAH",
         "attempts": [
           {
@@ -1930,7 +1966,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://borsaistanbulybo.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:26.345254+00:00",
+        "observed_at": "2026-10-01T15:38:39.903872+00:00",
         "evidence": " Öğretmen Sayısı 14 Öğrenci Sayısı 58 İletişim Adres: SALİM BEY MAH",
         "attempts": [
           {
@@ -1951,10 +1987,24 @@
         "district": "Göle",
         "name": "Çardaklı Ortaokulu",
         "grade": "ortaokul",
-        "students": null,
-        "status": "confirmed_in_current_roster",
-        "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+        "students": 49,
+        "status": "source_snapshot_homepage",
+        "source_url": "https://cardakli.meb.k12.tr/",
+        "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+        "observed_at": "2026-10-01T15:38:40.010942+00:00",
+        "evidence": "Öğretmen Sayısı : 8 Öğrenci Sayısı : 49 Devamı İletişim Telefon : 047",
+        "attempts": [
+          {
+            "url": "https://cardakli.meb.k12.tr/",
+            "page": "homepage",
+            "status": "fetched",
+            "sha256": "d4e20f54bc212cd7ca47b973437713a6dbd166388bc70135e652d37735dc32ab",
+            "student_candidates": [
+              49
+            ]
+          }
+        ],
+        "id": "cardakli"
       },
       {
         "province": "Ardahan",
@@ -1965,7 +2015,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://atessannaimatesortaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:26.335313+00:00",
+        "observed_at": "2026-10-01T15:38:39.840993+00:00",
         "evidence": "5 Öğretmen Sayısı 9 Öğrenci Sayısı 39 İletişim Adres: ÇOBANKÖY KÖYÜ",
         "attempts": [
           {
@@ -1989,7 +2039,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://kayaaltiortaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:30.382152+00:00",
+        "observed_at": "2026-10-01T15:38:43.164268+00:00",
         "evidence": "Öğretmen Sayısı : 8 Öğrenci Sayısı : 46 Devamı İletişim Telefon : 047",
         "attempts": [
           {
@@ -2023,7 +2073,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://koyunluortaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:30.636593+00:00",
+        "observed_at": "2026-10-01T15:38:43.294773+00:00",
         "evidence": "Öğretmen Sayısı : 3 Öğrenci Sayısı : 31 Devamı İletişim Telefon : - E",
         "attempts": [
           {
@@ -2047,7 +2097,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://kkaltunbulakortaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:30.616020+00:00",
+        "observed_at": "2026-10-01T15:38:43.271655+00:00",
         "evidence": "4 Öğretmen Sayısı 8 Öğrenci Sayısı 81 İletişim Adres: Küçükaltunbul",
         "attempts": [
           {
@@ -2081,7 +2131,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://sehitercevdetcelenkortaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:33.620565+00:00",
+        "observed_at": "2026-10-01T15:38:45.331244+00:00",
         "evidence": "4 Öğretmen Sayısı 5 Öğrenci Sayısı 48 İLETİŞİM Adres: BALÇEŞME KÖYÜ",
         "attempts": [
           {
@@ -2115,7 +2165,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://ibrahimozturkortaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:29.732572+00:00",
+        "observed_at": "2026-10-01T15:38:43.039765+00:00",
         "evidence": "Öğretmen Sayısı : 8 Öğrenci Sayısı : 51 Devamı İletişim Telefon : 047",
         "attempts": [
           {
@@ -2139,7 +2189,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://sehiterkemalizciortaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:33.625037+00:00",
+        "observed_at": "2026-10-01T15:38:45.419565+00:00",
         "evidence": "ğretmen Sayısı : 11 Öğrenci Sayısı : 86 Devamı İletişim Telefon : 047",
         "attempts": [
           {
@@ -2163,7 +2213,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://sehitrecepkilicortaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:33.914007+00:00",
+        "observed_at": "2026-10-01T15:38:45.935750+00:00",
         "evidence": "8 Öğretmen Sayısı 9 Öğrenci Sayısı 79 İLETİŞİM Adres: KUBİLAY BEY M",
         "attempts": [
           {
@@ -2183,10 +2233,25 @@
         "district": "Göle",
         "name": "Senemoğlu Şehit İlyas Çapan Ortaokulu",
         "grade": "ortaokul",
-        "students": null,
-        "status": "confirmed_in_current_roster",
-        "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+        "students": 65,
+        "status": "source_snapshot_homepage",
+        "source_url": "https://senemogluortaokulu.meb.k12.tr/",
+        "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+        "observed_at": "2026-10-01T15:38:45.967468+00:00",
+        "evidence": "6 Öğretmen Sayısı 8 Öğrenci Sayısı 65 İletişim Adres: SENEMOĞLU KÖY",
+        "attempts": [
+          {
+            "url": "https://senemogluortaokulu.meb.k12.tr/",
+            "page": "homepage",
+            "status": "fetched",
+            "sha256": "829862e1daa65a60da45c1d65b600cb5c3ec8b4243e311eef856a11d10068b9b",
+            "student_candidates": [
+              65
+            ]
+          }
+        ],
+        "institution_code": "700051",
+        "id": "senemogluortaokulu"
       },
       {
         "province": "Ardahan",
@@ -2197,7 +2262,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://goleyenikoyortaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:28.461015+00:00",
+        "observed_at": "2026-10-01T15:38:41.734068+00:00",
         "evidence": "5 Öğretmen Sayısı 7 Öğrenci Sayısı 48 İLETİŞİM Adres: YENİKÖY KÖYÜ ",
         "attempts": [
           {
@@ -2221,7 +2286,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://hanakataturkortaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:28.658284+00:00",
+        "observed_at": "2026-10-01T15:38:42.167622+00:00",
         "evidence": " Öğretmen Sayısı 11 Öğrenci Sayısı 98 İLETİŞİM Adres: HÜRRİYET MAH.",
         "attempts": [
           {
@@ -2241,10 +2306,24 @@
         "district": "Hanak",
         "name": "Çiçeklidağ Ortaokulu",
         "grade": "ortaokul",
-        "students": null,
-        "status": "confirmed_in_current_roster",
-        "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+        "students": 51,
+        "status": "source_snapshot_homepage",
+        "source_url": "https://hanakciceklidagortaokulu.meb.k12.tr/",
+        "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+        "observed_at": "2026-10-01T15:38:42.286562+00:00",
+        "evidence": "5 Öğretmen Sayısı 5 Öğrenci Sayısı 51 İLETİŞİM Adres: Çiçeklidağ Kö",
+        "attempts": [
+          {
+            "url": "https://hanakciceklidagortaokulu.meb.k12.tr/",
+            "page": "homepage",
+            "status": "fetched",
+            "sha256": "ccd09ae2318f5fc04b5c599f7a7398e63774873f7422c5bff010c34b6c6199de",
+            "student_candidates": [
+              51
+            ]
+          }
+        ],
+        "id": "hanakciceklidagortaokulu"
       },
       {
         "province": "Ardahan",
@@ -2255,7 +2334,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://hanaksadiyeveabdullahtanortaokul.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:29.536753+00:00",
+        "observed_at": "2026-10-01T15:38:42.506796+00:00",
         "evidence": "7 Öğretmen Sayısı 9 Öğrenci Sayısı 49 İletişim Adres: KOYUNPINARI K",
         "attempts": [
           {
@@ -2279,7 +2358,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://merkezataturkortaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:30.695796+00:00",
+        "observed_at": "2026-10-01T15:38:43.670690+00:00",
         "evidence": "Öğretmen Sayısı : 7 Öğrenci Sayısı : 27 Devamı İletişim Telefon : 047",
         "attempts": [
           {
@@ -2373,7 +2452,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://mesedibiortaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:30.773531+00:00",
+        "observed_at": "2026-10-01T15:38:43.706509+00:00",
         "evidence": "Öğretmen Sayısı : 9 Öğrenci Sayısı : 31 Devamı İletişim Telefon : 047",
         "attempts": [
           {
@@ -2397,7 +2476,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://olcekortaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:31.664172+00:00",
+        "observed_at": "2026-10-01T15:38:44.033709+00:00",
         "evidence": "3 Öğretmen Sayısı 6 Öğrenci Sayısı 35 İLETİŞİM Adres: ÖLÇEK KÖYÜ DE",
         "attempts": [
           {
@@ -2431,7 +2510,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://sehitburhankilicortaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:32.912938+00:00",
+        "observed_at": "2026-10-01T15:38:45.174050+00:00",
         "evidence": "9 Öğretmen Sayısı 7 Öğrenci Sayısı 50 İLETİŞİM Adres: Nebioğlu Köyü",
         "attempts": [
           {
@@ -2495,7 +2574,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://ardahanmehmetakifersoyortaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:25.299388+00:00",
+        "observed_at": "2026-10-01T15:38:39.160630+00:00",
         "evidence": "ğretmen Sayısı : 21 Öğrenci Sayısı : 210 Devamı İletişim Telefon : 0 4",
         "attempts": [
           {
@@ -2569,7 +2648,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://sunguluortaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:34.678185+00:00",
+        "observed_at": "2026-10-01T15:38:46.111754+00:00",
         "evidence": "4 Öğretmen Sayısı 7 Öğrenci Sayısı 42 İLETİŞİM Adres: Süngülü Köyü ",
         "attempts": [
           {
@@ -2595,7 +2674,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://goleozelegitimuygulamaokulu.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:28.454063+00:00",
+        "observed_at": "2026-10-01T15:38:41.581659+00:00",
         "evidence": "Öğretmen Sayısı : 6 Öğrenci Sayısı : 3 Devamı İletişim Telefon : 050",
         "attempts": [
           {
@@ -2659,7 +2738,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://ozelegitimuygulama2kademe.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:31.675016+00:00",
+        "observed_at": "2026-10-01T15:38:44.049250+00:00",
         "evidence": " Öğretmen Sayısı 10 Öğrenci Sayısı 9 İletişim Adres: ATATÜRK MAH. ",
         "attempts": [
           {
@@ -2694,7 +2773,7 @@
         "status": "source_snapshot_homepage",
         "source_url": "https://ozelegitimuygulama3kademe.meb.k12.tr/",
         "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
-        "observed_at": "2026-10-01T15:37:31.776388+00:00",
+        "observed_at": "2026-10-01T15:38:44.414875+00:00",
         "evidence": " Öğretmen Sayısı 18 Öğrenci Sayısı 28 İletişim Adres: ATATÜRK MAH. ",
         "attempts": [
           {
@@ -2739,7 +2818,7 @@
       {
         "id": "278297",
         "source_url": "https://278297.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:50.606051+00:00",
+        "observed_at": "2026-10-01T15:38:11.063562+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -2758,7 +2837,7 @@
       {
         "id": "278307",
         "source_url": "https://278307.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:50.606846+00:00",
+        "observed_at": "2026-10-01T15:38:11.063986+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -2777,7 +2856,7 @@
       {
         "id": "278319",
         "source_url": "https://278319.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:50.607485+00:00",
+        "observed_at": "2026-10-01T15:38:11.064390+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -2796,7 +2875,7 @@
       {
         "id": "278320",
         "source_url": "https://278320.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:50.614713+00:00",
+        "observed_at": "2026-10-01T15:38:11.065117+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -2815,7 +2894,7 @@
       {
         "id": "278332",
         "source_url": "https://278332.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:50.615916+00:00",
+        "observed_at": "2026-10-01T15:38:11.067491+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -2834,7 +2913,7 @@
       {
         "id": "278344",
         "source_url": "https://278344.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:50.619825+00:00",
+        "observed_at": "2026-10-01T15:38:11.068483+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -2853,7 +2932,7 @@
       {
         "id": "278427",
         "source_url": "https://278427.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:50.620729+00:00",
+        "observed_at": "2026-10-01T15:38:11.071481+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -2872,7 +2951,7 @@
       {
         "id": "278439",
         "source_url": "https://278439.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:51.981723+00:00",
+        "observed_at": "2026-10-01T15:38:12.153627+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -2891,7 +2970,7 @@
       {
         "id": "278535",
         "source_url": "https://278535.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:52.289032+00:00",
+        "observed_at": "2026-10-01T15:38:12.748023+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -2910,7 +2989,7 @@
       {
         "id": "278547",
         "source_url": "https://278547.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:52.298059+00:00",
+        "observed_at": "2026-10-01T15:38:12.755513+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -2929,7 +3008,7 @@
       {
         "id": "278559",
         "source_url": "https://278559.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:52.300991+00:00",
+        "observed_at": "2026-10-01T15:38:12.759222+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -2948,7 +3027,7 @@
       {
         "id": "278631",
         "source_url": "https://278631.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:52.305594+00:00",
+        "observed_at": "2026-10-01T15:38:12.765920+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -2967,7 +3046,7 @@
       {
         "id": "278643",
         "source_url": "https://278643.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:52.312847+00:00",
+        "observed_at": "2026-10-01T15:38:12.766353+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -2986,7 +3065,7 @@
       {
         "id": "278917",
         "source_url": "https://278917.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:52.320396+00:00",
+        "observed_at": "2026-10-01T15:38:12.803695+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3005,7 +3084,7 @@
       {
         "id": "278929",
         "source_url": "https://278929.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:52.515665+00:00",
+        "observed_at": "2026-10-01T15:38:13.224923+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3024,7 +3103,7 @@
       {
         "id": "279014",
         "source_url": "https://279014.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:53.560001+00:00",
+        "observed_at": "2026-10-01T15:38:13.563230+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3043,7 +3122,7 @@
       {
         "id": "306898",
         "source_url": "https://306898.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:53.683001+00:00",
+        "observed_at": "2026-10-01T15:38:13.845483+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3062,7 +3141,7 @@
       {
         "id": "308513",
         "source_url": "https://308513.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:53.874825+00:00",
+        "observed_at": "2026-10-01T15:38:13.849823+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3081,7 +3160,7 @@
       {
         "id": "309219",
         "source_url": "https://309219.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:53.882678+00:00",
+        "observed_at": "2026-10-01T15:38:13.855884+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3100,7 +3179,7 @@
       {
         "id": "327360",
         "source_url": "https://327360.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:53.891265+00:00",
+        "observed_at": "2026-10-01T15:38:14.156999+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3119,7 +3198,7 @@
       {
         "id": "365984",
         "source_url": "https://365984.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:54.100350+00:00",
+        "observed_at": "2026-10-01T15:38:14.157265+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3138,7 +3217,7 @@
       {
         "id": "700029",
         "source_url": "https://700029.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:54.112474+00:00",
+        "observed_at": "2026-10-01T15:38:14.667900+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3157,7 +3236,7 @@
       {
         "id": "700051",
         "source_url": "https://700051.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:54.959424+00:00",
+        "observed_at": "2026-10-01T15:38:14.815483+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3176,7 +3255,7 @@
       {
         "id": "700090",
         "source_url": "https://700090.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:55.265064+00:00",
+        "observed_at": "2026-10-01T15:38:14.959300+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3195,7 +3274,7 @@
       {
         "id": "700105",
         "source_url": "https://700105.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:55.279726+00:00",
+        "observed_at": "2026-10-01T15:38:15.248257+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3214,7 +3293,7 @@
       {
         "id": "700131",
         "source_url": "https://700131.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:55.280306+00:00",
+        "observed_at": "2026-10-01T15:38:15.421922+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3233,7 +3312,7 @@
       {
         "id": "700144",
         "source_url": "https://700144.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:55.281988+00:00",
+        "observed_at": "2026-10-01T15:38:15.422613+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3252,7 +3331,7 @@
       {
         "id": "700153",
         "source_url": "https://700153.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:55.490277+00:00",
+        "observed_at": "2026-10-01T15:38:15.428652+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3271,7 +3350,7 @@
       {
         "id": "700192",
         "source_url": "https://700192.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:55.503794+00:00",
+        "observed_at": "2026-10-01T15:38:15.436657+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3290,7 +3369,7 @@
       {
         "id": "700269",
         "source_url": "https://700269.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:55.507740+00:00",
+        "observed_at": "2026-10-01T15:38:15.653597+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3309,7 +3388,7 @@
       {
         "id": "700292",
         "source_url": "https://700292.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:56.329748+00:00",
+        "observed_at": "2026-10-01T15:38:15.936296+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3328,7 +3407,7 @@
       {
         "id": "700294",
         "source_url": "https://700294.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:56.650874+00:00",
+        "observed_at": "2026-10-01T15:38:16.068894+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3347,7 +3426,7 @@
       {
         "id": "700310",
         "source_url": "https://700310.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:56.864075+00:00",
+        "observed_at": "2026-10-01T15:38:16.384809+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3366,7 +3445,7 @@
       {
         "id": "700423",
         "source_url": "https://700423.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:56.882415+00:00",
+        "observed_at": "2026-10-01T15:38:16.536091+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3385,7 +3464,7 @@
       {
         "id": "703536",
         "source_url": "https://703536.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:56.896859+00:00",
+        "observed_at": "2026-10-01T15:38:16.537393+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3404,7 +3483,7 @@
       {
         "id": "703541",
         "source_url": "https://703541.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:56.969839+00:00",
+        "observed_at": "2026-10-01T15:38:16.538125+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3423,7 +3502,7 @@
       {
         "id": "703543",
         "source_url": "https://703543.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:56.981041+00:00",
+        "observed_at": "2026-10-01T15:38:16.575045+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3442,7 +3521,7 @@
       {
         "id": "703555",
         "source_url": "https://703555.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:57.048744+00:00",
+        "observed_at": "2026-10-01T15:38:16.626228+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3461,7 +3540,7 @@
       {
         "id": "703560",
         "source_url": "https://703560.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:57.762533+00:00",
+        "observed_at": "2026-10-01T15:38:16.915579+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3480,7 +3559,7 @@
       {
         "id": "703586",
         "source_url": "https://703586.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:58.086562+00:00",
+        "observed_at": "2026-10-01T15:38:17.045025+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3499,7 +3578,7 @@
       {
         "id": "703618",
         "source_url": "https://703618.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:58.445563+00:00",
+        "observed_at": "2026-10-01T15:38:17.571064+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3518,7 +3597,7 @@
       {
         "id": "703630",
         "source_url": "https://703630.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:58.446021+00:00",
+        "observed_at": "2026-10-01T15:38:17.573030+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3537,7 +3616,7 @@
       {
         "id": "703633",
         "source_url": "https://703633.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:58.447514+00:00",
+        "observed_at": "2026-10-01T15:38:17.575658+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3556,7 +3635,7 @@
       {
         "id": "703643",
         "source_url": "https://703643.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:58.453329+00:00",
+        "observed_at": "2026-10-01T15:38:17.582229+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3575,7 +3654,7 @@
       {
         "id": "703648",
         "source_url": "https://703648.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:58.481857+00:00",
+        "observed_at": "2026-10-01T15:38:17.619067+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3594,7 +3673,7 @@
       {
         "id": "703650",
         "source_url": "https://703650.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:59.139231+00:00",
+        "observed_at": "2026-10-01T15:38:18.304433+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3613,7 +3692,7 @@
       {
         "id": "703665",
         "source_url": "https://703665.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:59.371245+00:00",
+        "observed_at": "2026-10-01T15:38:18.312541+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3632,7 +3711,7 @@
       {
         "id": "703681",
         "source_url": "https://703681.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:59.468811+00:00",
+        "observed_at": "2026-10-01T15:38:18.402817+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3651,7 +3730,7 @@
       {
         "id": "703690",
         "source_url": "https://703690.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:59.826330+00:00",
+        "observed_at": "2026-10-01T15:38:19.041145+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3670,7 +3749,7 @@
       {
         "id": "703718",
         "source_url": "https://703718.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:36:59.854005+00:00",
+        "observed_at": "2026-10-01T15:38:19.041662+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3689,7 +3768,7 @@
       {
         "id": "703722",
         "source_url": "https://703722.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:00.039742+00:00",
+        "observed_at": "2026-10-01T15:38:19.042902+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3708,7 +3787,7 @@
       {
         "id": "703741",
         "source_url": "https://703741.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:00.040723+00:00",
+        "observed_at": "2026-10-01T15:38:19.043988+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3727,7 +3806,7 @@
       {
         "id": "703744",
         "source_url": "https://703744.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:00.042349+00:00",
+        "observed_at": "2026-10-01T15:38:19.053795+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3746,7 +3825,7 @@
       {
         "id": "703781",
         "source_url": "https://703781.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:00.551511+00:00",
+        "observed_at": "2026-10-01T15:38:19.334492+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3765,7 +3844,7 @@
       {
         "id": "703784",
         "source_url": "https://703784.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:00.793207+00:00",
+        "observed_at": "2026-10-01T15:38:19.686979+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3784,7 +3863,7 @@
       {
         "id": "703806",
         "source_url": "https://703806.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:01.090848+00:00",
+        "observed_at": "2026-10-01T15:38:19.688614+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3803,7 +3882,7 @@
       {
         "id": "703829",
         "source_url": "https://703829.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:01.220126+00:00",
+        "observed_at": "2026-10-01T15:38:20.418931+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3822,7 +3901,7 @@
       {
         "id": "703845",
         "source_url": "https://703845.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:01.449047+00:00",
+        "observed_at": "2026-10-01T15:38:20.422888+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3841,7 +3920,7 @@
       {
         "id": "703859",
         "source_url": "https://703859.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:01.453093+00:00",
+        "observed_at": "2026-10-01T15:38:20.424100+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3860,7 +3939,7 @@
       {
         "id": "703907",
         "source_url": "https://703907.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:01.458721+00:00",
+        "observed_at": "2026-10-01T15:38:20.438430+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3879,7 +3958,7 @@
       {
         "id": "703944",
         "source_url": "https://703944.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:01.460037+00:00",
+        "observed_at": "2026-10-01T15:38:20.444108+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3898,7 +3977,7 @@
       {
         "id": "703978",
         "source_url": "https://703978.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:01.930883+00:00",
+        "observed_at": "2026-10-01T15:38:20.460911+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3917,7 +3996,7 @@
       {
         "id": "704909",
         "source_url": "https://704909.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:02.193085+00:00",
+        "observed_at": "2026-10-01T15:38:20.744207+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3936,7 +4015,7 @@
       {
         "id": "706733",
         "source_url": "https://706733.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:02.627108+00:00",
+        "observed_at": "2026-10-01T15:38:21.015293+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3955,7 +4034,7 @@
       {
         "id": "706815",
         "source_url": "https://706815.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:02.818485+00:00",
+        "observed_at": "2026-10-01T15:38:21.519854+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3974,7 +4053,7 @@
       {
         "id": "706888",
         "source_url": "https://706888.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:02.840382+00:00",
+        "observed_at": "2026-10-01T15:38:21.522292+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -3993,7 +4072,7 @@
       {
         "id": "706915",
         "source_url": "https://706915.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:03.024830+00:00",
+        "observed_at": "2026-10-01T15:38:21.524330+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4012,7 +4091,7 @@
       {
         "id": "706936",
         "source_url": "https://706936.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:03.026927+00:00",
+        "observed_at": "2026-10-01T15:38:21.633026+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4031,7 +4110,7 @@
       {
         "id": "706956",
         "source_url": "https://706956.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:03.029466+00:00",
+        "observed_at": "2026-10-01T15:38:21.846494+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4050,7 +4129,7 @@
       {
         "id": "706980",
         "source_url": "https://706980.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:03.291879+00:00",
+        "observed_at": "2026-10-01T15:38:21.846977+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4069,7 +4148,7 @@
       {
         "id": "707002",
         "source_url": "https://707002.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:03.579123+00:00",
+        "observed_at": "2026-10-01T15:38:21.852838+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4088,7 +4167,7 @@
       {
         "id": "707076",
         "source_url": "https://707076.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:04.024499+00:00",
+        "observed_at": "2026-10-01T15:38:22.024872+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4107,7 +4186,7 @@
       {
         "id": "707093",
         "source_url": "https://707093.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:04.224495+00:00",
+        "observed_at": "2026-10-01T15:38:22.620882+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4126,7 +4205,7 @@
       {
         "id": "707152",
         "source_url": "https://707152.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:04.249509+00:00",
+        "observed_at": "2026-10-01T15:38:22.622286+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4145,7 +4224,7 @@
       {
         "id": "708284",
         "source_url": "https://708284.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:04.423031+00:00",
+        "observed_at": "2026-10-01T15:38:22.625275+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4164,7 +4243,7 @@
       {
         "id": "708295",
         "source_url": "https://708295.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:04.435303+00:00",
+        "observed_at": "2026-10-01T15:38:22.626845+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4183,7 +4262,7 @@
       {
         "id": "708300",
         "source_url": "https://708300.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:04.438483+00:00",
+        "observed_at": "2026-10-01T15:38:22.814972+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4202,7 +4281,7 @@
       {
         "id": "708333",
         "source_url": "https://708333.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:04.675697+00:00",
+        "observed_at": "2026-10-01T15:38:22.821686+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4221,7 +4300,7 @@
       {
         "id": "708335",
         "source_url": "https://708335.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:04.989689+00:00",
+        "observed_at": "2026-10-01T15:38:23.016892+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4240,7 +4319,7 @@
       {
         "id": "708342",
         "source_url": "https://708342.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:05.400423+00:00",
+        "observed_at": "2026-10-01T15:38:23.390830+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4259,7 +4338,7 @@
       {
         "id": "708350",
         "source_url": "https://708350.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:05.624986+00:00",
+        "observed_at": "2026-10-01T15:38:23.736825+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4278,7 +4357,7 @@
       {
         "id": "708359",
         "source_url": "https://708359.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:05.630632+00:00",
+        "observed_at": "2026-10-01T15:38:23.737928+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4297,7 +4376,7 @@
       {
         "id": "708366",
         "source_url": "https://708366.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:05.827361+00:00",
+        "observed_at": "2026-10-01T15:38:23.739381+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4316,7 +4395,7 @@
       {
         "id": "708373",
         "source_url": "https://708373.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:05.862121+00:00",
+        "observed_at": "2026-10-01T15:38:23.787537+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4335,7 +4414,7 @@
       {
         "id": "708391",
         "source_url": "https://708391.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:05.866792+00:00",
+        "observed_at": "2026-10-01T15:38:23.793649+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4354,7 +4433,7 @@
       {
         "id": "708395",
         "source_url": "https://708395.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:06.083449+00:00",
+        "observed_at": "2026-10-01T15:38:24.011584+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4373,7 +4452,7 @@
       {
         "id": "708404",
         "source_url": "https://708404.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:06.424368+00:00",
+        "observed_at": "2026-10-01T15:38:24.012946+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4392,7 +4471,7 @@
       {
         "id": "708415",
         "source_url": "https://708415.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:06.809653+00:00",
+        "observed_at": "2026-10-01T15:38:24.510885+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4411,7 +4490,7 @@
       {
         "id": "713678",
         "source_url": "https://713678.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:07.036089+00:00",
+        "observed_at": "2026-10-01T15:38:24.701190+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4430,7 +4509,7 @@
       {
         "id": "714880",
         "source_url": "https://714880.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:07.061380+00:00",
+        "observed_at": "2026-10-01T15:38:24.721053+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4449,7 +4528,7 @@
       {
         "id": "714901",
         "source_url": "https://714901.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:07.221146+00:00",
+        "observed_at": "2026-10-01T15:38:24.867460+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4468,7 +4547,7 @@
       {
         "id": "714906",
         "source_url": "https://714906.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:07.240183+00:00",
+        "observed_at": "2026-10-01T15:38:24.884914+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4487,7 +4566,7 @@
       {
         "id": "714918",
         "source_url": "https://714918.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:07.257537+00:00",
+        "observed_at": "2026-10-01T15:38:25.118280+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4506,7 +4585,7 @@
       {
         "id": "714925",
         "source_url": "https://714925.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:07.492130+00:00",
+        "observed_at": "2026-10-01T15:38:25.121944+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4525,7 +4604,7 @@
       {
         "id": "714931",
         "source_url": "https://714931.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:07.824334+00:00",
+        "observed_at": "2026-10-01T15:38:25.145434+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4544,7 +4623,7 @@
       {
         "id": "718059",
         "source_url": "https://718059.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:08.217937+00:00",
+        "observed_at": "2026-10-01T15:38:25.631546+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4563,7 +4642,7 @@
       {
         "id": "722166",
         "source_url": "https://722166.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:08.598384+00:00",
+        "observed_at": "2026-10-01T15:38:25.670805+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4582,7 +4661,7 @@
       {
         "id": "727014",
         "source_url": "https://727014.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:08.608934+00:00",
+        "observed_at": "2026-10-01T15:38:25.842713+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4601,7 +4680,7 @@
       {
         "id": "727099",
         "source_url": "https://727099.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:08.610172+00:00",
+        "observed_at": "2026-10-01T15:38:25.987129+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4620,7 +4699,7 @@
       {
         "id": "733882",
         "source_url": "https://733882.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:08.612694+00:00",
+        "observed_at": "2026-10-01T15:38:25.987680+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4639,7 +4718,7 @@
       {
         "id": "734383",
         "source_url": "https://734383.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:08.654458+00:00",
+        "observed_at": "2026-10-01T15:38:26.245425+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4658,7 +4737,7 @@
       {
         "id": "734385",
         "source_url": "https://734385.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:08.865499+00:00",
+        "observed_at": "2026-10-01T15:38:26.251451+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4677,7 +4756,7 @@
       {
         "id": "734386",
         "source_url": "https://734386.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:09.222676+00:00",
+        "observed_at": "2026-10-01T15:38:26.639044+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4696,7 +4775,7 @@
       {
         "id": "734388",
         "source_url": "https://734388.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:09.592632+00:00",
+        "observed_at": "2026-10-01T15:38:26.639287+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4715,7 +4794,7 @@
       {
         "id": "734466",
         "source_url": "https://734466.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:09.976904+00:00",
+        "observed_at": "2026-10-01T15:38:26.808351+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4734,7 +4813,7 @@
       {
         "id": "734470",
         "source_url": "https://734470.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:09.985075+00:00",
+        "observed_at": "2026-10-01T15:38:26.957300+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4753,7 +4832,7 @@
       {
         "id": "734473",
         "source_url": "https://734473.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:09.990339+00:00",
+        "observed_at": "2026-10-01T15:38:26.957848+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4772,7 +4851,7 @@
       {
         "id": "734631",
         "source_url": "https://734631.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:10.006189+00:00",
+        "observed_at": "2026-10-01T15:38:27.051190+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4791,7 +4870,7 @@
       {
         "id": "745161",
         "source_url": "https://745161.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:10.036571+00:00",
+        "observed_at": "2026-10-01T15:38:27.214827+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4810,7 +4889,7 @@
       {
         "id": "746649",
         "source_url": "https://746649.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:10.221750+00:00",
+        "observed_at": "2026-10-01T15:38:27.361888+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4829,7 +4908,7 @@
       {
         "id": "746650",
         "source_url": "https://746650.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:10.609288+00:00",
+        "observed_at": "2026-10-01T15:38:27.592686+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4848,7 +4927,7 @@
       {
         "id": "746651",
         "source_url": "https://746651.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:10.964344+00:00",
+        "observed_at": "2026-10-01T15:38:27.760432+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4867,7 +4946,7 @@
       {
         "id": "746653",
         "source_url": "https://746653.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:11.376687+00:00",
+        "observed_at": "2026-10-01T15:38:27.799698+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4886,7 +4965,7 @@
       {
         "id": "746654",
         "source_url": "https://746654.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:11.387857+00:00",
+        "observed_at": "2026-10-01T15:38:27.919172+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4905,7 +4984,7 @@
       {
         "id": "746655",
         "source_url": "https://746655.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:11.395551+00:00",
+        "observed_at": "2026-10-01T15:38:27.988598+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4924,7 +5003,7 @@
       {
         "id": "747796",
         "source_url": "https://747796.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:11.398050+00:00",
+        "observed_at": "2026-10-01T15:38:28.015908+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4943,7 +5022,7 @@
       {
         "id": "748316",
         "source_url": "https://748316.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:11.415663+00:00",
+        "observed_at": "2026-10-01T15:38:28.328748+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4962,7 +5041,7 @@
       {
         "id": "748317",
         "source_url": "https://748317.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:11.631030+00:00",
+        "observed_at": "2026-10-01T15:38:28.494413+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -4981,7 +5060,7 @@
       {
         "id": "748399",
         "source_url": "https://748399.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:12.006020+00:00",
+        "observed_at": "2026-10-01T15:38:28.574020+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5000,7 +5079,7 @@
       {
         "id": "748781",
         "source_url": "https://748781.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:12.354818+00:00",
+        "observed_at": "2026-10-01T15:38:28.731409+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5019,7 +5098,7 @@
       {
         "id": "751144",
         "source_url": "https://751144.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:12.762935+00:00",
+        "observed_at": "2026-10-01T15:38:28.977571+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5038,7 +5117,7 @@
       {
         "id": "751474",
         "source_url": "https://751474.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:12.777913+00:00",
+        "observed_at": "2026-10-01T15:38:28.992227+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5057,7 +5136,7 @@
       {
         "id": "751475",
         "source_url": "https://751475.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:12.783627+00:00",
+        "observed_at": "2026-10-01T15:38:29.160478+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5076,7 +5155,7 @@
       {
         "id": "751476",
         "source_url": "https://751476.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:12.805176+00:00",
+        "observed_at": "2026-10-01T15:38:29.296761+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5095,7 +5174,7 @@
       {
         "id": "751478",
         "source_url": "https://751478.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:12.817123+00:00",
+        "observed_at": "2026-10-01T15:38:29.432248+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5114,7 +5193,7 @@
       {
         "id": "751479",
         "source_url": "https://751479.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:13.013283+00:00",
+        "observed_at": "2026-10-01T15:38:29.525642+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5133,7 +5212,7 @@
       {
         "id": "751679",
         "source_url": "https://751679.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:13.400953+00:00",
+        "observed_at": "2026-10-01T15:38:29.693383+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5152,7 +5231,7 @@
       {
         "id": "752190",
         "source_url": "https://752190.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:13.753322+00:00",
+        "observed_at": "2026-10-01T15:38:30.096521+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5171,7 +5250,7 @@
       {
         "id": "752316",
         "source_url": "https://752316.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:14.154871+00:00",
+        "observed_at": "2026-10-01T15:38:30.106417+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5190,7 +5269,7 @@
       {
         "id": "752827",
         "source_url": "https://752827.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:14.179517+00:00",
+        "observed_at": "2026-10-01T15:38:30.111514+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5209,7 +5288,7 @@
       {
         "id": "757322",
         "source_url": "https://757322.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:14.182574+00:00",
+        "observed_at": "2026-10-01T15:38:30.226462+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5228,7 +5307,7 @@
       {
         "id": "757323",
         "source_url": "https://757323.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:14.185269+00:00",
+        "observed_at": "2026-10-01T15:38:30.266210+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5247,7 +5326,7 @@
       {
         "id": "757324",
         "source_url": "https://757324.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:14.212481+00:00",
+        "observed_at": "2026-10-01T15:38:30.559219+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5266,7 +5345,7 @@
       {
         "id": "758071",
         "source_url": "https://758071.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:14.426680+00:00",
+        "observed_at": "2026-10-01T15:38:30.559736+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5285,7 +5364,7 @@
       {
         "id": "759128",
         "source_url": "https://759128.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:14.800159+00:00",
+        "observed_at": "2026-10-01T15:38:30.686118+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5304,7 +5383,7 @@
       {
         "id": "759642",
         "source_url": "https://759642.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:15.157220+00:00",
+        "observed_at": "2026-10-01T15:38:31.081454+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5323,7 +5402,7 @@
       {
         "id": "759784",
         "source_url": "https://759784.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:15.555934+00:00",
+        "observed_at": "2026-10-01T15:38:31.101079+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5342,7 +5421,7 @@
       {
         "id": "760298",
         "source_url": "https://760298.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:15.580314+00:00",
+        "observed_at": "2026-10-01T15:38:31.103106+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5361,7 +5440,7 @@
       {
         "id": "761154",
         "source_url": "https://761154.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:15.582841+00:00",
+        "observed_at": "2026-10-01T15:38:31.360354+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5380,7 +5459,7 @@
       {
         "id": "761830",
         "source_url": "https://761830.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:15.598801+00:00",
+        "observed_at": "2026-10-01T15:38:31.362026+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5399,7 +5478,7 @@
       {
         "id": "761909",
         "source_url": "https://761909.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:15.629529+00:00",
+        "observed_at": "2026-10-01T15:38:31.524137+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5418,7 +5497,7 @@
       {
         "id": "762103",
         "source_url": "https://762103.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:15.817105+00:00",
+        "observed_at": "2026-10-01T15:38:31.952314+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5437,7 +5516,7 @@
       {
         "id": "763462",
         "source_url": "https://763462.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:16.295666+00:00",
+        "observed_at": "2026-10-01T15:38:32.075735+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5456,7 +5535,7 @@
       {
         "id": "764164",
         "source_url": "https://764164.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:16.552078+00:00",
+        "observed_at": "2026-10-01T15:38:32.076240+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5475,7 +5554,7 @@
       {
         "id": "766677",
         "source_url": "https://766677.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:16.925348+00:00",
+        "observed_at": "2026-10-01T15:38:32.087802+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5494,7 +5573,7 @@
       {
         "id": "767003",
         "source_url": "https://767003.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:16.993660+00:00",
+        "observed_at": "2026-10-01T15:38:32.347302+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5513,7 +5592,7 @@
       {
         "id": "767587",
         "source_url": "https://767587.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:16.995856+00:00",
+        "observed_at": "2026-10-01T15:38:32.499929+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5532,7 +5611,7 @@
       {
         "id": "767588",
         "source_url": "https://767588.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:17.019367+00:00",
+        "observed_at": "2026-10-01T15:38:32.725568+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5551,7 +5630,7 @@
       {
         "id": "767791",
         "source_url": "https://767791.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:17.230842+00:00",
+        "observed_at": "2026-10-01T15:38:32.907786+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5570,7 +5649,7 @@
       {
         "id": "767870",
         "source_url": "https://767870.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:17.693443+00:00",
+        "observed_at": "2026-10-01T15:38:33.058061+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5589,7 +5668,7 @@
       {
         "id": "768692",
         "source_url": "https://768692.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:18.028836+00:00",
+        "observed_at": "2026-10-01T15:38:33.315670+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5608,7 +5687,7 @@
       {
         "id": "768693",
         "source_url": "https://768693.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:18.288058+00:00",
+        "observed_at": "2026-10-01T15:38:33.458844+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5627,7 +5706,7 @@
       {
         "id": "768695",
         "source_url": "https://768695.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:18.363801+00:00",
+        "observed_at": "2026-10-01T15:38:33.467849+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5646,7 +5725,7 @@
       {
         "id": "768874",
         "source_url": "https://768874.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:18.402999+00:00",
+        "observed_at": "2026-10-01T15:38:33.476220+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5665,7 +5744,7 @@
       {
         "id": "769475",
         "source_url": "https://769475.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:18.418561+00:00",
+        "observed_at": "2026-10-01T15:38:33.698974+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5684,7 +5763,7 @@
       {
         "id": "769560",
         "source_url": "https://769560.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:18.605344+00:00",
+        "observed_at": "2026-10-01T15:38:33.746447+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5703,7 +5782,7 @@
       {
         "id": "772733",
         "source_url": "https://772733.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:19.414451+00:00",
+        "observed_at": "2026-10-01T15:38:34.275853+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5722,7 +5801,7 @@
       {
         "id": "772737",
         "source_url": "https://772737.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:19.672333+00:00",
+        "observed_at": "2026-10-01T15:38:34.445768+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5741,7 +5820,7 @@
       {
         "id": "774121",
         "source_url": "https://774121.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:19.788288+00:00",
+        "observed_at": "2026-10-01T15:38:34.468376+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5760,7 +5839,7 @@
       {
         "id": "774122",
         "source_url": "https://774122.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:19.863944+00:00",
+        "observed_at": "2026-10-01T15:38:34.660308+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5779,7 +5858,7 @@
       {
         "id": "819025",
         "source_url": "https://819025.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:20.147041+00:00",
+        "observed_at": "2026-10-01T15:38:35.245907+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5798,7 +5877,7 @@
       {
         "id": "887502",
         "source_url": "https://887502.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:20.791298+00:00",
+        "observed_at": "2026-10-01T15:38:35.411182+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5817,7 +5896,7 @@
       {
         "id": "887895",
         "source_url": "https://887895.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:20.799978+00:00",
+        "observed_at": "2026-10-01T15:38:35.443038+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5836,7 +5915,7 @@
       {
         "id": "887989",
         "source_url": "https://887989.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:20.808685+00:00",
+        "observed_at": "2026-10-01T15:38:35.645583+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5855,7 +5934,7 @@
       {
         "id": "959184",
         "source_url": "https://959184.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:21.079426+00:00",
+        "observed_at": "2026-10-01T15:38:35.748971+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5874,7 +5953,7 @@
       {
         "id": "963277",
         "source_url": "https://963277.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:21.137626+00:00",
+        "observed_at": "2026-10-01T15:38:35.755024+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5893,7 +5972,7 @@
       {
         "id": "964928",
         "source_url": "https://964928.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:21.167362+00:00",
+        "observed_at": "2026-10-01T15:38:35.970678+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5912,7 +5991,7 @@
       {
         "id": "965295",
         "source_url": "https://965295.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:21.242164+00:00",
+        "observed_at": "2026-10-01T15:38:36.006883+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5931,7 +6010,7 @@
       {
         "id": "965403",
         "source_url": "https://965403.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:21.546134+00:00",
+        "observed_at": "2026-10-01T15:38:36.221308+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5950,7 +6029,7 @@
       {
         "id": "965782",
         "source_url": "https://965782.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:22.180015+00:00",
+        "observed_at": "2026-10-01T15:38:36.389482+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5969,7 +6048,7 @@
       {
         "id": "965895",
         "source_url": "https://965895.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:22.188363+00:00",
+        "observed_at": "2026-10-01T15:38:36.415171+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -5988,7 +6067,7 @@
       {
         "id": "971481",
         "source_url": "https://971481.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:22.197555+00:00",
+        "observed_at": "2026-10-01T15:38:36.609867+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6007,7 +6086,7 @@
       {
         "id": "971485",
         "source_url": "https://971485.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:22.483753+00:00",
+        "observed_at": "2026-10-01T15:38:36.741745+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6026,7 +6105,7 @@
       {
         "id": "971486",
         "source_url": "https://971486.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:22.515289+00:00",
+        "observed_at": "2026-10-01T15:38:36.760054+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6045,7 +6124,7 @@
       {
         "id": "971764",
         "source_url": "https://971764.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:22.585241+00:00",
+        "observed_at": "2026-10-01T15:38:36.945041+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6064,7 +6143,7 @@
       {
         "id": "972788",
         "source_url": "https://972788.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:22.642130+00:00",
+        "observed_at": "2026-10-01T15:38:36.973249+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6083,7 +6162,7 @@
       {
         "id": "974258",
         "source_url": "https://974258.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:22.925859+00:00",
+        "observed_at": "2026-10-01T15:38:37.189475+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6102,7 +6181,7 @@
       {
         "id": "974320",
         "source_url": "https://974320.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:23.546906+00:00",
+        "observed_at": "2026-10-01T15:38:37.380988+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6121,7 +6200,7 @@
       {
         "id": "974783",
         "source_url": "https://974783.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:23.584802+00:00",
+        "observed_at": "2026-10-01T15:38:37.402495+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6140,7 +6219,7 @@
       {
         "id": "975185",
         "source_url": "https://975185.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:23.602742+00:00",
+        "observed_at": "2026-10-01T15:38:37.591068+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6159,7 +6238,7 @@
       {
         "id": "975189",
         "source_url": "https://975189.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:23.887786+00:00",
+        "observed_at": "2026-10-01T15:38:37.719826+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6178,7 +6257,7 @@
       {
         "id": "975195",
         "source_url": "https://975195.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:23.911785+00:00",
+        "observed_at": "2026-10-01T15:38:37.750080+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6197,7 +6276,7 @@
       {
         "id": "975207",
         "source_url": "https://975207.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:23.990988+00:00",
+        "observed_at": "2026-10-01T15:38:37.924856+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6216,7 +6295,7 @@
       {
         "id": "975217",
         "source_url": "https://975217.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:24.044734+00:00",
+        "observed_at": "2026-10-01T15:38:38.016328+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6235,7 +6314,7 @@
       {
         "id": "975353",
         "source_url": "https://975353.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:24.320321+00:00",
+        "observed_at": "2026-10-01T15:38:38.177329+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6254,7 +6333,7 @@
       {
         "id": "975374",
         "source_url": "https://975374.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:24.941259+00:00",
+        "observed_at": "2026-10-01T15:38:38.349726+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6273,7 +6352,7 @@
       {
         "id": "976569",
         "source_url": "https://976569.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:24.960890+00:00",
+        "observed_at": "2026-10-01T15:38:38.570746+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6294,7 +6373,7 @@
       {
         "id": "ardahanram",
         "source_url": "https://ardahanram.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:25.379591+00:00",
+        "observed_at": "2026-10-01T15:38:39.281060+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6311,14 +6390,14 @@
             "url": "https://ardahanram.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "b438b8451fbda32d6b53a462e0590e679a68f3b8103e2287e1f6d26d8456158a",
+            "sha256": "a9fcd840f9dae8c7c1eac7c85cac9beab83a8115828cba4848167848111be635",
             "student_candidates": []
           },
           {
             "url": "https://ardahanram.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "9fb0f6cbe0e1b70d5e9c4de9e64e59d05b94fc9f2974c6a5882d5e12e19c27ac",
+            "sha256": "bbefa8a501f3524218144223e4d8e0d44f44a947521e53b1d712707ccb65fee7",
             "student_candidates": []
           }
         ],
@@ -6332,7 +6411,7 @@
       {
         "id": "golehalkegitimi",
         "source_url": "https://golehalkegitimi.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:28.265580+00:00",
+        "observed_at": "2026-10-01T15:38:41.426648+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6349,14 +6428,14 @@
             "url": "https://golehalkegitimi.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "da8ca23155bd9cb84f7c9d504ac3fd638931ed025e54016f4923e2bd237ca538",
+            "sha256": "3eaf17fdcc73e34955c8fa2b580d1237dfda446884c71947bc8bd637235e08d6",
             "student_candidates": []
           },
           {
             "url": "https://golehalkegitimi.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "023163885c5f1e5e1d56f53a4a41d07a7affaec36a383edb31169a4d5b78414d",
+            "sha256": "83bc0d085fb69584578e49c6fff243bcc17c613e82e716319615c3096cdf2ffd",
             "student_candidates": []
           }
         ],
@@ -6368,7 +6447,7 @@
       {
         "id": "posofhem",
         "source_url": "https://posofhem.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:31.833261+00:00",
+        "observed_at": "2026-10-01T15:38:44.453511+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6385,14 +6464,14 @@
             "url": "https://posofhem.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "925386abe817af5351bcf78c94da67b58a6c1c629bc2704042a86175678aab37",
+            "sha256": "1ae14832e0802c8592e53284e2be684d544d2fd61312f8ab1826f69d3e62588a",
             "student_candidates": []
           },
           {
             "url": "https://posofhem.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "0d4a83af55e39c78b2b1810dbef22bb82b440c1486cf3ddf16cac54319df784b",
+            "sha256": "5c7300f4661780cce8f1f0a9baf2c4b0340f6ee9b6825be19955c47a31cae286",
             "student_candidates": []
           }
         ],
@@ -6404,7 +6483,7 @@
       {
         "id": "posofimamhatiplisesi",
         "source_url": "https://posofimamhatiplisesi.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:32.552841+00:00",
+        "observed_at": "2026-10-01T15:38:44.562502+00:00",
         "year": null,
         "source_date": null,
         "students": 77,
@@ -6431,7 +6510,7 @@
       {
         "id": "posofogretmenevi",
         "source_url": "https://posofogretmenevi.meb.k12.tr/",
-        "observed_at": "2026-10-01T15:37:32.735337+00:00",
+        "observed_at": "2026-10-01T15:38:44.797659+00:00",
         "year": null,
         "source_date": null,
         "students": null,
@@ -6448,14 +6527,14 @@
             "url": "https://posofogretmenevi.meb.k12.tr/tema/okulumuz_hakkinda.php",
             "page": "tema/okulumuz_hakkinda.php",
             "status": "fetched",
-            "sha256": "09a7dc048f98b168ed3afd30cdb8e4cbceaa6f3a026e5a5e61ee0d10a8927fa2",
+            "sha256": "11818df973c6891baf2d2ed9acff5d9d029957056d4825a1a0d309c93bfd72c0",
             "student_candidates": []
           },
           {
             "url": "https://posofogretmenevi.meb.k12.tr/okulumuz_hakkinda.html",
             "page": "okulumuz_hakkinda.html",
             "status": "fetched",
-            "sha256": "51e54adfcaf38101402c7494435df6e05034e3a32c5af32c9101a4d73b477a57",
+            "sha256": "b57fbffe88a9d6dd48455717bdea9effa03d678286316cac45160432b2ff72e5",
             "student_candidates": []
           }
         ],
