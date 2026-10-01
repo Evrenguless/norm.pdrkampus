@@ -1,1 +1,44 @@
-{}
+{
+  "borsaistanbulybo": {
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "75.Yıl İstanbul Menkul Kıymetler Bor.Yatılı Bölge Ortaokulu",
+    "institution_code": "747796"
+  },
+  "golekizmeslek": {
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Göle Feride Karabacak Mesleki ve Teknik Anadolu Lisesi",
+    "institution_code": "278535"
+  },
+  "ozelegitimuygulama2kademe": {
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Ardahan Özel Eğitim Uygulama Okulu II. Kademe",
+    "institution_code": "757323"
+  },
+  "ozelegitimuygulama3kademe": {
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Ardahan Özel Eğitim Uygulama Okulu III. Kademe",
+    "institution_code": "757324"
+  },
+  "posofimamhatiplisesi": {
+    "province": "Ardahan",
+    "district": "Posof",
+    "name": "Posof AİHL",
+    "institution_code": "974783"
+  },
+  "goleasml": {
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Göle Nurettin Yılmaz Mesleki ve Teknik Anadolu Lisesi",
+    "institution_code": "748781"
+  },
+  "meslekveteknikanadolulisesi": {
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Şehit Türkmen Tekin Mesleki ve Teknik Anadolu Lisesi",
+    "institution_code": "278307"
+  }
+}
