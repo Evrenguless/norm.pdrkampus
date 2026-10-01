@@ -103,5 +103,23 @@
     "province": "Bayburt",
     "district": "Merkez",
     "name": "Bayraktar İlkokulu"
+  },
+  "bayburtdagtarlailkokulu": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Dağtarla İlkokulu",
+    "institution_code": "701087"
+  },
+  "coruhanaokulu": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Çoruh Anaokulu",
+    "institution_code": "964808"
+  },
+  "sgyilkokulu": {
+    "province": "Bayburt",
+    "district": "Demirözü",
+    "name": "Şehit Gürcan Yavuz İlkokulu",
+    "institution_code": "722075"
   }
 }
