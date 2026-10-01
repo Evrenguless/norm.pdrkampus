@@ -4,6 +4,7 @@ on:
   push:
     branches: [main]
     paths:
+      - "research/bayburt/config.json"
       - "research/bayburt/seeds.json"
       - "research/bayburt/site-overrides.json"
       - "research/bayburt/fallback-students.json"
@@ -11,6 +12,7 @@ on:
       - "research/bayburt/inventory-exclusions.json"
       - "research/bayburt/inventory-target.json"
       - "scripts/collect_students.py"
+      - "scripts/run_all.py"
       - ".github/workflows/bayburt-collect.yml"
   workflow_dispatch:
 
@@ -31,7 +33,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Collect public MEB school statistics
-        run: python scripts/collect_students.py --seeds research/bayburt/seeds.json --output research/bayburt
+        run: python scripts/collect_students.py --config research/bayburt/config.json
       - name: Commit refreshed dataset
         run: |
           cp research/bayburt/students-by-grade.json /tmp/students-by-grade.json
