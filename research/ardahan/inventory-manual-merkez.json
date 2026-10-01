@@ -1,0 +1,725 @@
+{
+  "note": "Merkez current state-school roster, reconciled 2026-10-01.",
+  "records": [
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Cemal ve Zekiye Vatan Özel Eğitim Anaokulu",
+      "grade": "ozel_egitim",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Gazi Atalay Ürker Anaokulu",
+      "grade": "anaokulu",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Kardelen Anaokulu",
+      "grade": "anaokulu",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Şehit Caner Çelik Anaokulu",
+      "grade": "anaokulu",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Türkiye Gemi İnşa Sanayicileri Birliği Kızılay Anaokulu",
+      "grade": "anaokulu",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Zübeyde Hanım Anaokulu",
+      "grade": "anaokulu",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "23 Şubat İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Ardahan Özel Eğitim Uygulama Okulu I. Kademe",
+      "grade": "ozel_egitim",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Atatürk İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Ayşecan-Görkem Oktay İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Bayramoğlu İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Beşiktaş İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Binbaşar İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Çalabaş İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Cemal ve Zekiye Vatan İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Hoçuvan Hasköy Atatürk İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "İnönü İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Küçük Sütlüce İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Lehimli İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Merkez Halit Paşa İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Meşedibi Şehit Er Günday Polat İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Ölçek İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Samanbeyli İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Şehit Asım Bey İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Şehit Burak Güneş İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Şehit Burhan Kılıç İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Şehit Er Gökhan Özdemir İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Şehit Er İnan Akçam İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Şehit Er Ümit Gökdemir İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Sulakyurt 100.Yıl İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Taşlıdere İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Tazeköy İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "TOKİ Mehmet Akif Ersoy İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Tunçoluk Şehit Güven Yılmaz İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Yalnızçam Fatih Sultan Mehmet İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Yukarıkurtoğlu İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Ardahan Özel Eğitim Uygulama Okulu II. Kademe",
+      "grade": "ozel_egitim",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Atatürk Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Ayşecan-Görkem Oktay Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Bayramoğlu Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Cemal ve Zekiye Vatan Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Hoçuvan Hasköy Atatürk Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Kazım Karabekir Yatılı Bölge Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Lehimli Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Merkez Halit Paşa Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Meşedibi Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Ölçek Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Şehit Asım Bey Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Şehit Burhan Kılıç Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Şehit Er Gökhan Özdemir Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Şehit Er İnan Akçam Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Şehit Ömer Halisdemir İmam Hatip Ortaokulu",
+      "grade": "imam_hatip_ortaokulu",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Sulakyurt 100.Yıl Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Taşlıdere Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "TOKİ Mehmet Akif Ersoy Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Tunçoluk Şehit Güven Yılmaz Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Türkiye Odalar ve Borsalar Birliği Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Yalnızçam Fatih Sultan Mehmet Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Yukarıkurtoğlu Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "15 Temmuz Şehitler Anadolu Lisesi",
+      "grade": "lise",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Ardahan Fen Lisesi",
+      "grade": "lise",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Ardahan Mesleki Eğitim Merkezi",
+      "grade": "mesem",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Ardahan Özel Eğitim Meslek Okulu",
+      "grade": "ozel_egitim",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Ardahan Özel Eğitim Uygulama Okulu III. Kademe",
+      "grade": "ozel_egitim",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Ardahan Rekabet Kurumu Anadolu Lisesi",
+      "grade": "lise",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Ardahan Salim Dursunoğlu Anadolu İmam Hatip Lisesi",
+      "grade": "lise",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Ardahan Yunus Emre Anadolu Lisesi",
+      "grade": "lise",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Cumhuriyet Spor Lisesi",
+      "grade": "lise",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Kazım Karabekir Mesleki ve Teknik Anadolu Lisesi",
+      "grade": "lise",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Şehit Er Serhat Şanlı Mesleki ve Teknik Anadolu Lisesi",
+      "grade": "lise",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Şehit Türkmen Tekin Mesleki ve Teknik Anadolu Lisesi",
+      "grade": "lise",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Merkez",
+      "name": "Şehit Uz. Çvş. İbrahim Erdoğan Mesleki ve Teknik Anadolu Lisesi",
+      "grade": "lise",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    }
+  ]
+}
