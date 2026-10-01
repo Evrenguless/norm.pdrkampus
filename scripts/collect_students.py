@@ -90,6 +90,11 @@ def main():
     root.mkdir(parents=True, exist_ok=True)
     override_path = seed_path.with_name('site-overrides.json')
     overrides = json.loads(override_path.read_text()) if override_path.exists() else {}
+    fallback_path = seed_path.with_name('fallback-students.json')
+    fallback_doc = json.loads(fallback_path.read_text()) if fallback_path.exists() else {'records': {}}
+    fallbacks = fallback_doc.get('records', {})
+    manual_path = seed_path.with_name('inventory-manual.json')
+    manual_doc = json.loads(manual_path.read_text()) if manual_path.exists() else {'records': []}
 
     results = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
@@ -97,17 +102,42 @@ def main():
             results.append(r)
             (root/'checkpoint.json').write_text(json.dumps(results, ensure_ascii=False, indent=2))
 
+    for r in results:
+        fb = fallbacks.get(r['id'])
+        if r.get('students') is None and fb and r.get('province') == 'Bayburt':
+            r['students'] = fb['students']
+            r['institution_code'] = fb.get('institution_code', r.get('institution_code'))
+            r['status'] = 'secondary_snapshot'
+            r['secondary_source_url'] = fb.get('source_url')
+            r['source_quality'] = fb.get('source_quality', 'secondary')
+
+    known_codes = {str(r.get('institution_code')) for r in results if r.get('institution_code')}
+    known_names = {r.get('name') for r in results if r.get('name')}
+    for r in manual_doc.get('records', []):
+        if str(r.get('institution_code')) not in known_codes and r.get('name') not in known_names:
+            results.append(dict(r, id='manual-'+str(r.get('institution_code')),
+                                observed_at=datetime.datetime.now(datetime.timezone.utc).isoformat(),
+                                year=None, source_date=None, attempts=[]))
+
     grouped = {}
     for r in results:
         grouped.setdefault(r['grade'] or 'siniflandirilamayan', []).append(r)
+    school_grades = {'anaokulu','ilkokul','ortaokul','imam_hatip_ortaokulu','lise','mesem','ozel_egitim'}
+    school_rows = [r for r in results if r.get('grade') in school_grades]
+    unresolved_schools = [r for r in school_rows if r.get('students') is None]
     summary = {
-        'candidate_sites': len(results),
-        'student_count_found': sum(r['students'] is not None for r in results),
-        'unresolved': sum(r['students'] is None for r in results),
-        'complete_province_inventory': False,
+        'candidate_sites': len(urls),
+        'inventory_records': len(results),
+        'student_count_found': sum(r.get('students') is not None for r in results),
+        'unresolved': sum(r.get('students') is None for r in results),
+        'school_records': len(school_rows),
+        'school_student_count_found': sum(r.get('students') is not None for r in school_rows),
+        'school_unresolved': len(unresolved_schools),
+        'unresolved_school_names': [r.get('name') for r in unresolved_schools],
+        'complete_province_inventory': len(manual_doc.get('records', [])) > 0,
         'unknown_academic_year': True,
-        'note': 'School page snapshots, not a verified common-year province total. Other-province/unverified identities excluded from school totals.',
-        'grades': {k:{'records':len(v), 'count_found':sum(r['students'] is not None for r in v)} for k,v in grouped.items()}
+        'note': 'Primary values are labelled public MEB school-page snapshots. Explicit fallback values are marked secondary_snapshot. Manual roster-only schools remain null until a count is verified.',
+        'grades': {k:{'records':len(v), 'count_found':sum(r.get('students') is not None for r in v)} for k,v in grouped.items()}
     }
     (root/'students-by-grade.json').write_text(json.dumps({'summary':summary, 'grades':grouped}, ensure_ascii=False, indent=2) + '\n')
     print(json.dumps(summary, ensure_ascii=False))
