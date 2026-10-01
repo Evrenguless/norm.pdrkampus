@@ -6,6 +6,10 @@ on:
     paths:
       - "research/bayburt/seeds.json"
       - "research/bayburt/site-overrides.json"
+      - "research/bayburt/fallback-students.json"
+      - "research/bayburt/inventory-manual.json"
+      - "research/bayburt/inventory-exclusions.json"
+      - "research/bayburt/inventory-target.json"
       - "scripts/collect_students.py"
       - ".github/workflows/bayburt-collect.yml"
   workflow_dispatch:
