@@ -10,5 +10,7 @@
   ],
   "seeds": "seeds.json",
   "output": ".",
-  "max_workers": 8
+  "max_workers": 8,
+  "expected_school_records": 167,
+  "roster_complete": true
 }
