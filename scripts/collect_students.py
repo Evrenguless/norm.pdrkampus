@@ -23,8 +23,10 @@ SCHOOL_GRADES = {
 
 
 def plain(s):
-    s = re.sub(r"<(script|style)\\b[^>]*>.*?</\\1>", "", s, flags=re.I | re.S)
-    return re.sub(r"\\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", s))).strip()
+    s = re.sub(r"<script[^>]*>.*?</script>", "", s, flags=re.I | re.S)
+    s = re.sub(r"<style[^>]*>.*?</style>", "", s, flags=re.I | re.S)
+    stripped = html.unescape(re.sub(r"<[^>]+>", " ", s))
+    return " ".join(stripped.split()).strip()
 
 
 def grade(name):
@@ -70,9 +72,9 @@ def identity_pattern(province, districts):
         sorted((re.escape(x) for x in districts), key=len, reverse=True)
     )
     if not district_part:
-        district_part = r"[^/|\\n<]{2,80}"
+        district_part = r"[^/|<]{2,80}"
     return re.compile(
-        rf"{province_part}\\s*/\\s*({district_part})\\s*(?:/|-)\\s*([^|\\n<]{{3,180}})",
+        rf"{province_part} */ *({district_part}) *(?:/|-) *([^|<]{{3,180}})",
         re.I,
     )
 
@@ -83,8 +85,8 @@ def province_district_pattern(province, districts):
         sorted((re.escape(x) for x in districts), key=len, reverse=True)
     )
     if not district_part:
-        district_part = r"[^/|\\n<]{2,80}"
-    return re.compile(rf"{province_part}\\s*/\\s*({district_part})", re.I)
+        district_part = r"[^/|<]{2,80}"
+    return re.compile(rf"{province_part} */ *({district_part})", re.I)
 
 
 def collect(url, province, districts, overrides=None):
@@ -119,11 +121,11 @@ def collect(url, province, districts, overrides=None):
 
             headings = [
                 plain(x)
-                for x in re.findall(r"<h1\\b[^>]*>(.*?)</h1>", source, re.I | re.S)
+                for x in re.findall(r"<h1[^>]*>(.*?)</h1>", source, re.I | re.S)
             ]
             titles = [
                 plain(x)
-                for x in re.findall(r"<title\\b[^>]*>(.*?)</title>", source, re.I | re.S)
+                for x in re.findall(r"<title[^>]*>(.*?)</title>", source, re.I | re.S)
             ]
 
             identity = None
@@ -136,7 +138,7 @@ def collect(url, province, districts, overrides=None):
             if identity and out.get("identity_source") != "override":
                 district = identity[1].strip().replace("i̇", "i").title()
                 school = re.split(
-                    r"\\s{2,}|(?:T\\.?C\\.?\\s*)?M[İI]LL[ÎİI]\\s+EĞ[İI]T[İI]M",
+                    r"  +|(?:T[.]?C[.]? *)?M[İI]LL[ÎİI] +EĞ[İI]T[İI]M",
                     identity[2],
                 )[0].strip(" -–|")
                 out.update(province=province, district=district, name=school)
@@ -153,7 +155,7 @@ def collect(url, province, districts, overrides=None):
 
             hits = list(
                 re.finditer(
-                    r"Öğrenci\\s*(?:Sayısı)?\\s*[:|]?\\s*([0-9]+(?:[.,][0-9]{3})*)(?![0-9])",
+                    r"Öğrenci *(?:Sayısı)? *[:|]? *([0-9][0-9.,]*)(?![0-9])",
                     text,
                     re.I,
                 )
