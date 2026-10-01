@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "research/bayburt/seeds.json"
+      - "research/bayburt/site-overrides.json"
       - "scripts/collect_students.py"
       - ".github/workflows/bayburt-collect.yml"
   workflow_dispatch:
