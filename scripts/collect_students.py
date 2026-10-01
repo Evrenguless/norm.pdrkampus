@@ -46,10 +46,13 @@ def collect(url,overrides=None):
    if out.get('name'):out['grade']=grade(out['name'])
    hits=list(re.finditer(r'Öğrenci\s*(?:Sayısı)?\s*[:|]?\s*([0-9]+(?:[.,][0-9]{3})*)(?![0-9])',t,re.I))
    # Only labelled statistics; no news/year inference.
-   nums=sorted(set(int(m[1].replace('.','').replace(',','')) for m in hits))
+   nums=list(dict.fromkeys(int(m[1].replace('.','').replace(',','')) for m in hits))
    out['attempts'].append({'url':actual,'page':path or 'homepage','status':'fetched','sha256':digest,'student_candidates':nums})
-   if len(nums)==1 and out.get('province')=='Bayburt' and out.get('name'):
-    out.update(students=nums[0],source_url=actual,evidence=t[max(0,hits[0].start()-20):hits[0].end()+30],status='source_snapshot');break
+   if nums and out.get('province')=='Bayburt' and out.get('name') and (len(nums)==1 or path==''):
+    # Homepage KPI is preferred when an older embedded/about value also appears.
+    out.update(students=nums[0],source_url=actual,evidence=t[max(0,hits[0].start()-20):hits[0].end()+30],status='source_snapshot_homepage' if path=='' else 'source_snapshot')
+    if len(nums)>1:out['alternate_student_candidates']=nums[1:]
+    break
    if len(nums)>1:out['status']='conflicting_counts'
   except Exception as e:out['attempts'].append({'url':u,'status':'failed','error':type(e).__name__})
  out.setdefault('status','students_not_found' if out.get('province')=='Bayburt' else 'identity_unverified')
