@@ -43,7 +43,8 @@
   "madenihoo": {
     "province": "Bayburt",
     "district": "Merkez",
-    "name": "Maden İmam Hatip Ortaokulu"
+    "name": "Maden İmam Hatip Ortaokulu",
+    "institution_code": "760971"
   },
   "madenoo": {
     "province": "Bayburt",
@@ -108,7 +109,8 @@
   "bayraktario": {
     "province": "Bayburt",
     "district": "Merkez",
-    "name": "Bayraktar İlkokulu"
+    "name": "Bayraktar İlkokulu",
+    "institution_code": "700850"
   },
   "bayburtdagtarlailkokulu": {
     "province": "Bayburt",
@@ -139,5 +141,17 @@
     "district": "Merkez",
     "name": "Yolaltı İlkokulu",
     "institution_code": "706069"
+  },
+  "gokcedereortaokulu": {
+    "province": "Bayburt",
+    "district": "Demirözü",
+    "name": "Gökçedere Ortaokulu",
+    "institution_code": "722125"
+  },
+  "tahtoo": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Taht Ortaokulu",
+    "institution_code": "722486"
   }
 }
