@@ -10,19 +10,19 @@
     "school_student_count_found": 116,
     "school_unresolved": 9,
     "unresolved_school_names": [
-      "Kalecik Ortaokulu",
-      "Dağtarla İlkokulu",
-      "Çatıksu Ortaokulu",
-      "Çoruh Anaokulu",
       "Maden İmam Hatip Ortaokulu",
-      "Şehit Gürcan Yavuz İlkokulu",
-      "Taht Ortaokulu",
       "Veyselefendi İmam Hatip Ortaokulu",
-      "Yunus Emre İmam Hatip Ortaokulu"
+      "Yunus Emre İmam Hatip Ortaokulu",
+      "Dağtarla İlkokulu",
+      "Şehit Gürcan Yavuz İlkokulu",
+      "Kalecik Ortaokulu",
+      "Çatıksu Ortaokulu",
+      "Taht Ortaokulu",
+      "Çoruh Anaokulu"
     ],
     "complete_province_inventory": true,
     "unknown_academic_year": true,
-    "note": "Primary values are labelled public MEB school-page snapshots. Explicit fallback values are marked secondary_snapshot. Manual roster-only schools remain null until a count is verified.",
+    "note": "Bayburt active-school inventory reconciles to the 125-school target. Primary values are labelled public MEB school-page snapshots; explicit fallback values are marked secondary_snapshot. A null student count means no current labelled count was verified and is never imputed.",
     "grades": {
       "imam_hatip_ortaokulu": {
         "records": 28,
