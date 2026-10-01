@@ -2,7 +2,7 @@
   {
     "id": "23subatilkokulu",
     "source_url": "https://23subatilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:46.180890+00:00",
+    "observed_at": "2026-10-01T15:32:30.944790+00:00",
     "year": null,
     "source_date": null,
     "students": 608,
@@ -27,7 +27,7 @@
   {
     "id": "30eylulortaokulu",
     "source_url": "https://30eylulortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:46.181967+00:00",
+    "observed_at": "2026-10-01T15:32:30.945927+00:00",
     "year": null,
     "source_date": null,
     "students": 278,
@@ -52,7 +52,7 @@
   {
     "id": "703602",
     "source_url": "https://703602.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:46.182515+00:00",
+    "observed_at": "2026-10-01T15:32:30.946502+00:00",
     "year": null,
     "source_date": null,
     "students": 23,
@@ -77,7 +77,7 @@
   {
     "id": "ardahanmehmetakifersoyilkokulu",
     "source_url": "https://ardahanmehmetakifersoyilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:46.183028+00:00",
+    "observed_at": "2026-10-01T15:32:30.947324+00:00",
     "year": null,
     "source_date": null,
     "students": 185,
@@ -102,7 +102,7 @@
   {
     "id": "ardahanmehmetakifersoyortaokulu",
     "source_url": "https://ardahanmehmetakifersoyortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:46.183821+00:00",
+    "observed_at": "2026-10-01T15:32:30.951592+00:00",
     "year": null,
     "source_date": null,
     "students": 210,
@@ -127,7 +127,7 @@
   {
     "id": "ardahanram",
     "source_url": "https://ardahanram.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:46.187393+00:00",
+    "observed_at": "2026-10-01T15:32:30.954586+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -144,14 +144,14 @@
         "url": "https://ardahanram.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "7e86acbfd84c58c4e65a0d0c1789b795f113baebdc3c1fc0ebc836a20d90ee3a",
+        "sha256": "909287c1aab14eb4ac6fa62d7b330896d04778395be30f5baa664852fc670419",
         "student_candidates": []
       },
       {
         "url": "https://ardahanram.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "d3a34837d1fccdae15518e6a043b5766a82a5809d6012ad519c58ab241146836",
+        "sha256": "1809dd99fdc8e169943490e6f2f3dd969e65213cbe736f15922764d15fb234e4",
         "student_candidates": []
       }
     ],
@@ -163,7 +163,7 @@
   {
     "id": "ardahanyunusemreanadolulisesi",
     "source_url": "https://ardahanyunusemreanadolulisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:46.189367+00:00",
+    "observed_at": "2026-10-01T15:32:30.955595+00:00",
     "year": null,
     "source_date": null,
     "students": 263,
@@ -188,7 +188,7 @@
   {
     "id": "arpasenibrahimozturkilkokulu",
     "source_url": "https://arpasenibrahimozturkilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:46.190376+00:00",
+    "observed_at": "2026-10-01T15:32:30.959594+00:00",
     "year": null,
     "source_date": null,
     "students": 55,
@@ -211,9 +211,34 @@
     "status": "source_snapshot_homepage"
   },
   {
+    "id": "asiksenlikilkokulu",
+    "source_url": "https://asiksenlikilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:32:31.877441+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 90,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://asiksenlikilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "238dc2d027c5c75425affab77a264d8b358e38159bb956292ae0890ca113ee38",
+        "student_candidates": [
+          90
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Çildir",
+    "name": "Aşık Şenlik İlkokulu",
+    "evidence": "9 Öğretmen Sayısı 6 Öğrenci Sayısı 90 İLETİŞİM Adres: Suhara Mah. U",
+    "status": "source_snapshot_homepage"
+  },
+  {
     "id": "atessannaimatesortaokulu",
     "source_url": "https://atessannaimatesortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:47.114950+00:00",
+    "observed_at": "2026-10-01T15:32:31.946933+00:00",
     "year": null,
     "source_date": null,
     "students": 39,
@@ -238,7 +263,7 @@
   {
     "id": "borsaistanbulybo",
     "source_url": "https://borsaistanbulybo.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:47.170227+00:00",
+    "observed_at": "2026-10-01T15:32:31.953943+00:00",
     "year": null,
     "source_date": null,
     "students": 58,
@@ -263,7 +288,7 @@
   {
     "id": "cildiranaokulu",
     "source_url": "https://cildiranaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:47.244965+00:00",
+    "observed_at": "2026-10-01T15:32:31.994968+00:00",
     "year": null,
     "source_date": null,
     "students": 50,
@@ -288,7 +313,7 @@
   {
     "id": "cildirihl",
     "source_url": "https://cildirihl.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:47.327321+00:00",
+    "observed_at": "2026-10-01T15:32:32.005820+00:00",
     "year": null,
     "source_date": null,
     "students": 72,
@@ -313,7 +338,7 @@
   {
     "id": "cildirilkokulu",
     "source_url": "https://cildirilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:47.409843+00:00",
+    "observed_at": "2026-10-01T15:32:32.073552+00:00",
     "year": null,
     "source_date": null,
     "students": 138,
@@ -338,7 +363,7 @@
   {
     "id": "cildirlisesi",
     "source_url": "https://cildirlisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:47.443818+00:00",
+    "observed_at": "2026-10-01T15:32:32.100279+00:00",
     "year": null,
     "source_date": null,
     "students": 171,
@@ -363,7 +388,7 @@
   {
     "id": "damalcsdoo",
     "source_url": "https://damalcsdoo.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:47.660067+00:00",
+    "observed_at": "2026-10-01T15:32:32.773564+00:00",
     "year": null,
     "source_date": null,
     "students": 127,
@@ -386,42 +411,34 @@
     "status": "source_snapshot_homepage"
   },
   {
-    "id": "damalotaglioo",
-    "source_url": "https://damalotaglioo.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:47.997803+00:00",
+    "id": "damalotagliio",
+    "source_url": "https://damalotagliio.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:32:32.841805+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 32,
+    "grade": "ilkokul",
     "attempts": [
       {
-        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=damalotaglioo",
+        "url": "https://damalotagliio.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
-        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
-        "student_candidates": []
-      },
-      {
-        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=damalotaglioo",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
-        "student_candidates": []
-      },
-      {
-        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=damalotaglioo",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
-        "student_candidates": []
+        "sha256": "7e0a72fc30e313dab26c02ce5d97f0402f90f16e49080ebb81bc9f20675a849b",
+        "student_candidates": [
+          32
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Damal",
+    "name": "Otağlı İlkokulu",
+    "evidence": " Öğretmen Sayısı: 3 Öğrenci Sayısı: 32 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "dolekcayirilkokulu",
     "source_url": "https://dolekcayirilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:48.067257+00:00",
+    "observed_at": "2026-10-01T15:32:32.850379+00:00",
     "year": null,
     "source_date": null,
     "students": 27,
@@ -446,7 +463,7 @@
   {
     "id": "enveravcilkokulu",
     "source_url": "https://enveravcilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:48.130401+00:00",
+    "observed_at": "2026-10-01T15:32:32.872178+00:00",
     "year": null,
     "source_date": null,
     "students": 125,
@@ -471,7 +488,7 @@
   {
     "id": "escarmiklianadolulisesi",
     "source_url": "https://escarmiklianadolulisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:48.285509+00:00",
+    "observed_at": "2026-10-01T15:32:32.873347+00:00",
     "year": null,
     "source_date": null,
     "students": 193,
@@ -496,7 +513,7 @@
   {
     "id": "golehalkegitimi",
     "source_url": "https://golehalkegitimi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:48.355628+00:00",
+    "observed_at": "2026-10-01T15:32:32.922232+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -513,14 +530,14 @@
         "url": "https://golehalkegitimi.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "5d8a8c5d23c4557c81bbcf74c12f6775cedb9e629573fa8f55edc1b3e52af6c2",
+        "sha256": "a4dbd6358e0dd09b68bb2d26d9ea9cbd2d86c639c9f17d010b4634ac336e18f0",
         "student_candidates": []
       },
       {
         "url": "https://golehalkegitimi.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "dd5ab588e88055a0943526cc3bbb88f7f255a7a5ccd2128d8f082f7a2e2a796b",
+        "sha256": "57132539e0e1fe4966376bdd4e8849208cd38b6ef2c179bab605eb440cf066a1",
         "student_candidates": []
       }
     ],
@@ -532,7 +549,7 @@
   {
     "id": "golekazimkarabekirpasamtal",
     "source_url": "https://golekazimkarabekirpasamtal.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:48.454551+00:00",
+    "observed_at": "2026-10-01T15:32:32.938138+00:00",
     "year": null,
     "source_date": null,
     "students": 203,
@@ -557,7 +574,7 @@
   {
     "id": "golekizmeslek",
     "source_url": "https://golekizmeslek.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:48.697308+00:00",
+    "observed_at": "2026-10-01T15:32:33.454506+00:00",
     "year": null,
     "source_date": null,
     "students": 84,
@@ -582,7 +599,7 @@
   {
     "id": "goleozelegitimuygulamaokulu",
     "source_url": "https://goleozelegitimuygulamaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:48.922558+00:00",
+    "observed_at": "2026-10-01T15:32:33.653217+00:00",
     "year": null,
     "source_date": null,
     "students": 3,
@@ -605,9 +622,34 @@
     "status": "source_snapshot_homepage"
   },
   {
+    "id": "goleyenikoyortaokulu",
+    "source_url": "https://goleyenikoyortaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:32:33.696942+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 48,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://goleyenikoyortaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "462edf635b2557fccf1aaabbde69ae1648c45bc98b8dccd756f6b10329f1f9b9",
+        "student_candidates": [
+          48
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Yeniköy Ortaokulu",
+    "evidence": "5 Öğretmen Sayısı 7 Öğrenci Sayısı 48 İLETİŞİM Adres: YENİKÖY KÖYÜ ",
+    "status": "source_snapshot_homepage"
+  },
+  {
     "id": "hanakataturkortaokulu",
     "source_url": "https://hanakataturkortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:48.986205+00:00",
+    "observed_at": "2026-10-01T15:32:33.699012+00:00",
     "year": null,
     "source_date": null,
     "students": 98,
@@ -632,7 +674,7 @@
   {
     "id": "hanakcpl",
     "source_url": "https://hanakcpl.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:49.236357+00:00",
+    "observed_at": "2026-10-01T15:32:33.704535+00:00",
     "year": null,
     "source_date": null,
     "students": 99,
@@ -657,7 +699,7 @@
   {
     "id": "hanakortakentortaokulu",
     "source_url": "https://hanakortakentortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:49.250733+00:00",
+    "observed_at": "2026-10-01T15:32:33.746617+00:00",
     "year": null,
     "source_date": null,
     "students": 96,
@@ -682,7 +724,7 @@
   {
     "id": "hanaksadiyeveabdullahtanilkokulu",
     "source_url": "https://hanaksadiyeveabdullahtanilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:49.338970+00:00",
+    "observed_at": "2026-10-01T15:32:33.789651+00:00",
     "year": null,
     "source_date": null,
     "students": 56,
@@ -707,7 +749,7 @@
   {
     "id": "hanaksadiyeveabdullahtanortaokul",
     "source_url": "https://hanaksadiyeveabdullahtanortaokul.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:49.752413+00:00",
+    "observed_at": "2026-10-01T15:32:34.295578+00:00",
     "year": null,
     "source_date": null,
     "students": 49,
@@ -732,7 +774,7 @@
   {
     "id": "huseyingedikio",
     "source_url": "https://huseyingedikio.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:49.812348+00:00",
+    "observed_at": "2026-10-01T15:32:34.479831+00:00",
     "year": null,
     "source_date": null,
     "students": 173,
@@ -757,7 +799,7 @@
   {
     "id": "ibrahimozturkortaokulu",
     "source_url": "https://ibrahimozturkortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:49.851960+00:00",
+    "observed_at": "2026-10-01T15:32:34.512560+00:00",
     "year": null,
     "source_date": null,
     "students": 51,
@@ -782,7 +824,7 @@
   {
     "id": "karliyaziilkokulu",
     "source_url": "https://karliyaziilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:50.090298+00:00",
+    "observed_at": "2026-10-01T15:32:34.518107+00:00",
     "year": null,
     "source_date": null,
     "students": 11,
@@ -807,7 +849,7 @@
   {
     "id": "kayaaltiortaokulu",
     "source_url": "https://kayaaltiortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:50.130890+00:00",
+    "observed_at": "2026-10-01T15:32:34.567092+00:00",
     "year": null,
     "source_date": null,
     "students": 46,
@@ -830,9 +872,34 @@
     "status": "source_snapshot_homepage"
   },
   {
+    "id": "kkaltunbulakortaokulu",
+    "source_url": "https://kkaltunbulakortaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:32:34.601802+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 81,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://kkaltunbulakortaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "e2ccb48ea979b05ecbad0452cf367a89ed4b0d4e71f8414f8af1c6effc2d3e65",
+        "student_candidates": [
+          81
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Küçük Altunbulak Ortaokulu",
+    "evidence": "4 Öğretmen Sayısı 8 Öğrenci Sayısı 81 İletişim Adres: Küçükaltunbul",
+    "status": "source_snapshot_homepage"
+  },
+  {
     "id": "koyunluortaokulu",
     "source_url": "https://koyunluortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:50.211014+00:00",
+    "observed_at": "2026-10-01T15:32:34.610552+00:00",
     "year": null,
     "source_date": null,
     "students": 31,
@@ -855,9 +922,34 @@
     "status": "source_snapshot_homepage"
   },
   {
+    "id": "merkezataturkilkokulu",
+    "source_url": "https://merkezataturkilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:32:35.121866+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 50,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://merkezataturkilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "b71c499e729f5ec19223293f383d5d2c4591aba38f4f0a20cfc713906813ee04",
+        "student_candidates": [
+          50
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Atatürk İlkokulu",
+    "evidence": "Öğretmen Sayısı : 3 Öğrenci Sayısı : 50 Devamı İletişim Telefon : 047",
+    "status": "source_snapshot_homepage"
+  },
+  {
     "id": "merkezataturkortaokulu",
     "source_url": "https://merkezataturkortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:50.651120+00:00",
+    "observed_at": "2026-10-01T15:32:35.197605+00:00",
     "year": null,
     "source_date": null,
     "students": 27,
@@ -880,9 +972,34 @@
     "status": "source_snapshot_homepage"
   },
   {
+    "id": "merkezinonuilkokulu",
+    "source_url": "https://merkezinonuilkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:32:35.309603+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 611,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://merkezinonuilkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "9f60d8adfe8cd614537b0813eaebb46d98523b3e70856632c62df64224d925ab",
+        "student_candidates": [
+          611
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "İnönü İlkokulu",
+    "evidence": " Öğretmen Sayısı 29 Öğrenci Sayısı 611 İletişim Adres: KARAGÖL MAH. ",
+    "status": "source_snapshot_homepage"
+  },
+  {
     "id": "mesedibiortaokulu",
     "source_url": "https://mesedibiortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:50.696627+00:00",
+    "observed_at": "2026-10-01T15:32:35.353205+00:00",
     "year": null,
     "source_date": null,
     "students": 31,
@@ -907,7 +1024,7 @@
   {
     "id": "nilufergolesosyalbilimlerlisesi",
     "source_url": "https://nilufergolesosyalbilimlerlisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:50.734403+00:00",
+    "observed_at": "2026-10-01T15:32:35.398570+00:00",
     "year": null,
     "source_date": null,
     "students": 271,
@@ -932,7 +1049,7 @@
   {
     "id": "olcekortaokulu",
     "source_url": "https://olcekortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:50.819112+00:00",
+    "observed_at": "2026-10-01T15:32:35.403403+00:00",
     "year": null,
     "source_date": null,
     "students": 35,
@@ -957,7 +1074,7 @@
   {
     "id": "ozelegitimuygulama2kademe",
     "source_url": "https://ozelegitimuygulama2kademe.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:50.898796+00:00",
+    "observed_at": "2026-10-01T15:32:35.458085+00:00",
     "year": null,
     "source_date": null,
     "students": 9,
@@ -982,7 +1099,7 @@
   {
     "id": "posofhem",
     "source_url": "https://posofhem.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:51.007102+00:00",
+    "observed_at": "2026-10-01T15:32:35.610739+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -999,14 +1116,14 @@
         "url": "https://posofhem.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "14a573dde5d3533766e17715d43d8134728719fe8003e2811c6e5d603ef00c67",
+        "sha256": "4aaaf1afb454885647f1ba364ff5493ae7e32959650f58086b447f2218b8040e",
         "student_candidates": []
       },
       {
         "url": "https://posofhem.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "001308a8682f11d66a414a4cfa2a3d6b6a2ef95df75886cb5f5d4168c0cf4456",
+        "sha256": "3280a009bfe43849fdb349e6f3dad284aab7477eb79ccdb52aac99f8154d5700",
         "student_candidates": []
       }
     ],
@@ -1018,7 +1135,7 @@
   {
     "id": "posofilkokulu",
     "source_url": "https://posofilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:51.087788+00:00",
+    "observed_at": "2026-10-01T15:32:35.978217+00:00",
     "year": null,
     "source_date": null,
     "students": 175,
@@ -1043,7 +1160,7 @@
   {
     "id": "posofimamhatiplisesi",
     "source_url": "https://posofimamhatiplisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:51.542885+00:00",
+    "observed_at": "2026-10-01T15:32:36.024249+00:00",
     "year": null,
     "source_date": null,
     "students": 77,
@@ -1068,7 +1185,7 @@
   {
     "id": "posoflisesi",
     "source_url": "https://posoflisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:51.568637+00:00",
+    "observed_at": "2026-10-01T15:32:36.124925+00:00",
     "year": null,
     "source_date": null,
     "students": 71,
@@ -1093,7 +1210,7 @@
   {
     "id": "posofogretmenevi",
     "source_url": "https://posofogretmenevi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:51.640512+00:00",
+    "observed_at": "2026-10-01T15:32:36.165706+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1110,14 +1227,14 @@
         "url": "https://posofogretmenevi.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "1192c3dcd43fb7470befa66af5981a2050a8c4fd8984641974fd6098621a44de",
+        "sha256": "8ba556c3686bad7a11783083ce8fb28a39a11655850755cdb367e3bd67a12653",
         "student_candidates": []
       },
       {
         "url": "https://posofogretmenevi.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "fc3c6cd9ad2a262e07f78cbdc96f546607e47daead627a62573eb5c2547cd11e",
+        "sha256": "f429670d9ca5cf35ffc1970674062a6e3a047d9ea835d325020f2c67e771af01",
         "student_candidates": []
       }
     ],
@@ -1129,7 +1246,7 @@
   {
     "id": "sehitburhankilicortaokulu",
     "source_url": "https://sehitburhankilicortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:51.683755+00:00",
+    "observed_at": "2026-10-01T15:32:36.242928+00:00",
     "year": null,
     "source_date": null,
     "students": 50,
@@ -1154,7 +1271,7 @@
   {
     "id": "sehitercevdetcelenkortaokulu",
     "source_url": "https://sehitercevdetcelenkortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:51.780176+00:00",
+    "observed_at": "2026-10-01T15:32:36.265101+00:00",
     "year": null,
     "source_date": null,
     "students": 48,
@@ -1179,7 +1296,7 @@
   {
     "id": "sehiterkemalizciortaokulu",
     "source_url": "https://sehiterkemalizciortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:51.926892+00:00",
+    "observed_at": "2026-10-01T15:32:36.290328+00:00",
     "year": null,
     "source_date": null,
     "students": 86,
@@ -1204,7 +1321,7 @@
   {
     "id": "sehitrecepkilicortaokulu",
     "source_url": "https://sehitrecepkilicortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:51.993956+00:00",
+    "observed_at": "2026-10-01T15:32:36.858798+00:00",
     "year": null,
     "source_date": null,
     "students": 79,
@@ -1229,7 +1346,7 @@
   {
     "id": "sehittayfurhancerilkokulu",
     "source_url": "https://sehittayfurhancerilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:52.457810+00:00",
+    "observed_at": "2026-10-01T15:32:36.931416+00:00",
     "year": null,
     "source_date": null,
     "students": 167,
@@ -1252,9 +1369,34 @@
     "status": "source_snapshot_homepage"
   },
   {
+    "id": "senemogluortaokulu",
+    "source_url": "https://senemogluortaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:32:36.981124+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 65,
+    "grade": "ortaokul",
+    "attempts": [
+      {
+        "url": "https://senemogluortaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "829862e1daa65a60da45c1d65b600cb5c3ec8b4243e311eef856a11d10068b9b",
+        "student_candidates": [
+          65
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Senemoğlu Ortaokulu",
+    "evidence": "6 Öğretmen Sayısı 8 Öğrenci Sayısı 65 İletişim Adres: SENEMOĞLU KÖY",
+    "status": "source_snapshot_homepage"
+  },
+  {
     "id": "sunguluortaokulu",
     "source_url": "https://sunguluortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:52.504993+00:00",
+    "observed_at": "2026-10-01T15:32:37.077458+00:00",
     "year": null,
     "source_date": null,
     "students": 42,
@@ -1279,7 +1421,7 @@
   {
     "id": "tahtakiranilkokulu",
     "source_url": "https://tahtakiranilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:52.554043+00:00",
+    "observed_at": "2026-10-01T15:32:37.089330+00:00",
     "year": null,
     "source_date": null,
     "students": 12,
