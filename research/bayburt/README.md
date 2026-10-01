@@ -18,3 +18,14 @@ Eğitim yılı sayfadaki haberlerden çıkarılmaz. Birden çok farklı sayı bu
 MEB merkezî okul dizininin kamuya açık HTML sayfasına erişildi. Bağlı veri uç noktası “Erişim yetkiniz yok!” döndürdüğü için bu uç noktadan envanter alınmadı; kamuya açık okul sayfalarıyla ilerlenir. Tohum listesinde arama sonucu PDF'lerine ev sahipliği yapan başka illerin kurumları da bulunabilir: sayfa Bayburt kimliği göstermedikçe Bayburt kaydı sayılmaz.
 
 İl genelindeki bütün aktif kurumların tam listesi doğrulanmadı. Bu veri seti il öğrenci toplamı veya aynı eğitim yılına ait eksiksiz istatistik olarak sunulamaz. Eski platform verileri değiştirilmedi; kaynaklardaki farklı değerler araştırma dosyasında ayrıca incelenir.
+
+
+## 2026-10-01 Bayburt kapanış durumu
+
+- Güncel okul envanteri: **125 okul** (Merkez 100, Demirözü 16, Aydıntepe 9).
+- Öğrenci sayısı doğrulanmış/ikincil kaynakla işaretlenmiş: **116 okul**.
+- Kamuya açık doğrulanabilir öğrenci sayısı bulunamayan: **9 okul**. Bunlar veri setinde bilerek `null` bırakıldı; tahmin veya sıfır ataması yapılmadı.
+- Ham taramada bulunan fakat güncel il envanterinde yer almayan Fatma Ersoy Anaokulu ve Bayburt Güzel Sanatlar Lisesi güncel 125 okul hesabından çıkarıldı; ham kanıt `checkpoint.json` içinde korunuyor.
+- Güncel listede olup ayrı canlı MEB uç noktası doğrulanamayan Veyselefendi İmam Hatip Ortaokulu ve Yunus Emre İmam Hatip Ortaokulu envantere manuel-kaynaklı kayıt olarak eklendi.
+- Bilinen okul öğrenci sayılarının toplamı: **13632**. Bu, 9 okulun sayısı eksik olduğu için il toplamı değildir.
+- Son üretilen veri: `students-by-grade.json`.
