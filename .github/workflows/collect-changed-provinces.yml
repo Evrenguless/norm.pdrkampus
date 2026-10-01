@@ -26,7 +26,7 @@ permissions:
 
 concurrency:
   group: changed-province-data
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   collect:
