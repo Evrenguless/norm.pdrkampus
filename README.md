@@ -12,13 +12,19 @@ npm run check
 python -m http.server 8080 --directory dist
 ```
 
-## İlk veri seti
+## Araştırma veri hattı
 
-- Bayburt'tan resmî okul internet sayfalarında öğrenci sayısı yayımlanan 28 kurum.
-- Gözlem tarihi: 1 Ekim 2026. Öğrenci sayılarının eğitim yılı ve güncelleme tarihi kaynaklarda belirtilmiyor.
-- PDR personel sayıları bilinmiyor; genel öğretmen sayısı yerine geçirilmedi.
-- Bu liste Bayburt okul envanterinin tamamı değildir; il veya Türkiye geneli açık yayımlanamaz.
-- Özel eğitim ortak bina/bahçe ve MESEM çırak verisi eksik olan kayıtlar hesap dışındadır.
+Bayburt pilotu 1 Ekim 2026 itibarıyla 125 aktif okul hedefiyle uzlaştırılmıştır. Öğrenci sayısı kamuya açık kaynakta doğrulanamayan okullar veri setinde tahmin edilmeden `null` bırakılır; PDR personel sayısı bilinmiyorsa genel öğretmen sayısı bunun yerine kullanılmaz.
+
+Veri toplama artık il bağımsızdır:
+
+```sh
+python scripts/collect_students.py --config research/bayburt/config.json
+python scripts/run_all.py --province bayburt
+python scripts/run_all.py
+```
+
+Yeni il eklemek için `research/_template/` şablonu kopyalanır; `config.json` içine il ve ilçeler, `seeds.json` içine doğrulanacak MEB okul uç noktaları yazılır. Aynı `scripts/collect_students.py` motoru tüm illerde kullanılır.
 
 ## Hukuki durum
 
@@ -31,6 +37,10 @@ Hesap motoru 2021 tarihli MEB okul sitesindeki yönetmelik kopyasının Madde 21
 - `dist/data/schools.json`: kaynaklı okul anlık görüntüleri.
 - `dist/data/dictionary.json`: veri sözlüğü.
 - `docs/METHODOLOGY.md`: veri toplama, kontrol ve yayın ölçütleri.
+- `scripts/collect_students.py`: tüm iller için ortak okul sayfası tarayıcısı.
+- `scripts/run_all.py`: tek ili veya tüm yapılandırılmış illeri çalıştırır.
+- `research/<il>/config.json`: il adı, ilçeler ve tarama ayarları.
+- `research/_template/`: yeni il için minimum dosya şablonu.
 - `tests/`: eşik ve veri doğrulama testleri.
 
 CSV veya JSON içe aktarma yalnızca tarayıcı oturumundadır; sunucuya yüklemez. Ortak veri seti `dist/data/schools.json` dosyasıyla, inceleme sonrası sürümlenir. Paylaşım bağlantısı senaryo eşiklerini ve filtreleri taşır, yerel içe aktarılan veriyi taşımaz. Sunucu/üyelik gerektirmeden kaynaklı veri kamuya uygun bir statik platformda yayımlanabilir. İlk önizleme özel erişimlidir.
