@@ -1,0 +1,16 @@
+{
+  "province": "Ardahan",
+  "checked_at": "2026-10-01",
+  "expected_school_records": 172,
+  "discovery_status": "partial",
+  "source_quality": "secondary_meb-derived_current-roster",
+  "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+  "basis": {
+    "anaokulu": 11,
+    "ilkokul": 77,
+    "ortaokul": 52,
+    "lise": 27,
+    "ozel_egitim": 5
+  },
+  "note": "Initial reconciliation target: headline roster counts plus separately listed special-education schools. BİLSEM is tracked outside SCHOOL_GRADES. Target remains provisional until endpoint/name-level reconciliation is complete."
+}
