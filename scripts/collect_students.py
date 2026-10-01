@@ -20,8 +20,10 @@ def fetch(url):
  with urllib.request.urlopen(req,timeout=10) as r:
   if not urllib.parse.urlparse(r.url).hostname.endswith('.meb.k12.tr'):raise ValueError('Unexpected host')
   b=r.read(3*1024*1024);s=b.decode('utf-8','replace');return r.url,s,hashlib.sha256(b).hexdigest()
-def collect(url):
+def collect(url,overrides=None):
  host=urllib.parse.urlparse(url).hostname;out={'id':host.split('.')[0],'source_url':url,'observed_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'year':None,'source_date':None,'students':None,'grade':None,'attempts':[]}
+ if overrides and out['id'] in overrides:
+  out.update(overrides[out['id']]);out['grade']=grade(out['name']);out['identity_source']='override'
  for path in ['','tema/okulumuz_hakkinda.php','okulumuz_hakkinda.html']:
   u='https://'+host+'/'+path
   try:
