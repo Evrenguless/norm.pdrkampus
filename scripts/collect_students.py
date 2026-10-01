@@ -306,6 +306,35 @@ def main():
 
     results = [result for result in results if result.get("id") not in excluded_ids]
 
+    if config.get("roster_authoritative") and manual_records:
+        def roster_key(record):
+            district = (record.get("district") or "").casefold().replace("i̇", "i")
+            name = (record.get("name") or "").casefold().replace("i̇", "i")
+            name = "".join(ch for ch in name if ch.isalnum())
+            return district, name
+
+        roster = {roster_key(record): dict(record) for record in manual_records}
+        non_school_live = []
+        for live in results:
+            key = roster_key(live)
+            if live.get("grade") in SCHOOL_GRADES and key in roster:
+                base = roster[key]
+                for field in (
+                    "students", "source_url", "observed_at", "year", "source_date",
+                    "evidence", "status", "attempts", "institution_code",
+                    "secondary_source_url", "source_quality"
+                ):
+                    if live.get(field) is not None:
+                        base[field] = live[field]
+                base["id"] = live["id"]
+                base["grade"] = base.get("grade") or live.get("grade")
+                roster[key] = base
+            elif live.get("grade") not in SCHOOL_GRADES:
+                non_school_live.append(live)
+
+        results = list(roster.values()) + non_school_live
+        manual_records = []
+
     known_codes = {
         str(result.get("institution_code"))
         for result in results
