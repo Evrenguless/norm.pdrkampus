@@ -1,4 +1,10 @@
 {
   "note": "Use only when the official Ardahan school page does not expose a labelled current student statistic.",
-  "records": {}
+  "records": {
+    "posofilkokulu": {
+      "students": 181,
+      "source_quality": "secondary_meb-derived_directory",
+      "source_url": "https://www.okultanitimi.net/"
+    }
+  }
 }
