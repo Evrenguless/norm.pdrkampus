@@ -1,0 +1,75 @@
+{
+  "note": "Posof current state-school roster, reconciled 2026-10-01. AİHL name abbreviated for normalized matching.",
+  "records": [
+    {
+      "province": "Ardahan",
+      "district": "Posof",
+      "name": "Posof Anaokulu",
+      "grade": "anaokulu",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Posof",
+      "name": "Posof İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Posof",
+      "name": "Süngülü İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Posof",
+      "name": "Posof Çok Programlı Anadolu Lisesi",
+      "grade": "lise",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Posof",
+      "name": "Halitpaşa Yatılı Bölge Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Posof",
+      "name": "Süngülü Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Posof",
+      "name": "Posof AİHL",
+      "grade": "lise",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    }
+  ]
+}
