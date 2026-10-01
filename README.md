@@ -14,7 +14,7 @@ python -m http.server 8080 --directory dist
 
 ## İlk veri seti
 
-- Bayburt'tan resmî okul internet sayfalarında öğrenci sayısı yayımlanan 25 kurum.
+- Bayburt'tan resmî okul internet sayfalarında öğrenci sayısı yayımlanan 28 kurum.
 - Gözlem tarihi: 1 Ekim 2026. Öğrenci sayılarının eğitim yılı ve güncelleme tarihi kaynaklarda belirtilmiyor.
 - PDR personel sayıları bilinmiyor; genel öğretmen sayısı yerine geçirilmedi.
 - Bu liste Bayburt okul envanterinin tamamı değildir; il veya Türkiye geneli açık yayımlanamaz.
@@ -41,3 +41,6 @@ CSV veya JSON içe aktarma yalnızca tarayıcı oturumundadır; sunucuya yüklem
 
 ## Tarihsel resmî veri
 2021 Bayburt il içi ihtiyaç cetvelinin Rehberlik satırları ayrı bir JSON ve yöntem ekranında bulunur. Beş satırdaki ihtiyaç toplamı 5; bu güncel il açığı değildir. Öğrenci sayısı ve eğitim yılı bulunmadığından güncel hesap verileriyle birleştirilmez.
+
+## Araştırma odağı
+Öğrenci verilerinden norm ihtiyacı ve düzenlemenin ilave norm etkisi hesaplanır. Ana tablolar personel sayısı gerektirmez. Senaryo ekranında seçili kayıtların il ve ilçe bazında kısmi toplamları gösterilir. Personel verisi ileride doğrulanırsa ayrıntı/CSV üzerinden açık hesabı ayrıca incelenebilir.
