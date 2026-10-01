@@ -2,7 +2,7 @@
   {
     "id": "23subatilkokulu",
     "source_url": "https://23subatilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:30.944790+00:00",
+    "observed_at": "2026-10-01T15:36:50.604787+00:00",
     "year": null,
     "source_date": null,
     "students": 608,
@@ -25,9 +25,370 @@
     "status": "source_snapshot_homepage"
   },
   {
+    "id": "278297",
+    "source_url": "https://278297.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:50.606051+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=278297",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "278307",
+    "source_url": "https://278307.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:50.606846+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=278307",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "278319",
+    "source_url": "https://278319.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:50.607485+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=278319",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "278320",
+    "source_url": "https://278320.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:50.614713+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=278320",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "278332",
+    "source_url": "https://278332.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:50.615916+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=278332",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "278344",
+    "source_url": "https://278344.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:50.619825+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=278344",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "278427",
+    "source_url": "https://278427.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:50.620729+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=278427",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "278439",
+    "source_url": "https://278439.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:51.981723+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=278439",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "278535",
+    "source_url": "https://278535.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:52.289032+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=278535",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "278547",
+    "source_url": "https://278547.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:52.298059+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=278547",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "278559",
+    "source_url": "https://278559.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:52.300991+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=278559",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "278631",
+    "source_url": "https://278631.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:52.305594+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=278631",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "278643",
+    "source_url": "https://278643.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:52.312847+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=278643",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "278917",
+    "source_url": "https://278917.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:52.320396+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=278917",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "278929",
+    "source_url": "https://278929.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:52.515665+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=278929",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "279014",
+    "source_url": "https://279014.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:53.560001+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=279014",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "306898",
+    "source_url": "https://306898.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:53.683001+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=306898",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "308513",
+    "source_url": "https://308513.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:53.874825+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=308513",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "309219",
+    "source_url": "https://309219.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:53.882678+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=309219",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
     "id": "30eylulortaokulu",
     "source_url": "https://30eylulortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:30.945927+00:00",
+    "observed_at": "2026-10-01T15:36:53.887916+00:00",
     "year": null,
     "source_date": null,
     "students": 278,
@@ -50,9 +411,408 @@
     "status": "source_snapshot_homepage"
   },
   {
+    "id": "327360",
+    "source_url": "https://327360.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:53.891265+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=327360",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "365984",
+    "source_url": "https://365984.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:54.100350+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=365984",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "700029",
+    "source_url": "https://700029.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:54.112474+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=700029",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "700051",
+    "source_url": "https://700051.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:54.959424+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=700051",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "700090",
+    "source_url": "https://700090.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:55.265064+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=700090",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "700105",
+    "source_url": "https://700105.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:55.279726+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=700105",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "700131",
+    "source_url": "https://700131.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:55.280306+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=700131",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "700144",
+    "source_url": "https://700144.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:55.281988+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=700144",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "700153",
+    "source_url": "https://700153.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:55.490277+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=700153",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "700192",
+    "source_url": "https://700192.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:55.503794+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=700192",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "700269",
+    "source_url": "https://700269.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:55.507740+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=700269",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "700292",
+    "source_url": "https://700292.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:56.329748+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=700292",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "700294",
+    "source_url": "https://700294.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:56.650874+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=700294",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "700310",
+    "source_url": "https://700310.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:56.864075+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=700310",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "700423",
+    "source_url": "https://700423.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:56.882415+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=700423",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703536",
+    "source_url": "https://703536.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:56.896859+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703536",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703541",
+    "source_url": "https://703541.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:56.969839+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703541",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703543",
+    "source_url": "https://703543.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:56.981041+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703543",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703555",
+    "source_url": "https://703555.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:57.048744+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703555",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703560",
+    "source_url": "https://703560.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:57.762533+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703560",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703586",
+    "source_url": "https://703586.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:58.086562+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703586",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
     "id": "703602",
     "source_url": "https://703602.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:30.946502+00:00",
+    "observed_at": "2026-10-01T15:36:58.444698+00:00",
     "year": null,
     "source_date": null,
     "students": 23,
@@ -75,9 +835,3002 @@
     "status": "source_snapshot_homepage"
   },
   {
+    "id": "703618",
+    "source_url": "https://703618.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:58.445563+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703618",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703630",
+    "source_url": "https://703630.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:58.446021+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703630",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703633",
+    "source_url": "https://703633.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:58.447514+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703633",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703643",
+    "source_url": "https://703643.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:58.453329+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703643",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703648",
+    "source_url": "https://703648.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:58.481857+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703648",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703650",
+    "source_url": "https://703650.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:59.139231+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703650",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703665",
+    "source_url": "https://703665.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:59.371245+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703665",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703681",
+    "source_url": "https://703681.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:59.468811+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703681",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703690",
+    "source_url": "https://703690.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:59.826330+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703690",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703718",
+    "source_url": "https://703718.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:36:59.854005+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703718",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703722",
+    "source_url": "https://703722.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:00.039742+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703722",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703741",
+    "source_url": "https://703741.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:00.040723+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703741",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703744",
+    "source_url": "https://703744.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:00.042349+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703744",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703781",
+    "source_url": "https://703781.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:00.551511+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703781",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703784",
+    "source_url": "https://703784.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:00.793207+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703784",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703806",
+    "source_url": "https://703806.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:01.090848+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703806",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703829",
+    "source_url": "https://703829.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:01.220126+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703829",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703845",
+    "source_url": "https://703845.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:01.449047+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703845",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703859",
+    "source_url": "https://703859.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:01.453093+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703859",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703907",
+    "source_url": "https://703907.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:01.458721+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703907",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703944",
+    "source_url": "https://703944.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:01.460037+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703944",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "703978",
+    "source_url": "https://703978.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:01.930883+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=703978",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "704909",
+    "source_url": "https://704909.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:02.193085+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=704909",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "706733",
+    "source_url": "https://706733.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:02.627108+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=706733",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "706815",
+    "source_url": "https://706815.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:02.818485+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=706815",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "706888",
+    "source_url": "https://706888.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:02.840382+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=706888",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "706915",
+    "source_url": "https://706915.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:03.024830+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=706915",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "706936",
+    "source_url": "https://706936.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:03.026927+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=706936",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "706956",
+    "source_url": "https://706956.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:03.029466+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=706956",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "706980",
+    "source_url": "https://706980.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:03.291879+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=706980",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "707002",
+    "source_url": "https://707002.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:03.579123+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=707002",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "707076",
+    "source_url": "https://707076.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:04.024499+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=707076",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "707093",
+    "source_url": "https://707093.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:04.224495+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=707093",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "707152",
+    "source_url": "https://707152.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:04.249509+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=707152",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "708284",
+    "source_url": "https://708284.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:04.423031+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=708284",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "708295",
+    "source_url": "https://708295.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:04.435303+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=708295",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "708300",
+    "source_url": "https://708300.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:04.438483+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=708300",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "708333",
+    "source_url": "https://708333.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:04.675697+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=708333",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "708335",
+    "source_url": "https://708335.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:04.989689+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=708335",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "708342",
+    "source_url": "https://708342.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:05.400423+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=708342",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "708350",
+    "source_url": "https://708350.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:05.624986+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=708350",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "708359",
+    "source_url": "https://708359.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:05.630632+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=708359",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "708366",
+    "source_url": "https://708366.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:05.827361+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=708366",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "708373",
+    "source_url": "https://708373.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:05.862121+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=708373",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "708391",
+    "source_url": "https://708391.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:05.866792+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=708391",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "708395",
+    "source_url": "https://708395.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:06.083449+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=708395",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "708404",
+    "source_url": "https://708404.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:06.424368+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=708404",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "708415",
+    "source_url": "https://708415.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:06.809653+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=708415",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "713678",
+    "source_url": "https://713678.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:07.036089+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=713678",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "714880",
+    "source_url": "https://714880.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:07.061380+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=714880",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "714901",
+    "source_url": "https://714901.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:07.221146+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=714901",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "714906",
+    "source_url": "https://714906.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:07.240183+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=714906",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "714918",
+    "source_url": "https://714918.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:07.257537+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=714918",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "714925",
+    "source_url": "https://714925.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:07.492130+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=714925",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "714931",
+    "source_url": "https://714931.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:07.824334+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=714931",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "718059",
+    "source_url": "https://718059.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:08.217937+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=718059",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "722166",
+    "source_url": "https://722166.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:08.598384+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=722166",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "727014",
+    "source_url": "https://727014.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:08.608934+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=727014",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "727099",
+    "source_url": "https://727099.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:08.610172+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=727099",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "733882",
+    "source_url": "https://733882.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:08.612694+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=733882",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "734383",
+    "source_url": "https://734383.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:08.654458+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=734383",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "734385",
+    "source_url": "https://734385.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:08.865499+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=734385",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "734386",
+    "source_url": "https://734386.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:09.222676+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=734386",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "734388",
+    "source_url": "https://734388.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:09.592632+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=734388",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "734466",
+    "source_url": "https://734466.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:09.976904+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=734466",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "734470",
+    "source_url": "https://734470.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:09.985075+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=734470",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "734473",
+    "source_url": "https://734473.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:09.990339+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=734473",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "734631",
+    "source_url": "https://734631.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:10.006189+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=734631",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "745161",
+    "source_url": "https://745161.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:10.036571+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=745161",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "746649",
+    "source_url": "https://746649.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:10.221750+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=746649",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "746650",
+    "source_url": "https://746650.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:10.609288+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=746650",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "746651",
+    "source_url": "https://746651.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:10.964344+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=746651",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "746653",
+    "source_url": "https://746653.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:11.376687+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=746653",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "746654",
+    "source_url": "https://746654.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:11.387857+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=746654",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "746655",
+    "source_url": "https://746655.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:11.395551+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=746655",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "747796",
+    "source_url": "https://747796.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:11.398050+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=747796",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "748316",
+    "source_url": "https://748316.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:11.415663+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=748316",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "748317",
+    "source_url": "https://748317.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:11.631030+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=748317",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "748399",
+    "source_url": "https://748399.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:12.006020+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=748399",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "748781",
+    "source_url": "https://748781.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:12.354818+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=748781",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "751144",
+    "source_url": "https://751144.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:12.762935+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=751144",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "751474",
+    "source_url": "https://751474.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:12.777913+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=751474",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "751475",
+    "source_url": "https://751475.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:12.783627+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=751475",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "751476",
+    "source_url": "https://751476.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:12.805176+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=751476",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "751478",
+    "source_url": "https://751478.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:12.817123+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=751478",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "751479",
+    "source_url": "https://751479.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:13.013283+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=751479",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "751679",
+    "source_url": "https://751679.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:13.400953+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=751679",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "752190",
+    "source_url": "https://752190.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:13.753322+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=752190",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "752316",
+    "source_url": "https://752316.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:14.154871+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=752316",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "752827",
+    "source_url": "https://752827.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:14.179517+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=752827",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "757322",
+    "source_url": "https://757322.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:14.182574+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=757322",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "757323",
+    "source_url": "https://757323.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:14.185269+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=757323",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "757324",
+    "source_url": "https://757324.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:14.212481+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=757324",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "758071",
+    "source_url": "https://758071.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:14.426680+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=758071",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "759128",
+    "source_url": "https://759128.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:14.800159+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=759128",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "759642",
+    "source_url": "https://759642.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:15.157220+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=759642",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "759784",
+    "source_url": "https://759784.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:15.555934+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=759784",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "760298",
+    "source_url": "https://760298.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:15.580314+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=760298",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "761154",
+    "source_url": "https://761154.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:15.582841+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=761154",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "761830",
+    "source_url": "https://761830.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:15.598801+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=761830",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "761909",
+    "source_url": "https://761909.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:15.629529+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=761909",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "762103",
+    "source_url": "https://762103.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:15.817105+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=762103",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "763462",
+    "source_url": "https://763462.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:16.295666+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=763462",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "764164",
+    "source_url": "https://764164.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:16.552078+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=764164",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "766677",
+    "source_url": "https://766677.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:16.925348+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=766677",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "766932",
+    "source_url": "https://766932.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:16.944240+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 53,
+    "grade": "anaokulu",
+    "attempts": [
+      {
+        "url": "https://766932.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "2c5569b8cd4a64212b5acc05bead9f67e7b07959a67cdfe731813445a580f816",
+        "student_candidates": [
+          53
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Türkiye Gemi İnşa Sanayicileri Birliği Kızılay Anaokulu",
+    "evidence": " Öğretmen Sayısı: 5 Öğrenci Sayısı: 53 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot_homepage"
+  },
+  {
+    "id": "767003",
+    "source_url": "https://767003.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:16.993660+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=767003",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "767587",
+    "source_url": "https://767587.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:16.995856+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=767587",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "767588",
+    "source_url": "https://767588.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:17.019367+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=767588",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "767791",
+    "source_url": "https://767791.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:17.230842+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=767791",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "767870",
+    "source_url": "https://767870.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:17.693443+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=767870",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "768130",
+    "source_url": "https://768130.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:17.950101+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 7,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://768130.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "577e32b7a116d836ae591bbe6b45d078e1d41cb0707e75d811d5ccde7a7548c1",
+        "student_candidates": [
+          7
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Çildir",
+    "name": "Öncül İlkokulu",
+    "evidence": "2 Öğretmen Sayısı 1 Öğrenci Sayısı 7 İletişim Adres: ÖNCÜL KÖYÜ ÖN",
+    "status": "source_snapshot_homepage"
+  },
+  {
+    "id": "768692",
+    "source_url": "https://768692.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:18.028836+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=768692",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "768693",
+    "source_url": "https://768693.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:18.288058+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=768693",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "768695",
+    "source_url": "https://768695.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:18.363801+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=768695",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "768874",
+    "source_url": "https://768874.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:18.402999+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=768874",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "769475",
+    "source_url": "https://769475.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:18.418561+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=769475",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "769560",
+    "source_url": "https://769560.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:18.605344+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=769560",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "770981",
+    "source_url": "https://770981.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:18.839498+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 0,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://770981.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "9a68d1e3d91c4bef9d5943930eca264fdbdb027a41c69e6e0d18234c7b8ec1e0",
+        "student_candidates": [
+          0
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Alagöz İlkokulu",
+    "evidence": "Öğretmen Sayısı : 0 Öğrenci Sayısı : 0 Devamı İletişim Telefon : 047",
+    "status": "source_snapshot_homepage"
+  },
+  {
+    "id": "770982",
+    "source_url": "https://770982.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:19.087644+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 15,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://770982.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "9dd822c6c216c4a54aa29530fd61ec6fc9793651bd350fe0c560f18cdae0db05",
+        "student_candidates": [
+          15
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Çataldere İlkokulu",
+    "evidence": "2 Öğretmen Sayısı 2 Öğrenci Sayısı 15 İletişim Adres: ÇATALDERE KÖY",
+    "status": "source_snapshot_homepage"
+  },
+  {
+    "id": "772733",
+    "source_url": "https://772733.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:19.414451+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=772733",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "772737",
+    "source_url": "https://772737.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:19.672333+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=772737",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "773707",
+    "source_url": "https://773707.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:19.721995+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 0,
+    "grade": "ozel_egitim",
+    "attempts": [
+      {
+        "url": "https://773707.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "9d90503c89a8d73a4c0e449437ff4d405617b1fcdd0d6d908bc75d31a0976d61",
+        "student_candidates": [
+          0
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Göle Özel Eğitim Anaokulu",
+    "evidence": "Öğretmen Sayısı : 0 Öğrenci Sayısı : 0 Devamı İletişim Telefon : 0 E",
+    "status": "source_snapshot_homepage"
+  },
+  {
+    "id": "774121",
+    "source_url": "https://774121.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:19.788288+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=774121",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "774122",
+    "source_url": "https://774122.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:19.863944+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=774122",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "774123",
+    "source_url": "https://774123.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:19.900499+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 12,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://774123.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "fce25c32b5e0b37b08821446bb21b1581d75f1ca20deedf697820facf5a5fc22",
+        "student_candidates": [
+          12
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Çildir",
+    "name": "Akçakale İlkokulu",
+    "evidence": " Öğretmen Sayısı: 1 Öğrenci Sayısı: 12 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot_homepage"
+  },
+  {
+    "id": "774254",
+    "source_url": "https://774254.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:20.000344+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 50,
+    "grade": "lise",
+    "attempts": [
+      {
+        "url": "https://774254.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "f3a75a580d4451e8d412e53b6ca93a6eb42cde5fc293f0453b270c990d425da8",
+        "student_candidates": [
+          50
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Göle Tarım Mesleki ve Teknik Anadolu Lisesi",
+    "evidence": "Öğretmen Sayısı : 5 Öğrenci Sayısı : 50 Devamı İletişim Telefon : 000",
+    "status": "source_snapshot_homepage"
+  },
+  {
+    "id": "819025",
+    "source_url": "https://819025.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:20.147041+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=819025",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "887502",
+    "source_url": "https://887502.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:20.791298+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=887502",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "887895",
+    "source_url": "https://887895.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:20.799978+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=887895",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "887989",
+    "source_url": "https://887989.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:20.808685+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=887989",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "959184",
+    "source_url": "https://959184.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:21.079426+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=959184",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "963277",
+    "source_url": "https://963277.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:21.137626+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=963277",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "964928",
+    "source_url": "https://964928.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:21.167362+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=964928",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "965295",
+    "source_url": "https://965295.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:21.242164+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=965295",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "965403",
+    "source_url": "https://965403.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:21.546134+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=965403",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "965782",
+    "source_url": "https://965782.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:22.180015+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=965782",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "965895",
+    "source_url": "https://965895.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:22.188363+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=965895",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "971481",
+    "source_url": "https://971481.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:22.197555+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=971481",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "971485",
+    "source_url": "https://971485.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:22.483753+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=971485",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "971486",
+    "source_url": "https://971486.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:22.515289+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=971486",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "971764",
+    "source_url": "https://971764.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:22.585241+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=971764",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "972788",
+    "source_url": "https://972788.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:22.642130+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=972788",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "974258",
+    "source_url": "https://974258.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:22.925859+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=974258",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "974320",
+    "source_url": "https://974320.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:23.546906+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=974320",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "974783",
+    "source_url": "https://974783.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:23.584802+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=974783",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "975185",
+    "source_url": "https://975185.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:23.602742+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=975185",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "975189",
+    "source_url": "https://975189.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:23.887786+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=975189",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "975195",
+    "source_url": "https://975195.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:23.911785+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=975195",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "975207",
+    "source_url": "https://975207.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:23.990988+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=975207",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "975217",
+    "source_url": "https://975217.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:24.044734+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=975217",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "975353",
+    "source_url": "https://975353.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:24.320321+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=975353",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "975374",
+    "source_url": "https://975374.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:24.941259+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=975374",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "976569",
+    "source_url": "https://976569.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:24.960890+00:00",
+    "year": null,
+    "source_date": null,
+    "students": null,
+    "grade": null,
+    "attempts": [
+      {
+        "url": "https://www.meb.k12.tr/HataliDns.php?DNS=976569",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "3bcca2e4f37183080e8c973ac7ff363e2700961c96e855ec10f4a47b6474b7f7",
+        "student_candidates": []
+      }
+    ],
+    "status": "identity_unverified"
+  },
+  {
+    "id": "ardahanhalitpasailkokulu",
+    "source_url": "https://ardahanhalitpasailkokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:25.024905+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 159,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://ardahanhalitpasailkokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "e8253d67b7626cefd8333c1ffc91746fdd211ea291bf641f7a91591c0d74cdbe",
+        "student_candidates": [
+          159
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Merkez Halit Paşa İlkokulu",
+    "evidence": "8 Öğretmen Sayısı 9 Öğrenci Sayısı 159 İLETİŞİM Adres: ATATÜRK MAH. ",
+    "status": "source_snapshot_homepage"
+  },
+  {
     "id": "ardahanmehmetakifersoyilkokulu",
     "source_url": "https://ardahanmehmetakifersoyilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:30.947324+00:00",
+    "observed_at": "2026-10-01T15:37:25.257685+00:00",
     "year": null,
     "source_date": null,
     "students": 185,
@@ -102,7 +3855,7 @@
   {
     "id": "ardahanmehmetakifersoyortaokulu",
     "source_url": "https://ardahanmehmetakifersoyortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:30.951592+00:00",
+    "observed_at": "2026-10-01T15:37:25.299388+00:00",
     "year": null,
     "source_date": null,
     "students": 210,
@@ -127,7 +3880,7 @@
   {
     "id": "ardahanram",
     "source_url": "https://ardahanram.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:30.954586+00:00",
+    "observed_at": "2026-10-01T15:37:25.379591+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -144,14 +3897,14 @@
         "url": "https://ardahanram.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "909287c1aab14eb4ac6fa62d7b330896d04778395be30f5baa664852fc670419",
+        "sha256": "b438b8451fbda32d6b53a462e0590e679a68f3b8103e2287e1f6d26d8456158a",
         "student_candidates": []
       },
       {
         "url": "https://ardahanram.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "1809dd99fdc8e169943490e6f2f3dd969e65213cbe736f15922764d15fb234e4",
+        "sha256": "9fb0f6cbe0e1b70d5e9c4de9e64e59d05b94fc9f2974c6a5882d5e12e19c27ac",
         "student_candidates": []
       }
     ],
@@ -163,7 +3916,7 @@
   {
     "id": "ardahanyunusemreanadolulisesi",
     "source_url": "https://ardahanyunusemreanadolulisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:30.955595+00:00",
+    "observed_at": "2026-10-01T15:37:25.411140+00:00",
     "year": null,
     "source_date": null,
     "students": 263,
@@ -186,9 +3939,34 @@
     "status": "source_snapshot_homepage"
   },
   {
+    "id": "ardahanzubeydehanimao",
+    "source_url": "https://ardahanzubeydehanimao.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:25.695983+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 119,
+    "grade": "anaokulu",
+    "attempts": [
+      {
+        "url": "https://ardahanzubeydehanimao.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "b3f090879e6dc0e0d38ca3371f96d10a70d69283de75ba8affd684bf46830f39",
+        "student_candidates": [
+          119
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Zübeyde Hanım Anaokulu",
+    "evidence": " Öğretmen Sayısı: 7 Öğrenci Sayısı: 119 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot_homepage"
+  },
+  {
     "id": "arpasenibrahimozturkilkokulu",
     "source_url": "https://arpasenibrahimozturkilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:30.959594+00:00",
+    "observed_at": "2026-10-01T15:37:26.118986+00:00",
     "year": null,
     "source_date": null,
     "students": 55,
@@ -213,7 +3991,7 @@
   {
     "id": "asiksenlikilkokulu",
     "source_url": "https://asiksenlikilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:31.877441+00:00",
+    "observed_at": "2026-10-01T15:37:26.322484+00:00",
     "year": null,
     "source_date": null,
     "students": 90,
@@ -238,7 +4016,7 @@
   {
     "id": "atessannaimatesortaokulu",
     "source_url": "https://atessannaimatesortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:31.946933+00:00",
+    "observed_at": "2026-10-01T15:37:26.335313+00:00",
     "year": null,
     "source_date": null,
     "students": 39,
@@ -263,7 +4041,7 @@
   {
     "id": "borsaistanbulybo",
     "source_url": "https://borsaistanbulybo.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:31.953943+00:00",
+    "observed_at": "2026-10-01T15:37:26.345254+00:00",
     "year": null,
     "source_date": null,
     "students": 58,
@@ -281,14 +4059,16 @@
     ],
     "province": "Ardahan",
     "district": "Göle",
-    "name": "Borsa İstanbul Ortaokulu",
+    "name": "75.Yıl İstanbul Menkul Kıymetler Bor.Yatılı Bölge Ortaokulu",
+    "institution_code": "747796",
+    "identity_source": "override",
     "evidence": " Öğretmen Sayısı 14 Öğrenci Sayısı 58 İletişim Adres: SALİM BEY MAH",
     "status": "source_snapshot_homepage"
   },
   {
     "id": "cildiranaokulu",
     "source_url": "https://cildiranaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:31.994968+00:00",
+    "observed_at": "2026-10-01T15:37:26.354972+00:00",
     "year": null,
     "source_date": null,
     "students": 50,
@@ -313,7 +4093,7 @@
   {
     "id": "cildirihl",
     "source_url": "https://cildirihl.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:32.005820+00:00",
+    "observed_at": "2026-10-01T15:37:26.488761+00:00",
     "year": null,
     "source_date": null,
     "students": 72,
@@ -338,7 +4118,7 @@
   {
     "id": "cildirilkokulu",
     "source_url": "https://cildirilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:32.073552+00:00",
+    "observed_at": "2026-10-01T15:37:26.573351+00:00",
     "year": null,
     "source_date": null,
     "students": 138,
@@ -363,7 +4143,7 @@
   {
     "id": "cildirlisesi",
     "source_url": "https://cildirlisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:32.100279+00:00",
+    "observed_at": "2026-10-01T15:37:27.213152+00:00",
     "year": null,
     "source_date": null,
     "students": 171,
@@ -388,7 +4168,7 @@
   {
     "id": "damalcsdoo",
     "source_url": "https://damalcsdoo.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:32.773564+00:00",
+    "observed_at": "2026-10-01T15:37:27.384454+00:00",
     "year": null,
     "source_date": null,
     "students": 127,
@@ -413,7 +4193,7 @@
   {
     "id": "damalotagliio",
     "source_url": "https://damalotagliio.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:32.841805+00:00",
+    "observed_at": "2026-10-01T15:37:27.386878+00:00",
     "year": null,
     "source_date": null,
     "students": 32,
@@ -438,7 +4218,7 @@
   {
     "id": "dolekcayirilkokulu",
     "source_url": "https://dolekcayirilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:32.850379+00:00",
+    "observed_at": "2026-10-01T15:37:27.390502+00:00",
     "year": null,
     "source_date": null,
     "students": 27,
@@ -463,7 +4243,7 @@
   {
     "id": "enveravcilkokulu",
     "source_url": "https://enveravcilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:32.872178+00:00",
+    "observed_at": "2026-10-01T15:37:27.402992+00:00",
     "year": null,
     "source_date": null,
     "students": 125,
@@ -488,7 +4268,7 @@
   {
     "id": "escarmiklianadolulisesi",
     "source_url": "https://escarmiklianadolulisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:32.873347+00:00",
+    "observed_at": "2026-10-01T15:37:27.590511+00:00",
     "year": null,
     "source_date": null,
     "students": 193,
@@ -511,9 +4291,36 @@
     "status": "source_snapshot_homepage"
   },
   {
+    "id": "goleasml",
+    "source_url": "https://goleasml.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:27.660346+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 122,
+    "grade": "lise",
+    "attempts": [
+      {
+        "url": "https://goleasml.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "372f2bc9b04a6c9806faa5ab4978fef41366eb2e862d02e1bce8c6970722aa9d",
+        "student_candidates": [
+          122
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Göle Nurettin Yılmaz Mesleki ve Teknik Anadolu Lisesi",
+    "institution_code": "748781",
+    "identity_source": "override",
+    "evidence": "ğretmen Sayısı : 11 Öğrenci Sayısı : 122 Devamı İletişim Telefon : (47",
+    "status": "source_snapshot_homepage"
+  },
+  {
     "id": "golehalkegitimi",
     "source_url": "https://golehalkegitimi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:32.922232+00:00",
+    "observed_at": "2026-10-01T15:37:28.265580+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -530,14 +4337,14 @@
         "url": "https://golehalkegitimi.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "a4dbd6358e0dd09b68bb2d26d9ea9cbd2d86c639c9f17d010b4634ac336e18f0",
+        "sha256": "da8ca23155bd9cb84f7c9d504ac3fd638931ed025e54016f4923e2bd237ca538",
         "student_candidates": []
       },
       {
         "url": "https://golehalkegitimi.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "57132539e0e1fe4966376bdd4e8849208cd38b6ef2c179bab605eb440cf066a1",
+        "sha256": "023163885c5f1e5e1d56f53a4a41d07a7affaec36a383edb31169a4d5b78414d",
         "student_candidates": []
       }
     ],
@@ -549,7 +4356,7 @@
   {
     "id": "golekazimkarabekirpasamtal",
     "source_url": "https://golekazimkarabekirpasamtal.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:32.938138+00:00",
+    "observed_at": "2026-10-01T15:37:28.270690+00:00",
     "year": null,
     "source_date": null,
     "students": 203,
@@ -574,7 +4381,7 @@
   {
     "id": "golekizmeslek",
     "source_url": "https://golekizmeslek.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:33.454506+00:00",
+    "observed_at": "2026-10-01T15:37:28.446440+00:00",
     "year": null,
     "source_date": null,
     "students": 84,
@@ -592,14 +4399,16 @@
     ],
     "province": "Ardahan",
     "district": "Göle",
-    "name": "Göle Feride Karabacak Turizm Mesleki ve Teknik Anadolu Lisesi",
+    "name": "Göle Feride Karabacak Mesleki ve Teknik Anadolu Lisesi",
+    "institution_code": "278535",
+    "identity_source": "override",
     "evidence": " Öğretmen Sayısı 15 Öğrenci Sayısı 84 İletişim Adres: Kubilay Bey M",
     "status": "source_snapshot_homepage"
   },
   {
     "id": "goleozelegitimuygulamaokulu",
     "source_url": "https://goleozelegitimuygulamaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:33.653217+00:00",
+    "observed_at": "2026-10-01T15:37:28.454063+00:00",
     "year": null,
     "source_date": null,
     "students": 3,
@@ -624,7 +4433,7 @@
   {
     "id": "goleyenikoyortaokulu",
     "source_url": "https://goleyenikoyortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:33.696942+00:00",
+    "observed_at": "2026-10-01T15:37:28.461015+00:00",
     "year": null,
     "source_date": null,
     "students": 48,
@@ -647,9 +4456,34 @@
     "status": "source_snapshot_homepage"
   },
   {
+    "id": "hanakanaokulu",
+    "source_url": "https://hanakanaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:28.633121+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 35,
+    "grade": "anaokulu",
+    "attempts": [
+      {
+        "url": "https://hanakanaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "85f523b6275e586c54650f53637e8e5fe0553e2725eaf65b40dbb66df88d417a",
+        "student_candidates": [
+          35
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Hanak",
+    "name": "Hanak Anaokulu",
+    "evidence": " Öğretmen Sayısı: 4 Öğrenci Sayısı: 35 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot_homepage"
+  },
+  {
     "id": "hanakataturkortaokulu",
     "source_url": "https://hanakataturkortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:33.699012+00:00",
+    "observed_at": "2026-10-01T15:37:28.658284+00:00",
     "year": null,
     "source_date": null,
     "students": 98,
@@ -674,7 +4508,7 @@
   {
     "id": "hanakcpl",
     "source_url": "https://hanakcpl.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:33.704535+00:00",
+    "observed_at": "2026-10-01T15:37:28.737074+00:00",
     "year": null,
     "source_date": null,
     "students": 99,
@@ -699,7 +4533,7 @@
   {
     "id": "hanakortakentortaokulu",
     "source_url": "https://hanakortakentortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:33.746617+00:00",
+    "observed_at": "2026-10-01T15:37:29.320705+00:00",
     "year": null,
     "source_date": null,
     "students": 96,
@@ -724,7 +4558,7 @@
   {
     "id": "hanaksadiyeveabdullahtanilkokulu",
     "source_url": "https://hanaksadiyeveabdullahtanilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:33.789651+00:00",
+    "observed_at": "2026-10-01T15:37:29.534224+00:00",
     "year": null,
     "source_date": null,
     "students": 56,
@@ -749,7 +4583,7 @@
   {
     "id": "hanaksadiyeveabdullahtanortaokul",
     "source_url": "https://hanaksadiyeveabdullahtanortaokul.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:34.295578+00:00",
+    "observed_at": "2026-10-01T15:37:29.536753+00:00",
     "year": null,
     "source_date": null,
     "students": 49,
@@ -772,9 +4606,34 @@
     "status": "source_snapshot_homepage"
   },
   {
+    "id": "hocvanhaskoyataturkio",
+    "source_url": "https://hocvanhaskoyataturkio.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:29.579593+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 53,
+    "grade": "ilkokul",
+    "attempts": [
+      {
+        "url": "https://hocvanhaskoyataturkio.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "695a8ba90492f96d9f91e21708a5d026e8186535e99dda8a191ca001b75e7e4b",
+        "student_candidates": [
+          53
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Hoçuvan Hasköy Atatürk İlkokulu",
+    "evidence": "slik: 7 Öğretmen: 4 Öğrenci: 53 İletişim RSS Site Haritası © ",
+    "status": "source_snapshot_homepage"
+  },
+  {
     "id": "huseyingedikio",
     "source_url": "https://huseyingedikio.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:34.479831+00:00",
+    "observed_at": "2026-10-01T15:37:29.715523+00:00",
     "year": null,
     "source_date": null,
     "students": 173,
@@ -799,7 +4658,7 @@
   {
     "id": "ibrahimozturkortaokulu",
     "source_url": "https://ibrahimozturkortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:34.512560+00:00",
+    "observed_at": "2026-10-01T15:37:29.732572+00:00",
     "year": null,
     "source_date": null,
     "students": 51,
@@ -824,7 +4683,7 @@
   {
     "id": "karliyaziilkokulu",
     "source_url": "https://karliyaziilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:34.518107+00:00",
+    "observed_at": "2026-10-01T15:37:29.798121+00:00",
     "year": null,
     "source_date": null,
     "students": 11,
@@ -849,7 +4708,7 @@
   {
     "id": "kayaaltiortaokulu",
     "source_url": "https://kayaaltiortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:34.567092+00:00",
+    "observed_at": "2026-10-01T15:37:30.382152+00:00",
     "year": null,
     "source_date": null,
     "students": 46,
@@ -874,7 +4733,7 @@
   {
     "id": "kkaltunbulakortaokulu",
     "source_url": "https://kkaltunbulakortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:34.601802+00:00",
+    "observed_at": "2026-10-01T15:37:30.616020+00:00",
     "year": null,
     "source_date": null,
     "students": 81,
@@ -899,7 +4758,7 @@
   {
     "id": "koyunluortaokulu",
     "source_url": "https://koyunluortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:34.610552+00:00",
+    "observed_at": "2026-10-01T15:37:30.636593+00:00",
     "year": null,
     "source_date": null,
     "students": 31,
@@ -924,7 +4783,7 @@
   {
     "id": "merkezataturkilkokulu",
     "source_url": "https://merkezataturkilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:35.121866+00:00",
+    "observed_at": "2026-10-01T15:37:30.650860+00:00",
     "year": null,
     "source_date": null,
     "students": 50,
@@ -949,7 +4808,7 @@
   {
     "id": "merkezataturkortaokulu",
     "source_url": "https://merkezataturkortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:35.197605+00:00",
+    "observed_at": "2026-10-01T15:37:30.695796+00:00",
     "year": null,
     "source_date": null,
     "students": 27,
@@ -974,7 +4833,7 @@
   {
     "id": "merkezinonuilkokulu",
     "source_url": "https://merkezinonuilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:35.309603+00:00",
+    "observed_at": "2026-10-01T15:37:30.772734+00:00",
     "year": null,
     "source_date": null,
     "students": 611,
@@ -999,7 +4858,7 @@
   {
     "id": "mesedibiortaokulu",
     "source_url": "https://mesedibiortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:35.353205+00:00",
+    "observed_at": "2026-10-01T15:37:30.773531+00:00",
     "year": null,
     "source_date": null,
     "students": 31,
@@ -1022,9 +4881,36 @@
     "status": "source_snapshot_homepage"
   },
   {
+    "id": "meslekveteknikanadolulisesi",
+    "source_url": "https://meslekveteknikanadolulisesi.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:31.402664+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 228,
+    "grade": "lise",
+    "attempts": [
+      {
+        "url": "https://meslekveteknikanadolulisesi.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "8b17502bc6957fa2e6cbe67812236bd00cd64eb12cc194108cf3f4a2ff114b6f",
+        "student_candidates": [
+          228
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Şehit Türkmen Tekin Mesleki ve Teknik Anadolu Lisesi",
+    "institution_code": "278307",
+    "identity_source": "override",
+    "evidence": "ğretmen Sayısı : 32 Öğrenci Sayısı : 228 Devamı İletişim Telefon : 0 (",
+    "status": "source_snapshot_homepage"
+  },
+  {
     "id": "nilufergolesosyalbilimlerlisesi",
     "source_url": "https://nilufergolesosyalbilimlerlisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:35.398570+00:00",
+    "observed_at": "2026-10-01T15:37:31.426128+00:00",
     "year": null,
     "source_date": null,
     "students": 271,
@@ -1049,7 +4935,7 @@
   {
     "id": "olcekortaokulu",
     "source_url": "https://olcekortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:35.403403+00:00",
+    "observed_at": "2026-10-01T15:37:31.664172+00:00",
     "year": null,
     "source_date": null,
     "students": 35,
@@ -1074,7 +4960,7 @@
   {
     "id": "ozelegitimuygulama2kademe",
     "source_url": "https://ozelegitimuygulama2kademe.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:35.458085+00:00",
+    "observed_at": "2026-10-01T15:37:31.675016+00:00",
     "year": null,
     "source_date": null,
     "students": 9,
@@ -1092,14 +4978,68 @@
     ],
     "province": "Ardahan",
     "district": "Merkez",
-    "name": "ARDAHAN ÖZEL EĞİTİM UYGULAMA MERKEZİ II. KADEME",
+    "name": "Ardahan Özel Eğitim Uygulama Okulu II. Kademe",
+    "institution_code": "757323",
+    "identity_source": "override",
     "evidence": " Öğretmen Sayısı 10 Öğrenci Sayısı 9 İletişim Adres: ATATÜRK MAH. ",
+    "status": "source_snapshot_homepage"
+  },
+  {
+    "id": "ozelegitimuygulama3kademe",
+    "source_url": "https://ozelegitimuygulama3kademe.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:31.776388+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 28,
+    "grade": "ozel_egitim",
+    "attempts": [
+      {
+        "url": "https://ozelegitimuygulama3kademe.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "72b3e88fb511c6829bf0d116fe70d91f58199ccb1abbb17ffd47e9594933ce90",
+        "student_candidates": [
+          28
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Ardahan Özel Eğitim Uygulama Okulu III. Kademe",
+    "institution_code": "757324",
+    "identity_source": "override",
+    "evidence": " Öğretmen Sayısı 18 Öğrenci Sayısı 28 İletişim Adres: ATATÜRK MAH. ",
+    "status": "source_snapshot_homepage"
+  },
+  {
+    "id": "posofanaokulu",
+    "source_url": "https://posofanaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:31.781588+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 66,
+    "grade": "anaokulu",
+    "attempts": [
+      {
+        "url": "https://posofanaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "c2679613ad0e0974a8193dcf7c8d8ba7ab2576efa183e1cb32c7bef8296ec5f7",
+        "student_candidates": [
+          66
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Posof",
+    "name": "Posof Anaokulu",
+    "evidence": " Öğretmen Sayısı: 8 Öğrenci Sayısı: 66 Menü  Ana Sayfa Menü Level 1",
     "status": "source_snapshot_homepage"
   },
   {
     "id": "posofhem",
     "source_url": "https://posofhem.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:35.610739+00:00",
+    "observed_at": "2026-10-01T15:37:31.833261+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1116,14 +5056,14 @@
         "url": "https://posofhem.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "4aaaf1afb454885647f1ba364ff5493ae7e32959650f58086b447f2218b8040e",
+        "sha256": "925386abe817af5351bcf78c94da67b58a6c1c629bc2704042a86175678aab37",
         "student_candidates": []
       },
       {
         "url": "https://posofhem.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "3280a009bfe43849fdb349e6f3dad284aab7477eb79ccdb52aac99f8154d5700",
+        "sha256": "0d4a83af55e39c78b2b1810dbef22bb82b440c1486cf3ddf16cac54319df784b",
         "student_candidates": []
       }
     ],
@@ -1135,7 +5075,7 @@
   {
     "id": "posofilkokulu",
     "source_url": "https://posofilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:35.978217+00:00",
+    "observed_at": "2026-10-01T15:37:31.848272+00:00",
     "year": null,
     "source_date": null,
     "students": 175,
@@ -1160,11 +5100,11 @@
   {
     "id": "posofimamhatiplisesi",
     "source_url": "https://posofimamhatiplisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:36.024249+00:00",
+    "observed_at": "2026-10-01T15:37:32.552841+00:00",
     "year": null,
     "source_date": null,
     "students": 77,
-    "grade": "lise",
+    "grade": "diger_kurum",
     "attempts": [
       {
         "url": "https://posofimamhatiplisesi.meb.k12.tr/",
@@ -1178,14 +5118,16 @@
     ],
     "province": "Ardahan",
     "district": "Posof",
-    "name": "Posof Aşık Sabit Müdami Anadolu İmam Hatip Lisesi",
+    "name": "Posof AİHL",
+    "institution_code": "974783",
+    "identity_source": "override",
     "evidence": "ğretmen Sayısı : 12 Öğrenci Sayısı : 77 Devamı İletişim Telefon : 047",
     "status": "source_snapshot_homepage"
   },
   {
     "id": "posoflisesi",
     "source_url": "https://posoflisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:36.124925+00:00",
+    "observed_at": "2026-10-01T15:37:32.557394+00:00",
     "year": null,
     "source_date": null,
     "students": 71,
@@ -1210,7 +5152,7 @@
   {
     "id": "posofogretmenevi",
     "source_url": "https://posofogretmenevi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:36.165706+00:00",
+    "observed_at": "2026-10-01T15:37:32.735337+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1227,14 +5169,14 @@
         "url": "https://posofogretmenevi.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "8ba556c3686bad7a11783083ce8fb28a39a11655850755cdb367e3bd67a12653",
+        "sha256": "09a7dc048f98b168ed3afd30cdb8e4cbceaa6f3a026e5a5e61ee0d10a8927fa2",
         "student_candidates": []
       },
       {
         "url": "https://posofogretmenevi.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "f429670d9ca5cf35ffc1970674062a6e3a047d9ea835d325020f2c67e771af01",
+        "sha256": "51e54adfcaf38101402c7494435df6e05034e3a32c5af32c9101a4d73b477a57",
         "student_candidates": []
       }
     ],
@@ -1244,9 +5186,59 @@
     "status": "students_not_found"
   },
   {
+    "id": "rekabetkurumuanadolulisesi",
+    "source_url": "https://rekabetkurumuanadolulisesi.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:32.744059+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 200,
+    "grade": "lise",
+    "attempts": [
+      {
+        "url": "https://rekabetkurumuanadolulisesi.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "e2d13e0bb1c2d89624cd7f85d000778dedc5874a98c984fdbfc33fa362278963",
+        "student_candidates": [
+          200
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Ardahan Rekabet Kurumu Anadolu Lisesi",
+    "evidence": " Öğretmen Sayısı 19 Öğrenci Sayısı 200 İletişim Adres: ATATÜRK MAH. ",
+    "status": "source_snapshot_homepage"
+  },
+  {
+    "id": "saadetulusanaokulu",
+    "source_url": "https://saadetulusanaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:32.849166+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 49,
+    "grade": "anaokulu",
+    "attempts": [
+      {
+        "url": "https://saadetulusanaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "2cfa2b9943d92b2623f041bdd169466ef21f7964b695c830fb0afa16ecf54c9f",
+        "student_candidates": [
+          49
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Saadet Ulus Anaokulu",
+    "evidence": "3 Öğretmen Sayısı 3 Öğrenci Sayısı 49 İletişim Adres: SALİM BEY MAH",
+    "status": "source_snapshot_homepage"
+  },
+  {
     "id": "sehitburhankilicortaokulu",
     "source_url": "https://sehitburhankilicortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:36.242928+00:00",
+    "observed_at": "2026-10-01T15:37:32.912938+00:00",
     "year": null,
     "source_date": null,
     "students": 50,
@@ -1269,9 +5261,34 @@
     "status": "source_snapshot_homepage"
   },
   {
+    "id": "sehitcanercelikanaokulu",
+    "source_url": "https://sehitcanercelikanaokulu.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:32.925383+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 22,
+    "grade": "anaokulu",
+    "attempts": [
+      {
+        "url": "https://sehitcanercelikanaokulu.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "ff0fb11b8007c98e2b24aec29e19cb7a372b50eb968e153789a81965c9ee0058",
+        "student_candidates": [
+          22
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Şehit Caner Çelik Anaokulu",
+    "evidence": " Öğretmen Sayısı: 2 Öğrenci Sayısı: 22 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot_homepage"
+  },
+  {
     "id": "sehitercevdetcelenkortaokulu",
     "source_url": "https://sehitercevdetcelenkortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:36.265101+00:00",
+    "observed_at": "2026-10-01T15:37:33.620565+00:00",
     "year": null,
     "source_date": null,
     "students": 48,
@@ -1296,7 +5313,7 @@
   {
     "id": "sehiterkemalizciortaokulu",
     "source_url": "https://sehiterkemalizciortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:36.290328+00:00",
+    "observed_at": "2026-10-01T15:37:33.625037+00:00",
     "year": null,
     "source_date": null,
     "students": 86,
@@ -1319,9 +5336,34 @@
     "status": "source_snapshot_homepage"
   },
   {
+    "id": "sehitibrahimerdoganmtal",
+    "source_url": "https://sehitibrahimerdoganmtal.meb.k12.tr/",
+    "observed_at": "2026-10-01T15:37:33.831975+00:00",
+    "year": null,
+    "source_date": null,
+    "students": 254,
+    "grade": "lise",
+    "attempts": [
+      {
+        "url": "https://sehitibrahimerdoganmtal.meb.k12.tr/",
+        "page": "homepage",
+        "status": "fetched",
+        "sha256": "4b40052c75d09c5822554989fca7877857b258dec24a453aacb05da01d595b60",
+        "student_candidates": [
+          254
+        ]
+      }
+    ],
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Şehit Uz. Çvş. İbrahim Erdoğan Mesleki ve Teknik Anadolu Lisesi",
+    "evidence": "ğretmen Sayısı : 21 Öğrenci Sayısı : 254 Devamı İletişim Telefon : (04",
+    "status": "source_snapshot_homepage"
+  },
+  {
     "id": "sehitrecepkilicortaokulu",
     "source_url": "https://sehitrecepkilicortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:36.858798+00:00",
+    "observed_at": "2026-10-01T15:37:33.914007+00:00",
     "year": null,
     "source_date": null,
     "students": 79,
@@ -1346,7 +5388,7 @@
   {
     "id": "sehittayfurhancerilkokulu",
     "source_url": "https://sehittayfurhancerilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:36.931416+00:00",
+    "observed_at": "2026-10-01T15:37:33.949329+00:00",
     "year": null,
     "source_date": null,
     "students": 167,
@@ -1371,7 +5413,7 @@
   {
     "id": "senemogluortaokulu",
     "source_url": "https://senemogluortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:36.981124+00:00",
+    "observed_at": "2026-10-01T15:37:33.990406+00:00",
     "year": null,
     "source_date": null,
     "students": 65,
@@ -1396,7 +5438,7 @@
   {
     "id": "sunguluortaokulu",
     "source_url": "https://sunguluortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:37.077458+00:00",
+    "observed_at": "2026-10-01T15:37:34.678185+00:00",
     "year": null,
     "source_date": null,
     "students": 42,
@@ -1421,7 +5463,7 @@
   {
     "id": "tahtakiranilkokulu",
     "source_url": "https://tahtakiranilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:32:37.089330+00:00",
+    "observed_at": "2026-10-01T15:37:34.706481+00:00",
     "year": null,
     "source_date": null,
     "students": 12,
