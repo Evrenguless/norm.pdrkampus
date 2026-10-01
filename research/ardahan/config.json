@@ -1,0 +1,14 @@
+{
+  "province": "Ardahan",
+  "districts": [
+    "Merkez",
+    "Çıldır",
+    "Damal",
+    "Göle",
+    "Hanak",
+    "Posof"
+  ],
+  "seeds": "seeds.json",
+  "output": ".",
+  "max_workers": 8
+}
