@@ -69,11 +69,6 @@
     "district": "Merkez",
     "name": "Veyselefendi Ortaokulu"
   },
-  "bayburterdembayaztiho": {
-    "province": "Bayburt",
-    "district": "Merkez",
-    "name": "Erdem Bayazıt İmam Hatip Ortaokulu"
-  },
   "bayburtmadenilkokulu": {
     "province": "Bayburt",
     "district": "Merkez",
@@ -98,5 +93,15 @@
     "province": "Bayburt",
     "district": "Merkez",
     "name": "Şehit Fatih Kostik Ortaokulu"
+  },
+  "bayburterdembyztiho": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Erdem Bayazıt İmam Hatip Ortaokulu"
+  },
+  "bayraktario": {
+    "province": "Bayburt",
+    "district": "Merkez",
+    "name": "Bayraktar İlkokulu"
   }
 }
