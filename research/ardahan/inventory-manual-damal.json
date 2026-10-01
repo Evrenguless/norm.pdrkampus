@@ -1,0 +1,115 @@
+{
+  "note": "Damal current state-school roster, reconciled 2026-10-01.",
+  "records": [
+    {
+      "province": "Ardahan",
+      "district": "Damal",
+      "name": "Damal Anaokulu",
+      "grade": "anaokulu",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Damal",
+      "name": "Burmadere İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Damal",
+      "name": "Cumhurba\u015fkan\u0131 S\u00fcleyman Demirel İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Damal",
+      "name": "Oburcak İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Damal",
+      "name": "Otağlı İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Damal",
+      "name": "Seyitören İlkokulu",
+      "grade": "ilkokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Damal",
+      "name": "Şehit Piyade Assteğmen Yılmaz Kaan Çok Programlı Anadolu Lisesi",
+      "grade": "lise",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Damal",
+      "name": "Burmadere Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Damal",
+      "name": "Cumhurba\u015fkan\u0131 S\u00fcleyman Demirel Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Damal",
+      "name": "Otağlı Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    },
+    {
+      "province": "Ardahan",
+      "district": "Damal",
+      "name": "Seyitören Ortaokulu",
+      "grade": "ortaokul",
+      "students": null,
+      "status": "confirmed_in_current_roster",
+      "source_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan",
+      "current_roster_url": "https://www.okultanitimi.net/il/ardahan?do=il&link=ardahan"
+    }
+  ]
+}
