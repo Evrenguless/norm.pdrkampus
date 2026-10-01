@@ -2,7 +2,7 @@
   {
     "id": "23subatilkokulu",
     "source_url": "https://23subatilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:26.638877+00:00",
+    "observed_at": "2026-10-01T15:29:21.332997+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -19,14 +19,14 @@
         "url": "https://23subatilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "1b5c6e3b6cae2a95a92edeec54400df0d3beaed52d27faaaf4bb68daad516050",
+        "sha256": "c3c45e364c633cb23e0888edf04c5528f5c2167e1b35b3296a98fc3b29a0328c",
         "student_candidates": []
       },
       {
         "url": "https://23subatilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "5a16dc15126d472b497115f7f6ddfa3b9ee774957e288136eaad7a68dadf5d15",
+        "sha256": "5cc15c900e1e8e3ed635430098636285e2fc22d1085a57959483e62104e97f42",
         "student_candidates": []
       }
     ],
@@ -35,7 +35,7 @@
   {
     "id": "30eylulortaokulu",
     "source_url": "https://30eylulortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:26.639980+00:00",
+    "observed_at": "2026-10-01T15:29:21.333960+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -52,14 +52,14 @@
         "url": "https://30eylulortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "31f77874539219f0abbf07569632f68c0ebef1c906cc4a041381ac2fe82d7787",
+        "sha256": "e5814d469914c23ba1aff7b9c34465c5b98a9944a50300cc9143ce07866095f0",
         "student_candidates": []
       },
       {
         "url": "https://30eylulortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "4fb310f6f8e292d51f2b14e250807822fc3c1cd7da4b3ed0a33f4e84319136fc",
+        "sha256": "74c112efa59abc8de5a88f5f1699d3da2e696b8699801280c831c5caf99ac61f",
         "student_candidates": []
       }
     ],
@@ -68,7 +68,7 @@
   {
     "id": "703602",
     "source_url": "https://703602.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:26.640562+00:00",
+    "observed_at": "2026-10-01T15:29:21.334513+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -85,14 +85,14 @@
         "url": "https://703602.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "0fa4160e03a163d6fc4b154e10cdefe90ad215a08750ad573741607488bd7b1d",
+        "sha256": "ccb8c44d44cc6db03b63840f0f1228ed32113b60aaffdafce6b6ce288cac4c2a",
         "student_candidates": []
       },
       {
         "url": "https://703602.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "122cc239d34b700f7c4ebdcc3585a5665c60c1560b653ddc5eb8cf51103adcdc",
+        "sha256": "17814228a24845ff0993f57031083a38def9ce77587ce841dc5aaa0bda8d9326",
         "student_candidates": []
       }
     ],
@@ -101,7 +101,7 @@
   {
     "id": "ardahanmehmetakifersoyilkokulu",
     "source_url": "https://ardahanmehmetakifersoyilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:26.641353+00:00",
+    "observed_at": "2026-10-01T15:29:21.335174+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -118,14 +118,14 @@
         "url": "https://ardahanmehmetakifersoyilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "7247b6987648330ae7d3d28b987b0d72d2b5821084bb94b3c965e4a0f4eaff1e",
+        "sha256": "23832f015ca5b2130289eeecc022f89971299b6cfc52e02048fbe0b07876ae52",
         "student_candidates": []
       },
       {
         "url": "https://ardahanmehmetakifersoyilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "eaa94ecbec9e326bbc1fe8fa9c8686c0f71509716415e157bc41249f5558c97e",
+        "sha256": "744cfdcd2ecd8c815a3eeb475a637df18b6818d9d5efacc3cea455f5d05705d9",
         "student_candidates": []
       }
     ],
@@ -134,7 +134,7 @@
   {
     "id": "ardahanmehmetakifersoyortaokulu",
     "source_url": "https://ardahanmehmetakifersoyortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:26.644643+00:00",
+    "observed_at": "2026-10-01T15:29:21.335639+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -151,14 +151,14 @@
         "url": "https://ardahanmehmetakifersoyortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "7bb2c4c46e04b39af6de20013644053e245f9e4e993413126097d30bb83f6576",
+        "sha256": "8a95bc4581fa0c5ae9fff77707a325eb6f4c852ce13bca897aaa4a9a58dee114",
         "student_candidates": []
       },
       {
         "url": "https://ardahanmehmetakifersoyortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "11a1d2608e7b22d4b932b7bc0d9bb27ced2472c1523bfe9c0571ca9307bf0b22",
+        "sha256": "7705966e1be25576832d7a2fc49c0702c720df55f07561975cb60b974a8c4b55",
         "student_candidates": []
       }
     ],
@@ -167,7 +167,7 @@
   {
     "id": "ardahanram",
     "source_url": "https://ardahanram.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:26.645546+00:00",
+    "observed_at": "2026-10-01T15:29:21.342016+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -184,14 +184,14 @@
         "url": "https://ardahanram.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "0df92d79081c8c9a64d896a8599c176cc1d93f0cbe03e0c77d433c7b12de5793",
+        "sha256": "fbec3af062788c57d0f3dd8f8ff43ade60568d9c45c8e72c3520c6b5fd603f20",
         "student_candidates": []
       },
       {
         "url": "https://ardahanram.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "7e793e4d7e27747679bb8d764b2bfafbf67ddeff80bf568614dc35792e57519a",
+        "sha256": "93d8c0e87b2941648887187ce91e203637e15221f2530d9b8779fa8cddd0e95b",
         "student_candidates": []
       }
     ],
@@ -200,7 +200,7 @@
   {
     "id": "ardahanyunusemreanadolulisesi",
     "source_url": "https://ardahanyunusemreanadolulisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:26.646655+00:00",
+    "observed_at": "2026-10-01T15:29:21.347960+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -217,14 +217,14 @@
         "url": "https://ardahanyunusemreanadolulisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "9ca37f90341f88fbf4ac2558b92bd0961b19df7246fe9399a97a32f120d4e72f",
+        "sha256": "3c262b3f878b929bd0765891af15c45f43f5a8df9bd34a1cca4af29a3920c7e5",
         "student_candidates": []
       },
       {
         "url": "https://ardahanyunusemreanadolulisesi.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "29fc3092a406bd973a75bfd535600659bd850b9752a4c55f87ce3fe9b226b1b9",
+        "sha256": "efccdbd665bcf14ee81c5450ab2f2e17499167398ef5e12afb479dd50a3840a8",
         "student_candidates": []
       }
     ],
@@ -233,7 +233,7 @@
   {
     "id": "arpasenibrahimozturkilkokulu",
     "source_url": "https://arpasenibrahimozturkilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:26.652567+00:00",
+    "observed_at": "2026-10-01T15:29:21.351031+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -250,14 +250,14 @@
         "url": "https://arpasenibrahimozturkilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "15f8902a090f840c100b1b8a5ed81f8b84f86ba8bdb4256758396ccec878cf02",
+        "sha256": "583140d64fbf40ac2f310725b80ca90fb9f151b3e80461341c9d8a190b058378",
         "student_candidates": []
       },
       {
         "url": "https://arpasenibrahimozturkilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "a41e725fdcf070ea12e121de99584578ba4f1a13571f3d09c5bfa4fd94b43805",
+        "sha256": "711b790e9c34e446e674e570bb73729b860cfc7baf701ff3eb54c516fe81ddcb",
         "student_candidates": []
       }
     ],
@@ -266,7 +266,7 @@
   {
     "id": "atessannaimatesortaokulu",
     "source_url": "https://atessannaimatesortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:29.366977+00:00",
+    "observed_at": "2026-10-01T15:29:24.506808+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -283,14 +283,14 @@
         "url": "https://atessannaimatesortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "74f04afba0c40164e4618b0a139c95672a893d4fc787d157e90c7767fb3d6d91",
+        "sha256": "b05796807a1a97534f47da31b89857e2b8f02e95ee2e4c262e0406fa5f478a15",
         "student_candidates": []
       },
       {
         "url": "https://atessannaimatesortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "53a5094513243d0a0a0b8bfee0f6ef2b8ed66edfee467d2a3e4cf35cb05e8b38",
+        "sha256": "de895c5225c96b25702afcec308268d8c4537b59f6da0dc5cd506ab17277531b",
         "student_candidates": []
       }
     ],
@@ -299,7 +299,7 @@
   {
     "id": "borsaistanbulybo",
     "source_url": "https://borsaistanbulybo.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:29.516780+00:00",
+    "observed_at": "2026-10-01T15:29:24.510485+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -316,14 +316,14 @@
         "url": "https://borsaistanbulybo.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "242d388a81be328069a7ffa76c03f699b63b53edef843e37d32f7e8325d9e0a2",
+        "sha256": "fc4bfa11d4fde2dda59a57649192ac45fa009189f3fe7840d91dfc6af56ecfdd",
         "student_candidates": []
       },
       {
         "url": "https://borsaistanbulybo.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "e50463c09e54f89926b649540dcda62f385c29d9a3bc04c95ce319dc18b2d65f",
+        "sha256": "d385053939e256133b33e0363026e0cdc2efa62d66b55f2b0d4f60ee7465f255",
         "student_candidates": []
       }
     ],
@@ -332,7 +332,7 @@
   {
     "id": "cildiranaokulu",
     "source_url": "https://cildiranaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:29.556988+00:00",
+    "observed_at": "2026-10-01T15:29:24.513285+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -349,14 +349,14 @@
         "url": "https://cildiranaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "92e98044a868e2ae8ec560b713cec7eb16040ea3398b3ed07a8e0487e0bc39f1",
+        "sha256": "adbb06568cb80fbdd7ed8271f0b40879ae4c31f85e9b6975ec232a03ad9a151c",
         "student_candidates": []
       },
       {
         "url": "https://cildiranaokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "e36c4078c74582366c84a9ea46274fd3feadc8ba2bd78612269ec448c5b1a3be",
+        "sha256": "2f75a15d3608bcbfb2dda6c82facf90ab0ec6c3d6d24be72a063fbbb0cd057ea",
         "student_candidates": []
       }
     ],
@@ -365,7 +365,7 @@
   {
     "id": "cildirihl",
     "source_url": "https://cildirihl.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:29.588151+00:00",
+    "observed_at": "2026-10-01T15:29:24.521719+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -382,14 +382,14 @@
         "url": "https://cildirihl.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "930b6f04f460ae10c745121d0e36a7923af26177ca81791d2555b8ec010ee018",
+        "sha256": "92e1562ee07512fa9c5147acd10c30ac3294703ac4559c921fe28dfa45b208be",
         "student_candidates": []
       },
       {
         "url": "https://cildirihl.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "e0c3d42dd7b543d42b17b8c6352b1373e9e3b502abd46e7f0743ad18afc83411",
+        "sha256": "3ea7b33dc975cccf0c6681dbca8ff41777417e845b830e730a3f9f617079fd99",
         "student_candidates": []
       }
     ],
@@ -398,7 +398,7 @@
   {
     "id": "cildirilkokulu",
     "source_url": "https://cildirilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:29.629314+00:00",
+    "observed_at": "2026-10-01T15:29:24.618515+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -415,14 +415,14 @@
         "url": "https://cildirilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "33af7cae84b5463f9544ec63c481f0f134806effb53157695f0fe0ba2b0db2ac",
+        "sha256": "6d76f3b0e414163d1ab1c9946bef6bdc3f95534b1f96abe9beee4782cd9b8851",
         "student_candidates": []
       },
       {
         "url": "https://cildirilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "7c2a1bdb728005a5d1542ef32ef8da0f594804429b987ffbf7c9034b9f99ea1f",
+        "sha256": "9431f1a99e172a4d6f8e517d9716b43ccb4f5495bce182fd8289cec4a04e284b",
         "student_candidates": []
       }
     ],
@@ -431,7 +431,7 @@
   {
     "id": "cildirlisesi",
     "source_url": "https://cildirlisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:29.683478+00:00",
+    "observed_at": "2026-10-01T15:29:24.912346+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -448,14 +448,14 @@
         "url": "https://cildirlisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "2ec992b00ccda8cb183c1507b0d6882d3469688fc4fbecc05aaee86756fad0c6",
+        "sha256": "0b7cdc55f47aead24195ff952f38db41a7e8658d112a59aa5b00cc88f5212133",
         "student_candidates": []
       },
       {
         "url": "https://cildirlisesi.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "c4bbbfe9fa76e4d7aee1e047a88c61f6ea3a3a90feb68362c417319d0df9663b",
+        "sha256": "ae0d34ce7d0e9d0bf1728baff11d6fdb8430fc3bc6241a64e61773501ad56bf0",
         "student_candidates": []
       }
     ],
@@ -464,7 +464,7 @@
   {
     "id": "damalotaglioo",
     "source_url": "https://damalotaglioo.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:29.797354+00:00",
+    "observed_at": "2026-10-01T15:29:24.974786+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -497,7 +497,7 @@
   {
     "id": "dolekcayirilkokulu",
     "source_url": "https://dolekcayirilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:29.825054+00:00",
+    "observed_at": "2026-10-01T15:29:25.134212+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -514,14 +514,14 @@
         "url": "https://dolekcayirilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "53d1866ab9814433db911966fe875618ea28068b0b14fa735323176bfb36576c",
+        "sha256": "8c1c9f8f998f14da48a0597938e5ff5e45e4d2f374b68ce80407db0799ed01c9",
         "student_candidates": []
       },
       {
         "url": "https://dolekcayirilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "45a3833b6b6918f57e090bcdbeca35fa83ee60259ed23ccff010b5b7762774b1",
+        "sha256": "0baa7cf6e17fa3c2eaf1930faba722f9bfb18c4623241abaf1b7b46e0ab3a3b1",
         "student_candidates": []
       }
     ],
@@ -530,7 +530,7 @@
   {
     "id": "enveravcilkokulu",
     "source_url": "https://enveravcilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:31.864504+00:00",
+    "observed_at": "2026-10-01T15:29:27.196127+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -547,14 +547,14 @@
         "url": "https://enveravcilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "69dedfa8b9aa88bfacf37d76ca6d30810fce761fe3eb2dbe4a1b58c983c51989",
+        "sha256": "d10eb080ce154a9050e110a2134b42f11fcacfd9e8fb10d55aa324ca21eb037b",
         "student_candidates": []
       },
       {
         "url": "https://enveravcilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "fe4fad4fc5ecf0e950f39cc9c8d7bdae13b42d10279be8eb7550b5beb1327eac",
+        "sha256": "7925b2597f1e465ac468045cd8ff58bdb6d0681488e589116aa9844ee0a425e7",
         "student_candidates": []
       }
     ],
@@ -563,7 +563,7 @@
   {
     "id": "escarmiklianadolulisesi",
     "source_url": "https://escarmiklianadolulisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:31.869276+00:00",
+    "observed_at": "2026-10-01T15:29:27.309814+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -580,14 +580,14 @@
         "url": "https://escarmiklianadolulisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "a7e619af1080bb5b79579f12490fa81d08174e1871d6deea5334a4be12d8ee3f",
+        "sha256": "6c4d7ead5265047be7a4b39564b74ecd61be1a935563e9243768af3442044e4f",
         "student_candidates": []
       },
       {
         "url": "https://escarmiklianadolulisesi.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "711b3d40d775926a79df19befc0e66d83c930f70f8fbfdb177ea60a09a159650",
+        "sha256": "e6d2e0bbe4617a6b306ec9a8f353c9d64ad82fc92293f47248b4fb9057a6566d",
         "student_candidates": []
       }
     ],
@@ -596,7 +596,7 @@
   {
     "id": "golehalkegitimi",
     "source_url": "https://golehalkegitimi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:31.909284+00:00",
+    "observed_at": "2026-10-01T15:29:27.382808+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -613,14 +613,14 @@
         "url": "https://golehalkegitimi.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "f2569e197065b047c83399ca28642475e29efcb7e03e6e96ba786c4545b00db8",
+        "sha256": "c701f7a9c2102b9e50070418cf2c45cb48425390c7824ecc944881a5c90c0f12",
         "student_candidates": []
       },
       {
         "url": "https://golehalkegitimi.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "da6b358506b36f56ff3ee53cb1548e5a33efdca99465b59b165b8747a6e8c9a8",
+        "sha256": "2f9d009128b9a0f6237bd79406caa5e16903dc41f4816c3198cca48d4ce2412a",
         "student_candidates": []
       }
     ],
@@ -629,7 +629,7 @@
   {
     "id": "golekazimkarabekirpasamtal",
     "source_url": "https://golekazimkarabekirpasamtal.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:32.076119+00:00",
+    "observed_at": "2026-10-01T15:29:27.572381+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -646,14 +646,14 @@
         "url": "https://golekazimkarabekirpasamtal.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "d9132a3ca3550ed482331cc32235475fb1944893cc93c42ab049957a00b1d1a9",
+        "sha256": "25495b984149f99fd91ee5700c46565bd50cce9c75b07e4645e9b38c302c3dd3",
         "student_candidates": []
       },
       {
         "url": "https://golekazimkarabekirpasamtal.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "31b878155c16db703f57508e1fed68c2c16fdaf6480f9c4e28d1bf4edc58ddaf",
+        "sha256": "72ba791ca2a933b50001f75990acb123cb842565290b95807b396eec86b531f5",
         "student_candidates": []
       }
     ],
@@ -662,7 +662,7 @@
   {
     "id": "golekizmeslek",
     "source_url": "https://golekizmeslek.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:32.301252+00:00",
+    "observed_at": "2026-10-01T15:29:27.711819+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -679,14 +679,14 @@
         "url": "https://golekizmeslek.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "88caa01e9019db2cc74d64f3688b6685856e1c9f203c3cc1f919fe770847884c",
+        "sha256": "88945213ea974b91cfc2a46354080127d03ef56fe37f4c12f6c2038c2e399bb2",
         "student_candidates": []
       },
       {
         "url": "https://golekizmeslek.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "0db256dc7400c17d1dd89b8cd8e5a8dadb8b935140437e1032e1555166a2f48a",
+        "sha256": "c8d247ff2fe42fad6fe219077ce1ec68dbf50fec83d91f02f3e7b657fbc520d3",
         "student_candidates": []
       }
     ],
@@ -695,7 +695,7 @@
   {
     "id": "goleozelegitimuygulamaokulu",
     "source_url": "https://goleozelegitimuygulamaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:32.303493+00:00",
+    "observed_at": "2026-10-01T15:29:28.082435+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -712,14 +712,14 @@
         "url": "https://goleozelegitimuygulamaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "b5733f1e937ec4c551496183e3a71a6f9ebd212a843dfea352beead149e00e2f",
+        "sha256": "13e191989e6f69f96835d04a8395f3e61b13da6d2093c163454b0355c77b039a",
         "student_candidates": []
       },
       {
         "url": "https://goleozelegitimuygulamaokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "c1147cf58c10a42c64c0e32851b84686b3e4bd502547a553bc60d04e1fd15a0b",
+        "sha256": "1e65686ce3ec69cca1c17fecbfbd2050e3591d77089073b41830bc603d0ac755",
         "student_candidates": []
       }
     ],
@@ -728,7 +728,7 @@
   {
     "id": "hanakataturkortaokulu",
     "source_url": "https://hanakataturkortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:32.461681+00:00",
+    "observed_at": "2026-10-01T15:29:28.086839+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -745,14 +745,14 @@
         "url": "https://hanakataturkortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "76ed00caed411e46fa5d5cab97d55b1f1bb9bdf22eb8a87566f5e4891c6a876f",
+        "sha256": "e3acd37eac7eba5ee64d600070915ce1cfcc3762dafd4b615e6d435695509e61",
         "student_candidates": []
       },
       {
         "url": "https://hanakataturkortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "76ebc9d9e456eb684355aa3202f6c22e1e43ffb1211947f5bce0a56cecf2326a",
+        "sha256": "f63b35bd937e9dc5984f397a8805c49327bf1f278936ae44e0e0ab38e36ec786",
         "student_candidates": []
       }
     ],
@@ -761,7 +761,7 @@
   {
     "id": "hanakcpl",
     "source_url": "https://hanakcpl.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:33.735310+00:00",
+    "observed_at": "2026-10-01T15:29:29.388903+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -778,14 +778,14 @@
         "url": "https://hanakcpl.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "3279f95441218079b7d13b61e36cc5a8c56dc89719d3350b655c4aaabd29132d",
+        "sha256": "e33566535f78cde2a2ad777f462bda45051771e341b09195f90b4c43c698ced7",
         "student_candidates": []
       },
       {
         "url": "https://hanakcpl.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "414b52e744a111fa407dd355e9773c812e0be1ab55c83bdd0e59c8ead14712d0",
+        "sha256": "337252cb0ff5a164735d54aa356b9aa4899c75e16aaf9ed60ff9341b493b3c7a",
         "student_candidates": []
       }
     ],
@@ -794,7 +794,7 @@
   {
     "id": "hanakortakentortaokulu",
     "source_url": "https://hanakortakentortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:34.375588+00:00",
+    "observed_at": "2026-10-01T15:29:30.253632+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -811,14 +811,14 @@
         "url": "https://hanakortakentortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "e069a195fcffccaae7e983016841d44c02df85dfc15c6b5ef9386daed0fbdf87",
+        "sha256": "934369d05d5b103e02ee0c4271618f4ea5d5c11173936bdbc75d7d939a4c67ef",
         "student_candidates": []
       },
       {
         "url": "https://hanakortakentortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "7994280085a3d00d732b613493dde09b70e3e6c250f87e33fcf30b0dfb4740d2",
+        "sha256": "8c426e3c32994e71e6a0175dc91afa3c767a9abac4fa08f15c00682ca11e7c09",
         "student_candidates": []
       }
     ],
@@ -827,7 +827,7 @@
   {
     "id": "hanaksadiyeveabdullahtanilkokulu",
     "source_url": "https://hanaksadiyeveabdullahtanilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:34.503510+00:00",
+    "observed_at": "2026-10-01T15:29:30.296450+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -844,14 +844,14 @@
         "url": "https://hanaksadiyeveabdullahtanilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "5a20ab44d7aa238dd890183446fc7c3d5c62c6817246740f70fbc3fec9fa4bfa",
+        "sha256": "5ca9695eb286ad5ec6f36baf4bb6052718a02122f6ce66d13ad0a661b9949fd5",
         "student_candidates": []
       },
       {
         "url": "https://hanaksadiyeveabdullahtanilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "e2234522b5d0ce0da7620fbdc066c046b4e249d24f42562b67e42ef6e1012632",
+        "sha256": "e1957f9ca58cb86673965d7f309bb120da966d82c9c91146e8cf15312e45f65d",
         "student_candidates": []
       }
     ],
@@ -860,7 +860,7 @@
   {
     "id": "hanaksadiyeveabdullahtanortaokul",
     "source_url": "https://hanaksadiyeveabdullahtanortaokul.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:34.552365+00:00",
+    "observed_at": "2026-10-01T15:29:30.458447+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -877,14 +877,14 @@
         "url": "https://hanaksadiyeveabdullahtanortaokul.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "6d75a27e9382a12a0015cd966e114a0b1069bcd3ad09d87aa7564b8e78dbaffd",
+        "sha256": "df914b94edc0ba732ac7a8f2aacb4ddc0d8b10b5e5b58c5506b2e6a28e1ab954",
         "student_candidates": []
       },
       {
         "url": "https://hanaksadiyeveabdullahtanortaokul.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "8070c60155943d3600cd3fd083af0975bbbd40b5fdc34d5a81180e2f004f14c7",
+        "sha256": "ddf128756e0e18936c9d8db019ab494409ae4367ba3faea01526af240d8d8f52",
         "student_candidates": []
       }
     ],
@@ -893,7 +893,7 @@
   {
     "id": "huseyingedikio",
     "source_url": "https://huseyingedikio.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:34.556331+00:00",
+    "observed_at": "2026-10-01T15:29:30.495848+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -910,14 +910,14 @@
         "url": "https://huseyingedikio.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "c1fd5dec1fdeed57682ca719a1f9f4aad033627da1a155357ea2096899d1de7c",
+        "sha256": "2ab50d5aeeacf0c2d6639fdda6ab39b57eb4cf1ad73e3fd1e940d10a8ece7662",
         "student_candidates": []
       },
       {
         "url": "https://huseyingedikio.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "6ba26e4f0a492a1fed557b3d40d5d235f2909b25f0e8a2f03d753ee3aa44cfb7",
+        "sha256": "7cac4c9ca6a438c5d35cf40d5e0ac2ba6423d904ba2350fbbbbc8b38306637b8",
         "student_candidates": []
       }
     ],
@@ -926,7 +926,7 @@
   {
     "id": "ibrahimozturkortaokulu",
     "source_url": "https://ibrahimozturkortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:34.797669+00:00",
+    "observed_at": "2026-10-01T15:29:30.879393+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -943,14 +943,14 @@
         "url": "https://ibrahimozturkortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "9d1a29a9b9c1924cedad6f8afb15284bcbe37b3c86dd6942492b3292e2a8f486",
+        "sha256": "6f3b8c04e5829c8eb790bd58c2fbfb1a0919fef431fcc0450a05a47ea377fee6",
         "student_candidates": []
       },
       {
         "url": "https://ibrahimozturkortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "1268535f3edf0a2b7ae309303d646a102f9e35a57c6abf92f7865697a2261d3f",
+        "sha256": "24172c9efb58cfd054dedab4bbd852f420885b09cf311da42d3d27013bd96c61",
         "student_candidates": []
       }
     ],
@@ -959,7 +959,7 @@
   {
     "id": "karliyaziilkokulu",
     "source_url": "https://karliyaziilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:34.879751+00:00",
+    "observed_at": "2026-10-01T15:29:31.098823+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -976,14 +976,14 @@
         "url": "https://karliyaziilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "5493c3aaa477faed1366d0b77c7c7d0c4a4d92fbcd334ec1618b443bf73d1307",
+        "sha256": "f48b9267a46640a83707ead379e6a3940a446d6fd49439d4b1b89b12de13026d",
         "student_candidates": []
       },
       {
         "url": "https://karliyaziilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "17ccf595a03faab7213ec72519592ead4abc5a7128ed5fdade2fd9d9a6413f25",
+        "sha256": "a13bd571dfc5e5ac64279f6130cc82469ef8384c8ed946f6589e664aefc936ef",
         "student_candidates": []
       }
     ],
@@ -992,7 +992,7 @@
   {
     "id": "kayaaltiortaokulu",
     "source_url": "https://kayaaltiortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:34.991588+00:00",
+    "observed_at": "2026-10-01T15:29:31.119039+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1009,14 +1009,14 @@
         "url": "https://kayaaltiortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "5cdbffaaf45cf53a823080a07cf2853b75131e34fd8c5e793fe3f7a9ace8a168",
+        "sha256": "9b737db4eb8179dc66c9debb254928dca577c58777478a47217e0365f8a462e6",
         "student_candidates": []
       },
       {
         "url": "https://kayaaltiortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "a47dbe97c28d87afab903381d31046d67272de3f7fcb3249d7a9706fe9e1cb98",
+        "sha256": "0cab82f170a46a7b8c6b441a26262baf5ad51be459e6232caf52611a90084147",
         "student_candidates": []
       }
     ],
@@ -1025,7 +1025,7 @@
   {
     "id": "koyunluortaokulu",
     "source_url": "https://koyunluortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:36.517879+00:00",
+    "observed_at": "2026-10-01T15:29:32.310448+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1042,14 +1042,14 @@
         "url": "https://koyunluortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "d8e65c8189629905f8b006bf2e0f3d833de21ac9141200ae2df6e8230a29b60b",
+        "sha256": "c30a5261d904e16d400a2db779848de2b4a2549e747e860f5ab8253d7d89460c",
         "student_candidates": []
       },
       {
         "url": "https://koyunluortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "d506262cfc8e67a9a989b3442933b147fb9262377a5d1e5b88f1b0198106ec18",
+        "sha256": "f0d21a187c0b6f7c74d57711aa1dfad816a5b18404bf72d3373a7948eebdc8ad",
         "student_candidates": []
       }
     ],
@@ -1058,7 +1058,7 @@
   {
     "id": "merkezataturkortaokulu",
     "source_url": "https://merkezataturkortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:36.671075+00:00",
+    "observed_at": "2026-10-01T15:29:33.201540+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1075,14 +1075,14 @@
         "url": "https://merkezataturkortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "b3aa45cf428238edaf6702a13a914cb3b831f13c7dd0e617ea2b776823ae0007",
+        "sha256": "d63d018fb22740c3613afa96b30d83b6a57b0324c1e1814aea6d77a4830fa0b8",
         "student_candidates": []
       },
       {
         "url": "https://merkezataturkortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "213be7ea688d152ff43de10f7fa456cb5e77eb83537583808fb3b5197c0241aa",
+        "sha256": "d7d143e13c92df382e9a1f4110a121f7b5a079eac8b8652b0c9bcd308118ed9d",
         "student_candidates": []
       }
     ],
@@ -1091,7 +1091,7 @@
   {
     "id": "nilufergolesosyalbilimlerlisesi",
     "source_url": "https://nilufergolesosyalbilimlerlisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:36.895799+00:00",
+    "observed_at": "2026-10-01T15:29:33.235565+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1108,14 +1108,14 @@
         "url": "https://nilufergolesosyalbilimlerlisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "53e611eae3849c30ffc0c55d46a45206d83841b82e24d8b4bccc0192d6d95bab",
+        "sha256": "4d02add9c5ba118adf2aee4ba1d4655d7f08c2845bdd15dfaf134591ceba8193",
         "student_candidates": []
       },
       {
         "url": "https://nilufergolesosyalbilimlerlisesi.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "1d7b73d3ebd49e1c3a9e889f6cb82cf92d18075864c292c68fdaeb7904219920",
+        "sha256": "3d84f1603b321d9b5a8dc1c872b15df5c1dbe089dfb4264adf1fb0e299f6a88d",
         "student_candidates": []
       }
     ],
@@ -1124,7 +1124,7 @@
   {
     "id": "ozelegitimuygulama2kademe",
     "source_url": "https://ozelegitimuygulama2kademe.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:37.113995+00:00",
+    "observed_at": "2026-10-01T15:29:33.298381+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1141,14 +1141,14 @@
         "url": "https://ozelegitimuygulama2kademe.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "8a590a6b63c7c693e41d95333fe42368df49e3099e6be8714b86935916317f2d",
+        "sha256": "d3c7b78a5f1fc3f3c2beed96d92243641a6da06f961c2016325eb553f1c74c84",
         "student_candidates": []
       },
       {
         "url": "https://ozelegitimuygulama2kademe.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "77a0f436a850055c8432b0391d1f05b5293e5845a32b41065a44f78082960d28",
+        "sha256": "b039d8e74cb38c76b50161d9f5d35d39d911c858d1abf122c628b29d088de2f9",
         "student_candidates": []
       }
     ],
@@ -1157,7 +1157,7 @@
   {
     "id": "posofhem",
     "source_url": "https://posofhem.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:37.126038+00:00",
+    "observed_at": "2026-10-01T15:29:33.356396+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1174,14 +1174,14 @@
         "url": "https://posofhem.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "47fb81254654560fcc540974a004a6e227e382900b05690fda07e62580d560de",
+        "sha256": "3bf906e1468150e160bc972da45d4364c13670e0589a2d1b55fcf32b725e84ab",
         "student_candidates": []
       },
       {
         "url": "https://posofhem.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "5c2b9e2d6cccc1465d8cddc2bedd92f3493251727856308ebf26da101f15ab3e",
+        "sha256": "1c5af10aec37525a45b583d5628fd9d04e8ac09ce5387fe1ad1da050ec1b9616",
         "student_candidates": []
       }
     ],
@@ -1190,7 +1190,7 @@
   {
     "id": "posofilkokulu",
     "source_url": "https://posofilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:37.388009+00:00",
+    "observed_at": "2026-10-01T15:29:33.926205+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1207,14 +1207,14 @@
         "url": "https://posofilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "a53272d5d7047fad326281eb0474a441d374f47c2d3921cc4e915a27aee2c1d3",
+        "sha256": "3b014f99055c55e0d964a3ae42ccad0c178462f51e2ab8cea0f514b49fe50f35",
         "student_candidates": []
       },
       {
         "url": "https://posofilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "54d46a7a17d29768918136794b6964f2b099d6769aa050805a98891cecd7b363",
+        "sha256": "34ab1cb1e46436bc529ad4cd028b20384b780b7737d542c9612b46142da2723e",
         "student_candidates": []
       }
     ],
@@ -1223,7 +1223,7 @@
   {
     "id": "posofimamhatiplisesi",
     "source_url": "https://posofimamhatiplisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:37.420694+00:00",
+    "observed_at": "2026-10-01T15:29:33.950669+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1240,14 +1240,14 @@
         "url": "https://posofimamhatiplisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "5f47404ee143f407fe4aa792fd1cae250e7846b5cc97509d3ab98626ea020943",
+        "sha256": "5c13a17e9d651d3e420c3d0a61e3afa9c0dc0d632d52b93b10d5ecdd36f3c2da",
         "student_candidates": []
       },
       {
         "url": "https://posofimamhatiplisesi.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "d5e448d90e5d4059a147ca271e55b4f93ec6a35dcf6d5def601e43be7e439a84",
+        "sha256": "5bae98d50c43dc83467da2fad65ceb7e0837f6ae12c369e34713dc51f7f97d22",
         "student_candidates": []
       }
     ],
@@ -1256,7 +1256,7 @@
   {
     "id": "posoflisesi",
     "source_url": "https://posoflisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:37.702860+00:00",
+    "observed_at": "2026-10-01T15:29:34.188980+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1273,14 +1273,14 @@
         "url": "https://posoflisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "e4735f11d324e79a4b1993eae8b4a23f5d370f7f97f99b9c1b0cf05ed67b3664",
+        "sha256": "82a3d4bacd81325e7e76929d9bac7a51081aba5d0cf2878d4bd1c0b2decd868b",
         "student_candidates": []
       },
       {
         "url": "https://posoflisesi.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "a9ce0ded2ede1bedf1a8ec34fb4a36c25aa81196f55405d183b8bbb101dd2e45",
+        "sha256": "2b1e11a437cef54db4bbcf2f325b5241a4aa036b5834da162214f43350fb7527",
         "student_candidates": []
       }
     ],
@@ -1289,7 +1289,7 @@
   {
     "id": "posofogretmenevi",
     "source_url": "https://posofogretmenevi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:39.142423+00:00",
+    "observed_at": "2026-10-01T15:29:35.243254+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1306,14 +1306,14 @@
         "url": "https://posofogretmenevi.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "f5eddd817172456f71c442d091abf27c78cd0bbb7f56246f7dff96850a20a767",
+        "sha256": "4a32602e9f421420e84be75c1ecbc0602d5f11c0e485ef6d185a32f07bd342bb",
         "student_candidates": []
       },
       {
         "url": "https://posofogretmenevi.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "c57c3bfcc78997e1f0fbae10b593bdd792e10cb6b314fe064f89b675feffcdde",
+        "sha256": "e1e363e1046c88f7f2fd1ac3ec24666373b43d8c868810449979106df776f0c6",
         "student_candidates": []
       }
     ],
@@ -1322,7 +1322,7 @@
   {
     "id": "sehitercevdetcelenkortaokulu",
     "source_url": "https://sehitercevdetcelenkortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:39.185918+00:00",
+    "observed_at": "2026-10-01T15:29:36.040368+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1339,14 +1339,14 @@
         "url": "https://sehitercevdetcelenkortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "89d9ff4552e54262b6cfbe4177023ae42710df2e5ba1e4754ab53fdad8af0c42",
+        "sha256": "5c190e6513a67ece1fc6b3c7a45770ba2bf5802d136fe51fcc9d6669d8b893da",
         "student_candidates": []
       },
       {
         "url": "https://sehitercevdetcelenkortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "ccbb34b81a47884fadeb53116c15a5d00d4ed375078d72b2f5a671d2bc812375",
+        "sha256": "c60ae76c0a4c144e7b10b9c6efff41e8b0e3665db04bd0e00a917f51b98ec729",
         "student_candidates": []
       }
     ],
@@ -1355,7 +1355,7 @@
   {
     "id": "sehiterkemalizciortaokulu",
     "source_url": "https://sehiterkemalizciortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:39.265540+00:00",
+    "observed_at": "2026-10-01T15:29:36.191721+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1372,14 +1372,14 @@
         "url": "https://sehiterkemalizciortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "d126f4c7d3a942428032e6130861b3651dddd6a90638042e51bdff928013802f",
+        "sha256": "98c0f9620d83a01628f3b86e7a3a86bd089e09757245f90aec31ee0b277b4b39",
         "student_candidates": []
       },
       {
         "url": "https://sehiterkemalizciortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "a16aaeb0ff0fd00694aab172677d509e9d44687edb71c89c5705cb63a7a11242",
+        "sha256": "3b78461437ad24bf517de3551d26a9c929fb2dce4d6090918f50cdcb742c7f90",
         "student_candidates": []
       }
     ],
@@ -1388,7 +1388,7 @@
   {
     "id": "sehittayfurhancerilkokulu",
     "source_url": "https://sehittayfurhancerilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:39.711391+00:00",
+    "observed_at": "2026-10-01T15:29:36.269598+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1405,14 +1405,14 @@
         "url": "https://sehittayfurhancerilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "46f74596bfac3a59a3410792bcb3afb9a0957db3397f294412ae848202b48e26",
+        "sha256": "7b61f3d9d55178a475c733066333476630d2595ec0d0360a5f7337acc1eb7657",
         "student_candidates": []
       },
       {
         "url": "https://sehittayfurhancerilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "1c8c01849026621e7fde1a9360950069d35cf0789b8b61fda4c247ce45162db6",
+        "sha256": "2b279f9c70114bf0bf27c3d9c52e3cdeff1074f6b8a939976dd2a554211ac861",
         "student_candidates": []
       }
     ],
@@ -1421,7 +1421,7 @@
   {
     "id": "sunguluortaokulu",
     "source_url": "https://sunguluortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:39.791614+00:00",
+    "observed_at": "2026-10-01T15:29:36.348899+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1438,14 +1438,14 @@
         "url": "https://sunguluortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "6273aaf2aaff3a7b37a6619f55f7d1178cd85b68e82001b832f6384f39d8a8b0",
+        "sha256": "4716f15d6395aae16f45ddceaae298ccca189fd37e6f747d86cf0a5e15bcaf60",
         "student_candidates": []
       },
       {
         "url": "https://sunguluortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "5234c8492215a20c166ba01ed0987390f754523712812bb461c02659a856f084",
+        "sha256": "1512220f0f6ed2294fa88ba5fd820e25e8e6d9e0a306b2ae6931690057881d54",
         "student_candidates": []
       }
     ],
@@ -1454,7 +1454,7 @@
   {
     "id": "tahtakiranilkokulu",
     "source_url": "https://tahtakiranilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:25:39.819204+00:00",
+    "observed_at": "2026-10-01T15:29:36.969163+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -1471,14 +1471,14 @@
         "url": "https://tahtakiranilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "54f189bc4d0714ac2a31627151095d7f8ac918f86d40decb919b77148669010e",
+        "sha256": "f73762128e6ca76e57f5039588a6448e8b6d80597a4b41695786805fffe8cc56",
         "student_candidates": []
       },
       {
         "url": "https://tahtakiranilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "8f11e61035488bd3b6bb55a6b6fc9183b6341cbe61d07a5cee631036ee6d1785",
+        "sha256": "c9cb39065069ae389bc5e83aab1f523dced445cb431702c610d260ab8adf1412",
         "student_candidates": []
       }
     ],
