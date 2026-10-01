@@ -2,176 +2,136 @@
   {
     "id": "23subatilkokulu",
     "source_url": "https://23subatilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:15.898808+00:00",
+    "observed_at": "2026-10-01T15:31:46.180890+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 608,
+    "grade": "ilkokul",
     "attempts": [
       {
         "url": "https://23subatilkokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "b294fecbb1233823e0fae2c7a373461f808dddf4a6eb159cf779cddd1ad9ddad",
-        "student_candidates": []
-      },
-      {
-        "url": "https://23subatilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "3ec753badf6d22e7cdb96b395dc2b93f80d471cc954d346cc997992289751332",
-        "student_candidates": []
-      },
-      {
-        "url": "https://23subatilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "55b30ef729b17b5f640fb52c1bad881e111fac192d9aa60820a336b706ba06f1",
-        "student_candidates": []
+        "student_candidates": [
+          608
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "23 Şubat İlkokulu",
+    "evidence": "ğretmen Sayısı : 22 Öğrenci Sayısı : 608 Devamı İletişim Telefon : 047",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "30eylulortaokulu",
     "source_url": "https://30eylulortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:15.899687+00:00",
+    "observed_at": "2026-10-01T15:31:46.181967+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 278,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://30eylulortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "282c06fc0874ebd976c8880f76cbe12c288b3f2f16e6ae699ce9e01f68d158e7",
-        "student_candidates": []
-      },
-      {
-        "url": "https://30eylulortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "8ba1a5469f91bf40f1936eb6c11f6656c2f3488e3ca1fbe7c489cdaa3bb54edf",
-        "student_candidates": []
-      },
-      {
-        "url": "https://30eylulortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "ce73158813bb784b048e27bcc2865e1dfc6cd05334d03396fd641f7c5ca4ade4",
-        "student_candidates": []
+        "student_candidates": [
+          278
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "30 Eylül Ortaokulu",
+    "evidence": " Öğretmen Sayısı 19 Öğrenci Sayısı 278 İLETİŞİM Adres: SALİM BEY MAH",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "703602",
     "source_url": "https://703602.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:15.900114+00:00",
+    "observed_at": "2026-10-01T15:31:46.182515+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 23,
+    "grade": "ilkokul",
     "attempts": [
       {
         "url": "https://703602.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "ee5cd0cce5bb055b57111ccc0651b234bd9b4f6abc4acc31b79f335038e4c459",
-        "student_candidates": []
-      },
-      {
-        "url": "https://703602.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "a426423d4112737217b77d97745a42e65e8ee2cba2d02fd96a83997ea28e1632",
-        "student_candidates": []
-      },
-      {
-        "url": "https://703602.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "b58d9e47189441a360837a26df89abf197018ac8b004d3de4213e1e8b53b7c3b",
-        "student_candidates": []
+        "student_candidates": [
+          23
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Gedik İlkokulu",
+    "evidence": " Öğretmen Sayısı: 2 Öğrenci Sayısı: 23 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "ardahanmehmetakifersoyilkokulu",
     "source_url": "https://ardahanmehmetakifersoyilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:15.900767+00:00",
+    "observed_at": "2026-10-01T15:31:46.183028+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 185,
+    "grade": "ilkokul",
     "attempts": [
       {
         "url": "https://ardahanmehmetakifersoyilkokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "fc6c500b6ebab177628b06a210120a230c408ef058dc785ba3ebd4500f5a4df5",
-        "student_candidates": []
-      },
-      {
-        "url": "https://ardahanmehmetakifersoyilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "1de4cee3cc29733ce898e5d82e1cf35e2fa0b9428d7c15c7be98579a817dc6f5",
-        "student_candidates": []
-      },
-      {
-        "url": "https://ardahanmehmetakifersoyilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "ef1f13bfd03cd444763c2d7bf51a25ff17e9a289fe39a160aa7cec3891f7fb8f",
-        "student_candidates": []
+        "student_candidates": [
+          185
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "TOKİ Mehmet Akif Ersoy İlkokulu",
+    "evidence": " Öğretmen Sayısı 11 Öğrenci Sayısı 185 İLETİŞİM Adres: İNÖNÜ MAH. BE",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "ardahanmehmetakifersoyortaokulu",
     "source_url": "https://ardahanmehmetakifersoyortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:15.903702+00:00",
+    "observed_at": "2026-10-01T15:31:46.183821+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 210,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://ardahanmehmetakifersoyortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "be36c97cbde3c83dde34216c6e87f78c7fccc7889dd21e03a7da75037aca289a",
-        "student_candidates": []
-      },
-      {
-        "url": "https://ardahanmehmetakifersoyortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "91c9f9daacb92c2780784bb067834e80d8ef2317f422427f12f52f7af5ad150e",
-        "student_candidates": []
-      },
-      {
-        "url": "https://ardahanmehmetakifersoyortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "80f7eb98d63a1548013928b0a2fa1c22d79d15373f5b33a4aed5ac7840c42dca",
-        "student_candidates": []
+        "student_candidates": [
+          210
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "TOKİ Mehmet Akif Ersoy Ortaokulu",
+    "evidence": "ğretmen Sayısı : 21 Öğrenci Sayısı : 210 Devamı İletişim Telefon : 0 4",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "ardahanram",
     "source_url": "https://ardahanram.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:15.904244+00:00",
+    "observed_at": "2026-10-01T15:31:46.187393+00:00",
     "year": null,
     "source_date": null,
     "students": null,
-    "grade": null,
+    "grade": "ram",
     "attempts": [
       {
         "url": "https://ardahanram.meb.k12.tr/",
@@ -184,320 +144,251 @@
         "url": "https://ardahanram.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "edeecea524741484c4465ed27988bc03d6e603c3463ba3cf6f0e09f953e4d85c",
+        "sha256": "7e86acbfd84c58c4e65a0d0c1789b795f113baebdc3c1fc0ebc836a20d90ee3a",
         "student_candidates": []
       },
       {
         "url": "https://ardahanram.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "093b7c46f75413f4e204e6e7290cbdce43bf8edc4b5df09fee03eea918c79d1b",
+        "sha256": "d3a34837d1fccdae15518e6a043b5766a82a5809d6012ad519c58ab241146836",
         "student_candidates": []
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Ardahan Rehberlik ve Araştırma Merkezi Ardahan Rehberlik ve Araştırma Merkezi Telefon 04782113429 Belgegeçer 04782113429 Eposta Göndermek için tıklayınız WEB https://ardahanram.meb",
+    "status": "students_not_found"
   },
   {
     "id": "ardahanyunusemreanadolulisesi",
     "source_url": "https://ardahanyunusemreanadolulisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:15.907017+00:00",
+    "observed_at": "2026-10-01T15:31:46.189367+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 263,
+    "grade": "lise",
     "attempts": [
       {
         "url": "https://ardahanyunusemreanadolulisesi.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "03614a87958ef50608785b2b3030abc9b9e3bea830f775b4839138468ea8eca5",
-        "student_candidates": []
-      },
-      {
-        "url": "https://ardahanyunusemreanadolulisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "31833ff7ee7a42a1d2eb55d01a41aabfb5302dd5bd6936f9beed27a02fbb5268",
-        "student_candidates": []
-      },
-      {
-        "url": "https://ardahanyunusemreanadolulisesi.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "4fb93040b2e2d1f0887f70868e2e56af8b9b7bb0dc70f0be6fa9ae6ec0fbeb52",
-        "student_candidates": []
+        "student_candidates": [
+          263
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Ardahan Yunus Emre Anadolu Lisesi",
+    "evidence": "ğretmen Sayısı : 25 Öğrenci Sayısı : 263 Devamı İletişim Telefon : 047",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "arpasenibrahimozturkilkokulu",
     "source_url": "https://arpasenibrahimozturkilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:15.907693+00:00",
+    "observed_at": "2026-10-01T15:31:46.190376+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 55,
+    "grade": "ilkokul",
     "attempts": [
       {
         "url": "https://arpasenibrahimozturkilkokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "63172ab3bfb5fb1a820625e55ae88e19cf2670a5e7cd5ebe9e5c2fb6cd600935",
-        "student_candidates": []
-      },
-      {
-        "url": "https://arpasenibrahimozturkilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "d07646fb94bcbc3c95a711614c68cdac33b4cc53d1735f8ca925e55a3d08b1c8",
-        "student_candidates": []
-      },
-      {
-        "url": "https://arpasenibrahimozturkilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "bc40d78fda2fb340fa1368de2217da8728312e4a8390fdd29afa90b239da57ad",
-        "student_candidates": []
+        "student_candidates": [
+          55
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Şehit Er İbrahim Öztürk İlkokulu",
+    "evidence": "Öğretmen Sayısı : 7 Öğrenci Sayısı : 55 Devamı İletişim Telefon : 047",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "atessannaimatesortaokulu",
     "source_url": "https://atessannaimatesortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:18.574792+00:00",
+    "observed_at": "2026-10-01T15:31:47.114950+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 39,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://atessannaimatesortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "11af162cfbab5083541e6b9011d3753ca1bcede07cfd379b49e3ec7ed0598750",
-        "student_candidates": []
-      },
-      {
-        "url": "https://atessannaimatesortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "84a7f25c03cbe683d1e789bc8ad8d087e3298b1b91c0a5e689d953a2f3fe83f1",
-        "student_candidates": []
-      },
-      {
-        "url": "https://atessannaimatesortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "ea43cfcba14aabdd56f68a51fca4ac3d257bdf61c97e071749ba5ac8c9720615",
-        "student_candidates": []
+        "student_candidates": [
+          39
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Çobanköy Ateşsan Naim Ateş Ortaokulu",
+    "evidence": "5 Öğretmen Sayısı 9 Öğrenci Sayısı 39 İletişim Adres: ÇOBANKÖY KÖYÜ",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "borsaistanbulybo",
     "source_url": "https://borsaistanbulybo.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:18.578272+00:00",
+    "observed_at": "2026-10-01T15:31:47.170227+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 58,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://borsaistanbulybo.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "b4e52b8a952bb487e2d420bd98bf4b7046e63331048b2924198e631a5d37e410",
-        "student_candidates": []
-      },
-      {
-        "url": "https://borsaistanbulybo.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "d58ce3bfe24b7bbfd643fc482f3acfe10bca1ca686dd1dd22a969f8d997dbd5c",
-        "student_candidates": []
-      },
-      {
-        "url": "https://borsaistanbulybo.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "124197f4721dd7666f194bda649304c644bf595d220ca74d0ea609b2e528040e",
-        "student_candidates": []
+        "student_candidates": [
+          58
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Borsa İstanbul Ortaokulu",
+    "evidence": " Öğretmen Sayısı 14 Öğrenci Sayısı 58 İletişim Adres: SALİM BEY MAH",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "cildiranaokulu",
     "source_url": "https://cildiranaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:18.694335+00:00",
+    "observed_at": "2026-10-01T15:31:47.244965+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 50,
+    "grade": "anaokulu",
     "attempts": [
       {
         "url": "https://cildiranaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "5d1784bae3edac97f585ef73d351ba50a6f96b67f518b5e76c3cb03287d7ea95",
-        "student_candidates": []
-      },
-      {
-        "url": "https://cildiranaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "9c2b6dd3249c3510f86d33703e081946adfd1de7f23bb472f5887dc73b6e0612",
-        "student_candidates": []
-      },
-      {
-        "url": "https://cildiranaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "0c43bc772ccf2da1bbebe8b1fecb7a17be97d29da49e4cecd39133c08ffe59db",
-        "student_candidates": []
+        "student_candidates": [
+          50
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Çildir",
+    "name": "Çıldır Anaokulu",
+    "evidence": "3 Öğretmen Sayısı 3 Öğrenci Sayısı 50 İletişim Adres: Yeni Mah. Evr",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "cildirihl",
     "source_url": "https://cildirihl.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:18.697721+00:00",
+    "observed_at": "2026-10-01T15:31:47.327321+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 72,
+    "grade": "lise",
     "attempts": [
       {
         "url": "https://cildirihl.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "6626ee6adaa6c91a39f5130d988f798aeb37d42915f092e70ac182333f012f8d",
-        "student_candidates": []
-      },
-      {
-        "url": "https://cildirihl.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "1296ceb83ae34baaea1786041d0265d832ab9f5729aa8294de41265353dd2373",
-        "student_candidates": []
-      },
-      {
-        "url": "https://cildirihl.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "0643302f7ff304b228c050bd9e54f599a225603f240648225864bb6927758aab",
-        "student_candidates": []
+        "student_candidates": [
+          72
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Çildir",
+    "name": "Çıldır Anadolu İmam Hatip Lisesi",
+    "evidence": "ğretmen Sayısı : 11 Öğrenci Sayısı : 72 Devamı İletişim Telefon : (04",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "cildirilkokulu",
     "source_url": "https://cildirilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:18.899305+00:00",
+    "observed_at": "2026-10-01T15:31:47.409843+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 138,
+    "grade": "ilkokul",
     "attempts": [
       {
         "url": "https://cildirilkokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "660b0b2b6fd7214b1a0c47180c81002983fc8e29526b955673baae91b9e6604d",
-        "student_candidates": []
-      },
-      {
-        "url": "https://cildirilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "2192d449956c9473e8c9152a0aa201f3910fdd4c401e3d83c6ff573372761123",
-        "student_candidates": []
-      },
-      {
-        "url": "https://cildirilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "7465e1e79f5202014034688b44219ab494bf3e180944bb0f42238866bb736ca4",
-        "student_candidates": []
+        "student_candidates": [
+          138
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Çildir",
+    "name": "Çıldır İlkokulu",
+    "evidence": " Öğretmen Sayısı 12 Öğrenci Sayısı 138 İletişim Adres: Eşmepınar Köy",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "cildirlisesi",
     "source_url": "https://cildirlisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:18.915114+00:00",
+    "observed_at": "2026-10-01T15:31:47.443818+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 171,
+    "grade": "lise",
     "attempts": [
       {
         "url": "https://cildirlisesi.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "78feeef52c0106c0c3f1a479907b2c88018929e255186bb9d2f415ba3fa7cf19",
-        "student_candidates": []
-      },
-      {
-        "url": "https://cildirlisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "1955281bb997741a53081b54159678cc25e346d95eaa90536d2b6be475de67d9",
-        "student_candidates": []
-      },
-      {
-        "url": "https://cildirlisesi.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "638bed8edebf8a08f6cb64bc4ccbc8bcab69003c374b0621d68a88580caec0c3",
-        "student_candidates": []
+        "student_candidates": [
+          171
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Çildir",
+    "name": "Çıldır Çok Programlı Anadolu Lisesi",
+    "evidence": " Öğretmen Sayısı 27 Öğrenci Sayısı 171 İLETİŞİM Adres: DEDEKORKUT MA",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "damalcsdoo",
     "source_url": "https://damalcsdoo.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:18.924637+00:00",
+    "observed_at": "2026-10-01T15:31:47.660067+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 127,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://damalcsdoo.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "2af1eba85f60c026d8c315b3abb818fe738685fcdb4d9568af576cf1315e4fcf",
-        "student_candidates": []
-      },
-      {
-        "url": "https://damalcsdoo.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "83024c450f2465d780810f94e57a6530e15ebaacfc0c5057dffaa2e57ae4a76e",
-        "student_candidates": []
-      },
-      {
-        "url": "https://damalcsdoo.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "26805115e81a550aeba0291939d02821592eef9b3b2ebfdb4d8421a5fcc69a88",
-        "student_candidates": []
+        "student_candidates": [
+          127
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Damal",
+    "name": "Cumhurbaşkanı Süleyman Demirel Ortaokulu",
+    "evidence": " Öğretmen Sayısı 10 Öğrenci Sayısı 127 İletişim Adres: SERHAT MAH. K",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "damalotaglioo",
     "source_url": "https://damalotaglioo.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:19.049366+00:00",
+    "observed_at": "2026-10-01T15:31:47.997803+00:00",
     "year": null,
     "source_date": null,
     "students": null,
@@ -530,110 +421,86 @@
   {
     "id": "dolekcayirilkokulu",
     "source_url": "https://dolekcayirilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:21.012561+00:00",
+    "observed_at": "2026-10-01T15:31:48.067257+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 27,
+    "grade": "ilkokul",
     "attempts": [
       {
         "url": "https://dolekcayirilkokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "a2144412a1332481aeee31495fe1803c87c1f6d79d0bf3fb4904fbb20663b414",
-        "student_candidates": []
-      },
-      {
-        "url": "https://dolekcayirilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "7fdadf84e2ec1cfd7cc3f9caf30ceed15631debc14429bf0015503728b4e6872",
-        "student_candidates": []
-      },
-      {
-        "url": "https://dolekcayirilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "515b9879a61c3bb51086dc3839e6b9539cadf5fd3998dbf96fc79156acab07e5",
-        "student_candidates": []
+        "student_candidates": [
+          27
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "DÖLEKÇAYIR İLKOKULU",
+    "evidence": " Öğretmen Sayısı: 3 Öğrenci Sayısı: 27 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "enveravcilkokulu",
     "source_url": "https://enveravcilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:21.043834+00:00",
+    "observed_at": "2026-10-01T15:31:48.130401+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 125,
+    "grade": "ilkokul",
     "attempts": [
       {
         "url": "https://enveravcilkokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "8f88247c52e0e81dc109f050093552b9776da35063e02b52ddb72e140b774c08",
-        "student_candidates": []
-      },
-      {
-        "url": "https://enveravcilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "5ff43004940dbf03467968a7ff651331a1062490d992af81799440abecc2ff9f",
-        "student_candidates": []
-      },
-      {
-        "url": "https://enveravcilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "18759853abc0a017fa67ab4856a50782306e9117d42a094701ad4f01acbbeaed",
-        "student_candidates": []
+        "student_candidates": [
+          125
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Enver Avcı İlkokulu",
+    "evidence": "Öğretmen Sayısı : 8 Öğrenci Sayısı : 125 Devamı İletişim Telefon : 047",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "escarmiklianadolulisesi",
     "source_url": "https://escarmiklianadolulisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:21.201276+00:00",
+    "observed_at": "2026-10-01T15:31:48.285509+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 193,
+    "grade": "lise",
     "attempts": [
       {
         "url": "https://escarmiklianadolulisesi.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "9b1adeea2fcd0f53b95018e30448be0ea6f93e8d0e89f303bbe1791d8c8dd333",
-        "student_candidates": []
-      },
-      {
-        "url": "https://escarmiklianadolulisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "8a4d8988c5d0b0f0e1f007436a5613f91334e6ce7f57913de1aae8c95c9882dd",
-        "student_candidates": []
-      },
-      {
-        "url": "https://escarmiklianadolulisesi.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "abb0d74017d7bf9efaad97547e6ac4a86caf247e3c88a5ba0af36633fdc837bc",
-        "student_candidates": []
+        "student_candidates": [
+          193
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Eyüp Sabri Çarmıklı Anadolu Lisesi",
+    "evidence": " Öğretmen Sayısı 15 Öğrenci Sayısı 193 İLETİŞİM Adres: Fevzi Çakmak ",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "golehalkegitimi",
     "source_url": "https://golehalkegitimi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:21.223104+00:00",
+    "observed_at": "2026-10-01T15:31:48.355628+00:00",
     "year": null,
     "source_date": null,
     "students": null,
-    "grade": null,
+    "grade": "diger_kurum",
     "attempts": [
       {
         "url": "https://golehalkegitimi.meb.k12.tr/",
@@ -646,621 +513,480 @@
         "url": "https://golehalkegitimi.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "226011693620abc4373087e8d8de29f195c1164e3de414ec2ea4f05ca394a8e4",
+        "sha256": "5d8a8c5d23c4557c81bbcf74c12f6775cedb9e629573fa8f55edc1b3e52af6c2",
         "student_candidates": []
       },
       {
         "url": "https://golehalkegitimi.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "8942e03a5e10a5de18961be7cd50d6c2f96bac3a94fa5b2b6c5fca4f6929af50",
+        "sha256": "dd5ab588e88055a0943526cc3bbb88f7f255a7a5ccd2128d8f082f7a2e2a796b",
         "student_candidates": []
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Göle Halk Eğitimi Merkezi Göle Halk Eğitimi Merkezi Telefon 0 (478) 411 20 95 Belgegeçer 0 (478) 411 20 96 Eposta Göndermek için tıklayınız WEB https://golehalkegitimi.meb.k12.tr A",
+    "status": "students_not_found"
   },
   {
     "id": "golekazimkarabekirpasamtal",
     "source_url": "https://golekazimkarabekirpasamtal.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:21.314447+00:00",
+    "observed_at": "2026-10-01T15:31:48.454551+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 203,
+    "grade": "lise",
     "attempts": [
       {
         "url": "https://golekazimkarabekirpasamtal.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "630d9c6485e327d8dd4b2482be771134abbbf890a3c792c236e0facf75ffa44e",
-        "student_candidates": []
-      },
-      {
-        "url": "https://golekazimkarabekirpasamtal.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "e07f52857f6971c117fc4c3c15c5f334d431da2974a16fce1a2adf79665a7c4d",
-        "student_candidates": []
-      },
-      {
-        "url": "https://golekazimkarabekirpasamtal.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "99efe37d77d9e643cb1729d496118e6ee3eb42b1235224da65b2a2394220af7e",
-        "student_candidates": []
+        "student_candidates": [
+          203
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Kazım Karabekir Paşa Mesleki ve Teknik Anadolu Lisesi",
+    "evidence": "ğretmen Sayısı : 28 Öğrenci Sayısı : 203 Devamı İletişim Telefon : 90 ",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "golekizmeslek",
     "source_url": "https://golekizmeslek.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:21.315172+00:00",
+    "observed_at": "2026-10-01T15:31:48.697308+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 84,
+    "grade": "lise",
     "attempts": [
       {
         "url": "https://golekizmeslek.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "dc381ab11f8c65c7312317e683185c0f536845e1cb6c1b3063c21b442e335206",
-        "student_candidates": []
-      },
-      {
-        "url": "https://golekizmeslek.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "00c1aca110a4f76b7c8d90e77dc26d5424e4e179d6cc43f30f9b4ac480b79235",
-        "student_candidates": []
-      },
-      {
-        "url": "https://golekizmeslek.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "6b2d586adf183925509b60d9329dbe6741d2bf2c31b5e99fa4e5fc8edd2cc764",
-        "student_candidates": []
+        "student_candidates": [
+          84
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Göle Feride Karabacak Turizm Mesleki ve Teknik Anadolu Lisesi",
+    "evidence": " Öğretmen Sayısı 15 Öğrenci Sayısı 84 İletişim Adres: Kubilay Bey M",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "goleozelegitimuygulamaokulu",
     "source_url": "https://goleozelegitimuygulamaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:21.339831+00:00",
+    "observed_at": "2026-10-01T15:31:48.922558+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 3,
+    "grade": "ozel_egitim",
     "attempts": [
       {
         "url": "https://goleozelegitimuygulamaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "b7057c413461b415e7b661c682d98f32c0e0ee305b1419106fe5851ae7f65920",
-        "student_candidates": []
-      },
-      {
-        "url": "https://goleozelegitimuygulamaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "5fd43baaac3e67e0c19eb74e80db244b907abaf92db820792edc76a692b421a5",
-        "student_candidates": []
-      },
-      {
-        "url": "https://goleozelegitimuygulamaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "88a05652e8dbc39af793cc106d1838d315d509e3575fd7d567a1d51af1f3d604",
-        "student_candidates": []
+        "student_candidates": [
+          3
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Göle Özel Eğitim Uygulama Okulu I. Kademe",
+    "evidence": "Öğretmen Sayısı : 6 Öğrenci Sayısı : 3 Devamı İletişim Telefon : 050",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "hanakataturkortaokulu",
     "source_url": "https://hanakataturkortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:22.392035+00:00",
+    "observed_at": "2026-10-01T15:31:48.986205+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 98,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://hanakataturkortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "5ddb7219e5199b1e2b296bc4ce656e209504eb6bf4fe05259c9ebf6ee6eb7070",
-        "student_candidates": []
-      },
-      {
-        "url": "https://hanakataturkortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "9b3270348c65831dc89903efeacf99586b2b45b1a0d0902a9163b3b7f4eec44f",
-        "student_candidates": []
-      },
-      {
-        "url": "https://hanakataturkortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "9356fc25f043aa6a4fb077acdfe4824fdcfcb80a97f953326330b2f74f7823fa",
-        "student_candidates": []
+        "student_candidates": [
+          98
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Hanak",
+    "name": "Atatürk Ortaokulu",
+    "evidence": " Öğretmen Sayısı 11 Öğrenci Sayısı 98 İLETİŞİM Adres: HÜRRİYET MAH.",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "hanakcpl",
     "source_url": "https://hanakcpl.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:23.585047+00:00",
+    "observed_at": "2026-10-01T15:31:49.236357+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 99,
+    "grade": "lise",
     "attempts": [
       {
         "url": "https://hanakcpl.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "1a949d034279418df2b6794b9e9b3d74d428886c3174b4cfe5b22c69f3eb21a3",
-        "student_candidates": []
-      },
-      {
-        "url": "https://hanakcpl.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "675bcf0c5f59d4524029e859164729820214b778ecfab5b6fafa41563ae2a3f9",
-        "student_candidates": []
-      },
-      {
-        "url": "https://hanakcpl.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "ece5da4a9c7404c384d6f646383f993529d00acf28d5412b1042d6a5c6fb9b6c",
-        "student_candidates": []
+        "student_candidates": [
+          99
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Hanak",
+    "name": "Hanak Şehit Caner Çelik Çok Programlı Anadolu Lisesi",
+    "evidence": " Öğretmen Sayısı 14 Öğrenci Sayısı 99 İletişim Adres: SELAM VERDİ M",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "hanakortakentortaokulu",
     "source_url": "https://hanakortakentortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:23.654945+00:00",
+    "observed_at": "2026-10-01T15:31:49.250733+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 96,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://hanakortakentortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "68578fde4940ae7bc6451a8f3a31b7baa292306fb3f1b38ea7a88d68fd4dd7ca",
-        "student_candidates": []
-      },
-      {
-        "url": "https://hanakortakentortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "516e48a596eca2f649dab4c87f5bc6e323e65160c257c96d6824322f487e0b97",
-        "student_candidates": []
-      },
-      {
-        "url": "https://hanakortakentortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "16893f5773e4d608a4ca7b5afa297d6e911feb056e89cf26b34c816f92e66343",
-        "student_candidates": []
+        "student_candidates": [
+          96
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Hanak",
+    "name": "Hanak Ortakent Ortaokulu",
+    "evidence": "slik: 5 Öğretmen: 5 Öğrenci: 96 İletişim RSS Site Haritası © ",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "hanaksadiyeveabdullahtanilkokulu",
     "source_url": "https://hanaksadiyeveabdullahtanilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:23.678936+00:00",
+    "observed_at": "2026-10-01T15:31:49.338970+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 56,
+    "grade": "ilkokul",
     "attempts": [
       {
         "url": "https://hanaksadiyeveabdullahtanilkokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "fc0a5b53c3e7d9734db28655d45b23634e1501651b411e15015d18abc4a78373",
-        "student_candidates": []
-      },
-      {
-        "url": "https://hanaksadiyeveabdullahtanilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "68c73f79a0d441bd98421c84f399c54e664b92804b43084bb65c63daba625f85",
-        "student_candidates": []
-      },
-      {
-        "url": "https://hanaksadiyeveabdullahtanilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "959bfa72f07288aeeb7bc1324af16e4451c1c06654ee9c67df7e5d82732e43df",
-        "student_candidates": []
+        "student_candidates": [
+          56
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Hanak",
+    "name": "Sadiye ve Abdullah Tan İlkokulu",
+    "evidence": " Öğretmen Sayısı: 6 Öğrenci Sayısı: 56 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "hanaksadiyeveabdullahtanortaokul",
     "source_url": "https://hanaksadiyeveabdullahtanortaokul.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:23.680225+00:00",
+    "observed_at": "2026-10-01T15:31:49.752413+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 49,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://hanaksadiyeveabdullahtanortaokul.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "4bcefb16bac913757f6490ae2cbcb7664261510056a96592763dfd19d9fa9b1c",
-        "student_candidates": []
-      },
-      {
-        "url": "https://hanaksadiyeveabdullahtanortaokul.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "74f8db3bde7b27cbcfbcdce429b671117cf6295345f7744f932616816601f2fc",
-        "student_candidates": []
-      },
-      {
-        "url": "https://hanaksadiyeveabdullahtanortaokul.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "f3915e728793bffba0ce4a5ecc15486d60c2665271ef7ded84fb3809dbfc1bb0",
-        "student_candidates": []
+        "student_candidates": [
+          49
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Hanak",
+    "name": "Sadiye ve Abdullah Tan Ortaokulu",
+    "evidence": "7 Öğretmen Sayısı 9 Öğrenci Sayısı 49 İletişim Adres: KOYUNPINARI K",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "huseyingedikio",
     "source_url": "https://huseyingedikio.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:23.714649+00:00",
+    "observed_at": "2026-10-01T15:31:49.812348+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 173,
+    "grade": "ilkokul",
     "attempts": [
       {
         "url": "https://huseyingedikio.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "5b0fde482bad36096ea48972ef3457ef7b181dab4d8c11d7013d67e642160241",
-        "student_candidates": []
-      },
-      {
-        "url": "https://huseyingedikio.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "8d9a928422b4d646413acb766421d65f5ba4c306334e13573fff146cdb948ce7",
-        "student_candidates": []
-      },
-      {
-        "url": "https://huseyingedikio.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "22131cb7bd0700277f6d97c48c42f518aea996ae56f51f0cc9cdf11bcb34507a",
-        "student_candidates": []
+        "student_candidates": [
+          173
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Hüseyin Gedik İlkokulu",
+    "evidence": " Öğretmen Sayısı 17 Öğrenci Sayısı 173 İletişim Adres: Kazım Karabek",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "ibrahimozturkortaokulu",
     "source_url": "https://ibrahimozturkortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:23.836125+00:00",
+    "observed_at": "2026-10-01T15:31:49.851960+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 51,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://ibrahimozturkortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "d271086f749db9017a57dc33ecfe40a75a4ec9c79aba6fe3098d1b2ddf577dba",
-        "student_candidates": []
-      },
-      {
-        "url": "https://ibrahimozturkortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "5bc01f5ee012288407111bde3caa121ff95819f16c10bd8eca22e9fbb5f353a1",
-        "student_candidates": []
-      },
-      {
-        "url": "https://ibrahimozturkortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "3db1131da6f12d54f06626b7fe90a685c6759b17c61df580ca0008d90d92eee1",
-        "student_candidates": []
+        "student_candidates": [
+          51
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Şehit Er İbrahim Öztürk Ortaokulu",
+    "evidence": "Öğretmen Sayısı : 8 Öğrenci Sayısı : 51 Devamı İletişim Telefon : 047",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "karliyaziilkokulu",
     "source_url": "https://karliyaziilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:24.051239+00:00",
+    "observed_at": "2026-10-01T15:31:50.090298+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 11,
+    "grade": "ilkokul",
     "attempts": [
       {
         "url": "https://karliyaziilkokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "ad512e050055bd816b7ceaffcacf1718e44e3dfeeffc49f927894bdd179438ae",
-        "student_candidates": []
-      },
-      {
-        "url": "https://karliyaziilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "1d8af9e8eb40ef111b0d7d5c88181ab6dc1d9435bc525fe96e21e2d822ff509a",
-        "student_candidates": []
-      },
-      {
-        "url": "https://karliyaziilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "0450aa0dcffc5dabd9ba4dd1eceb8026ec8c8c249940caa8d3fda4cd811ebc2c",
-        "student_candidates": []
+        "student_candidates": [
+          11
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Karlıyazı İlkokulu",
+    "evidence": "3 Öğretmen Sayısı 1 Öğrenci Sayısı 11 İLETİŞİM Adres: KARLIYAZI KÖY",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "kayaaltiortaokulu",
     "source_url": "https://kayaaltiortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:24.770086+00:00",
+    "observed_at": "2026-10-01T15:31:50.130890+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 46,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://kayaaltiortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "f7258d5193aede37a78da1adb1d72fd988e1c2ecf306d8b9c8c917c6ba25e91f",
-        "student_candidates": []
-      },
-      {
-        "url": "https://kayaaltiortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "7804f17bbb9a80d8ca168b1f757d705560c2154302d3a8e7cb438d42156b05f3",
-        "student_candidates": []
-      },
-      {
-        "url": "https://kayaaltiortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "0b39b7f8d9acfc9f15e3a15c83f135703e00751623c44dbf8ecb5758a4a33763",
-        "student_candidates": []
+        "student_candidates": [
+          46
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Kayaaltı Ortaokulu",
+    "evidence": "Öğretmen Sayısı : 8 Öğrenci Sayısı : 46 Devamı İletişim Telefon : 047",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "koyunluortaokulu",
     "source_url": "https://koyunluortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:25.839939+00:00",
+    "observed_at": "2026-10-01T15:31:50.211014+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 31,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://koyunluortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "4a2e6f14f23be6a099a5e89a1704f2f33034bbde5b5044c9c3ad7aa5fa650fd3",
-        "student_candidates": []
-      },
-      {
-        "url": "https://koyunluortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "7e8454887adbd1e593de13331050b9b47abd86dc4e3066c707f13839ebe494f8",
-        "student_candidates": []
-      },
-      {
-        "url": "https://koyunluortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "cae255b64eba6a27facefdaacd2f811f202f8b2f082e1f78635af3af6e18e4b4",
-        "student_candidates": []
+        "student_candidates": [
+          31
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Koyunlu Ortaokulu",
+    "evidence": "Öğretmen Sayısı : 3 Öğrenci Sayısı : 31 Devamı İletişim Telefon : - E",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "merkezataturkortaokulu",
     "source_url": "https://merkezataturkortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:25.923903+00:00",
+    "observed_at": "2026-10-01T15:31:50.651120+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 27,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://merkezataturkortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "b2c4b452e5265427232c8b603b0bad330ec541bab1218c5067ce3b261bee2bd7",
-        "student_candidates": []
-      },
-      {
-        "url": "https://merkezataturkortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "f0f806658007e5e7d2e4f30853b33d16e2376fcc49e3a34a8b1ae8e54a143942",
-        "student_candidates": []
-      },
-      {
-        "url": "https://merkezataturkortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "343b00322d6b04cf5ee51fe78e6bdd396f5b5608f773a8c96f23c2e1e3179fe3",
-        "student_candidates": []
+        "student_candidates": [
+          27
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Atatürk Ortaokulu",
+    "evidence": "Öğretmen Sayısı : 7 Öğrenci Sayısı : 27 Devamı İletişim Telefon : 047",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "mesedibiortaokulu",
     "source_url": "https://mesedibiortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:25.992726+00:00",
+    "observed_at": "2026-10-01T15:31:50.696627+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 31,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://mesedibiortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "c356c505bed24ab4efdeedd8274e8b345c5a5e81b694bb01535e07bae1ffb2b2",
-        "student_candidates": []
-      },
-      {
-        "url": "https://mesedibiortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "57c38662e7e3aef327dc508b7594831978161912771dccd7141be76b60d42f49",
-        "student_candidates": []
-      },
-      {
-        "url": "https://mesedibiortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "4150f9d62e69749537ea7a9692a0f7103b06a8908fde1a12c558db8eed410125",
-        "student_candidates": []
+        "student_candidates": [
+          31
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Meşedibi Ortaokulu",
+    "evidence": "Öğretmen Sayısı : 9 Öğrenci Sayısı : 31 Devamı İletişim Telefon : 047",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "nilufergolesosyalbilimlerlisesi",
     "source_url": "https://nilufergolesosyalbilimlerlisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:26.099118+00:00",
+    "observed_at": "2026-10-01T15:31:50.734403+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 271,
+    "grade": "lise",
     "attempts": [
       {
         "url": "https://nilufergolesosyalbilimlerlisesi.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "c0966bf2b0b951e7f3bfd160d98482d568ba721bf562790545ede03a670e50d3",
-        "student_candidates": []
-      },
-      {
-        "url": "https://nilufergolesosyalbilimlerlisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "822b781e9a20c13a18d8b3da74260b9f6d3cd940b5a58eadc9119c5a2d142de9",
-        "student_candidates": []
-      },
-      {
-        "url": "https://nilufergolesosyalbilimlerlisesi.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "69bdd861283db6774114806b0abc487eb570286d2f1413dda625f074fbb20f81",
-        "student_candidates": []
+        "student_candidates": [
+          271
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Nilüfer Göle Sosyal Bilimler Lisesi",
+    "evidence": " Öğretmen Sayısı 24 Öğrenci Sayısı 271 İLETİŞİM Adres: Fevzi Çakmak ",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "olcekortaokulu",
     "source_url": "https://olcekortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:26.141053+00:00",
+    "observed_at": "2026-10-01T15:31:50.819112+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 35,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://olcekortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "04a994a08b0f77b44bdf210324673789c2946f1ce45431cae06a70946cd5f282",
-        "student_candidates": []
-      },
-      {
-        "url": "https://olcekortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "36fbb07cb45b6826016af406eceffd793a8636f61e1c24b08c779cc911e76373",
-        "student_candidates": []
-      },
-      {
-        "url": "https://olcekortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "92faa5c364364adeb0c012e9a8a9e57569f815e2ec59367685368cf58fc81e8f",
-        "student_candidates": []
+        "student_candidates": [
+          35
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Ölçek Ortaokulu",
+    "evidence": "3 Öğretmen Sayısı 6 Öğrenci Sayısı 35 İLETİŞİM Adres: ÖLÇEK KÖYÜ DE",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "ozelegitimuygulama2kademe",
     "source_url": "https://ozelegitimuygulama2kademe.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:26.338389+00:00",
+    "observed_at": "2026-10-01T15:31:50.898796+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 9,
+    "grade": "ozel_egitim",
     "attempts": [
       {
         "url": "https://ozelegitimuygulama2kademe.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "9bf81dbf46fc92c87fca1032d65b2adea9213ee514d47a6e7c41f0a436b359c0",
-        "student_candidates": []
-      },
-      {
-        "url": "https://ozelegitimuygulama2kademe.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "7ce2b7a9738862c990ea8e96c154457df09de31345af9ead1d7b34cfdc6c9948",
-        "student_candidates": []
-      },
-      {
-        "url": "https://ozelegitimuygulama2kademe.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "411cbeff9580d4eadf4b36f08604bac1277846dcb01d64353eaec93035401e3c",
-        "student_candidates": []
+        "student_candidates": [
+          9
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "ARDAHAN ÖZEL EĞİTİM UYGULAMA MERKEZİ II. KADEME",
+    "evidence": " Öğretmen Sayısı 10 Öğrenci Sayısı 9 İletişim Adres: ATATÜRK MAH. ",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "posofhem",
     "source_url": "https://posofhem.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:26.415582+00:00",
+    "observed_at": "2026-10-01T15:31:51.007102+00:00",
     "year": null,
     "source_date": null,
     "students": null,
-    "grade": null,
+    "grade": "diger_kurum",
     "attempts": [
       {
         "url": "https://posofhem.meb.k12.tr/",
@@ -1273,126 +999,105 @@
         "url": "https://posofhem.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "18f6d1eca7c03faf389abc1be908fd03861a59ddbdd17141cf2460b0fd21c0b3",
+        "sha256": "14a573dde5d3533766e17715d43d8134728719fe8003e2811c6e5d603ef00c67",
         "student_candidates": []
       },
       {
         "url": "https://posofhem.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "8d4b0b317a9024bb529f2efbe9db50e0fd41e1b797a98ed9fe2c3f7ad707e67c",
+        "sha256": "001308a8682f11d66a414a4cfa2a3d6b6a2ef95df75886cb5f5d4168c0cf4456",
         "student_candidates": []
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Posof",
+    "name": "Posof Halk Eğitimi Merkezi Posof Halk Eğitimi Merkezi Telefon 0478 511 20 35 Belgegeçer 04785112653 Eposta Göndermek için tıklayınız WEB https://posofhem.meb.k12.tr Adres Merkez Ma",
+    "status": "students_not_found"
   },
   {
     "id": "posofilkokulu",
     "source_url": "https://posofilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:27.195646+00:00",
+    "observed_at": "2026-10-01T15:31:51.087788+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 175,
+    "grade": "ilkokul",
     "attempts": [
       {
         "url": "https://posofilkokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "ea963e7d2131490267283f9b08a45659c5bdb09e75cb4fcc1534ee2079b56f49",
-        "student_candidates": []
-      },
-      {
-        "url": "https://posofilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "331548ea21d05c7c9195b87d32c50f406af16526b1c728228d834ac97936ca74",
-        "student_candidates": []
-      },
-      {
-        "url": "https://posofilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "a31cb3bda5ee5c0ebacb35e09964a81c5a7bd3b81209b6e06ec708b35bc6f415",
-        "student_candidates": []
+        "student_candidates": [
+          175
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Posof",
+    "name": "POSOF İLKOKULU",
+    "evidence": " Öğretmen Sayısı 13 Öğrenci Sayısı 175 İLETİŞİM Adres: MERKEZ MAH. A",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "posofimamhatiplisesi",
     "source_url": "https://posofimamhatiplisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:28.221456+00:00",
+    "observed_at": "2026-10-01T15:31:51.542885+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 77,
+    "grade": "lise",
     "attempts": [
       {
         "url": "https://posofimamhatiplisesi.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "ff4b1ea72548781c37f94be4d140ab03d6d3fa754c4398811b2225a2eaf3ce4a",
-        "student_candidates": []
-      },
-      {
-        "url": "https://posofimamhatiplisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "b69c4f7cff43718b6254b385da491d55980191d7d82165120342a34809bb5a21",
-        "student_candidates": []
-      },
-      {
-        "url": "https://posofimamhatiplisesi.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "43285fdcd0fdca50b2ea814ade65106ea31d1054a7c9a5d441ddf475987a0d08",
-        "student_candidates": []
+        "student_candidates": [
+          77
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Posof",
+    "name": "Posof Aşık Sabit Müdami Anadolu İmam Hatip Lisesi",
+    "evidence": "ğretmen Sayısı : 12 Öğrenci Sayısı : 77 Devamı İletişim Telefon : 047",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "posoflisesi",
     "source_url": "https://posoflisesi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:28.359246+00:00",
+    "observed_at": "2026-10-01T15:31:51.568637+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 71,
+    "grade": "lise",
     "attempts": [
       {
         "url": "https://posoflisesi.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "9a99cff4c9299744b455cddc05d80d1aa2d169c193a0774c6ae5bfed450b76e1",
-        "student_candidates": []
-      },
-      {
-        "url": "https://posoflisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "b5ca3e7eddc2be7d332db5590dbbb92c7c48d9938af7c8dd062c28d0228a24ca",
-        "student_candidates": []
-      },
-      {
-        "url": "https://posoflisesi.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "6a54b65424597c9714a29cc1b4be0445f5a8b041bbc0766e364238b77f55d996",
-        "student_candidates": []
+        "student_candidates": [
+          71
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Posof",
+    "name": "Posof Çok Programlı Anadolu Lisesi",
+    "evidence": "ğretmen Sayısı : 10 Öğrenci Sayısı : 71 Devamı İletişim Telefon : (47",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "posofogretmenevi",
     "source_url": "https://posofogretmenevi.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:28.373210+00:00",
+    "observed_at": "2026-10-01T15:31:51.640512+00:00",
     "year": null,
     "source_date": null,
     "students": null,
-    "grade": null,
+    "grade": "diger_kurum",
     "attempts": [
       {
         "url": "https://posofogretmenevi.meb.k12.tr/",
@@ -1405,248 +1110,195 @@
         "url": "https://posofogretmenevi.meb.k12.tr/tema/okulumuz_hakkinda.php",
         "page": "tema/okulumuz_hakkinda.php",
         "status": "fetched",
-        "sha256": "d173375894af3bbaf9d733658691b8ef6920d16112733152871be709d81288c4",
+        "sha256": "1192c3dcd43fb7470befa66af5981a2050a8c4fd8984641974fd6098621a44de",
         "student_candidates": []
       },
       {
         "url": "https://posofogretmenevi.meb.k12.tr/okulumuz_hakkinda.html",
         "page": "okulumuz_hakkinda.html",
         "status": "fetched",
-        "sha256": "d4eec524cae659fa605664a0486ad806986262e3e9db379fd22068cf133e105f",
+        "sha256": "fc3c6cd9ad2a262e07f78cbdc96f546607e47daead627a62573eb5c2547cd11e",
         "student_candidates": []
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Posof",
+    "name": "Posof Öğretmenevi ve Akşam Sanat Okulu Posof Öğretmenevi ve Akşam Sanat Okulu Telefon 0478 5112269 Belgegeçer 04785112269 Eposta Göndermek için tıklayınız WEB https://posofogretmen",
+    "status": "students_not_found"
   },
   {
     "id": "sehitburhankilicortaokulu",
     "source_url": "https://sehitburhankilicortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:28.509033+00:00",
+    "observed_at": "2026-10-01T15:31:51.683755+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 50,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://sehitburhankilicortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "31e64193db5da6b573ba6c5cebd515944c72c43be5a5394b81ef694a14629fd7",
-        "student_candidates": []
-      },
-      {
-        "url": "https://sehitburhankilicortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "2e95018992777cf47985dd4d5fe5ac74c346fc8b7952122603926bf9339ef962",
-        "student_candidates": []
-      },
-      {
-        "url": "https://sehitburhankilicortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "82e55f249954a3f802ec941c30986b509146dbd3cc90ef2e115df2b293626434",
-        "student_candidates": []
+        "student_candidates": [
+          50
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Merkez",
+    "name": "Şehit Burhan Kılıç Ortaokulu",
+    "evidence": "9 Öğretmen Sayısı 7 Öğrenci Sayısı 50 İLETİŞİM Adres: Nebioğlu Köyü",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "sehitercevdetcelenkortaokulu",
     "source_url": "https://sehitercevdetcelenkortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:28.546637+00:00",
+    "observed_at": "2026-10-01T15:31:51.780176+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 48,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://sehitercevdetcelenkortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "06bfc69ed1619175c21536e0d9652e85786d2ad82112326ab18007216b457cdf",
-        "student_candidates": []
-      },
-      {
-        "url": "https://sehitercevdetcelenkortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "a4c0d67b5d4108c9cbb629bbe6d6d6e9e70677c2b9e0a1c23faba7f31c44847b",
-        "student_candidates": []
-      },
-      {
-        "url": "https://sehitercevdetcelenkortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "415fb3b6cc393b41b0f162a5752eb1a78cfe3f2abb8a23916bb3b59dfc66ed57",
-        "student_candidates": []
+        "student_candidates": [
+          48
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Şehit Er Cevdet Çelenk Ortaokulu",
+    "evidence": "4 Öğretmen Sayısı 5 Öğrenci Sayısı 48 İLETİŞİM Adres: BALÇEŞME KÖYÜ",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "sehiterkemalizciortaokulu",
     "source_url": "https://sehiterkemalizciortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:28.702710+00:00",
+    "observed_at": "2026-10-01T15:31:51.926892+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 86,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://sehiterkemalizciortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "51670549ae1ebbb1dd1572aa5f4b8b8d387dea12334af6d1b91c3d11b0a501bf",
-        "student_candidates": []
-      },
-      {
-        "url": "https://sehiterkemalizciortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "a6ce40161badf40abc7483778c9393af85376342772ccce37029cd39ebe6c83c",
-        "student_candidates": []
-      },
-      {
-        "url": "https://sehiterkemalizciortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "26bd54925d1e7688c6d6c9d983ec606abda996828cffa763280d18012795a4dd",
-        "student_candidates": []
+        "student_candidates": [
+          86
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Şehit Er Kemal İzci Ortaokulu",
+    "evidence": "ğretmen Sayısı : 11 Öğrenci Sayısı : 86 Devamı İletişim Telefon : 047",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "sehitrecepkilicortaokulu",
     "source_url": "https://sehitrecepkilicortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:28.767540+00:00",
+    "observed_at": "2026-10-01T15:31:51.993956+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 79,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://sehitrecepkilicortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "86015a45d78a5939db4366d9342bae985b626fc7e11ec7a5e531dced2d9bd1cd",
-        "student_candidates": []
-      },
-      {
-        "url": "https://sehitrecepkilicortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "060c6c4c42031715306e19b80ea5f9c8263b997edd0c670fc62e28801ca5293d",
-        "student_candidates": []
-      },
-      {
-        "url": "https://sehitrecepkilicortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "824240573741fdc8f331c41d6eae3e4e8f1d099fc0f63a4e0227a20a1f39a8e3",
-        "student_candidates": []
+        "student_candidates": [
+          79
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Şehit Recep Kılıç Ortaokulu",
+    "evidence": "8 Öğretmen Sayısı 9 Öğrenci Sayısı 79 İLETİŞİM Adres: KUBİLAY BEY M",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "sehittayfurhancerilkokulu",
     "source_url": "https://sehittayfurhancerilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:29.493282+00:00",
+    "observed_at": "2026-10-01T15:31:52.457810+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 167,
+    "grade": "ilkokul",
     "attempts": [
       {
         "url": "https://sehittayfurhancerilkokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "7be0b6ee1b5e5d0746dba7cb806d97fd1b41e4279776c6851a06ea14fa43f667",
-        "student_candidates": []
-      },
-      {
-        "url": "https://sehittayfurhancerilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "56aa6daa3793e85cd15ded42b94ec40d49cac63b632d2df5a07adf9085fff6ed",
-        "student_candidates": []
-      },
-      {
-        "url": "https://sehittayfurhancerilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "765eb62a0ec3a487bfc2c1e92d8908be66ca821fbc8c651037537e4f37d89340",
-        "student_candidates": []
+        "student_candidates": [
+          167
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Göle Şehit Tayfur Hançer İlkokulu",
+    "evidence": "Öğretmen Sayısı: 11 Öğrenci Sayısı: 167 Menü  Ana Sayfa Menü Level 1",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "sunguluortaokulu",
     "source_url": "https://sunguluortaokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:30.507105+00:00",
+    "observed_at": "2026-10-01T15:31:52.504993+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 42,
+    "grade": "ortaokul",
     "attempts": [
       {
         "url": "https://sunguluortaokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "8adaf2508027146f3ed41594ea280a5db23780465460b12d5c6c7adf3f655989",
-        "student_candidates": []
-      },
-      {
-        "url": "https://sunguluortaokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "0659465f9b030eeaaf94a1679164d9755b19e7086542483ec2be8f9cad84da57",
-        "student_candidates": []
-      },
-      {
-        "url": "https://sunguluortaokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "946c29c0b4f407f3007c5d2f2e4db8ced4024ae2da05f944b870e034fb6ebe9e",
-        "student_candidates": []
+        "student_candidates": [
+          42
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Posof",
+    "name": "Süngülü Ortaokulu",
+    "evidence": "4 Öğretmen Sayısı 7 Öğrenci Sayısı 42 İLETİŞİM Adres: Süngülü Köyü ",
+    "status": "source_snapshot_homepage"
   },
   {
     "id": "tahtakiranilkokulu",
     "source_url": "https://tahtakiranilkokulu.meb.k12.tr/",
-    "observed_at": "2026-10-01T15:31:30.537149+00:00",
+    "observed_at": "2026-10-01T15:31:52.554043+00:00",
     "year": null,
     "source_date": null,
-    "students": null,
-    "grade": null,
+    "students": 12,
+    "grade": "ilkokul",
     "attempts": [
       {
         "url": "https://tahtakiranilkokulu.meb.k12.tr/",
         "page": "homepage",
         "status": "fetched",
         "sha256": "660b76237514b676a04eb2e7b35d69502e4b3267e0eb1024c7ad039776a4ceda",
-        "student_candidates": []
-      },
-      {
-        "url": "https://tahtakiranilkokulu.meb.k12.tr/tema/okulumuz_hakkinda.php",
-        "page": "tema/okulumuz_hakkinda.php",
-        "status": "fetched",
-        "sha256": "262a74022e03839c468e2b50a0cfc326abedbc88de5e9d1b796788d47839b311",
-        "student_candidates": []
-      },
-      {
-        "url": "https://tahtakiranilkokulu.meb.k12.tr/okulumuz_hakkinda.html",
-        "page": "okulumuz_hakkinda.html",
-        "status": "fetched",
-        "sha256": "ddacae2de7b9a206e3bc0c364fa969c27ab1d3db8982f8d051050466b62f9a07",
-        "student_candidates": []
+        "student_candidates": [
+          12
+        ]
       }
     ],
-    "status": "identity_unverified"
+    "province": "Ardahan",
+    "district": "Göle",
+    "name": "Tahtakıran İlkokulu",
+    "evidence": "2 Öğretmen Sayısı 2 Öğrenci Sayısı 12 İletişim Adres: Tahtakıran Kö",
+    "status": "source_snapshot_homepage"
   }
 ]
