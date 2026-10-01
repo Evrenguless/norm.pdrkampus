@@ -1,0 +1,9 @@
+{
+  "province": "İL_ADI",
+  "districts": [
+    "Merkez"
+  ],
+  "seeds": "seeds.json",
+  "output": ".",
+  "max_workers": 8
+}
