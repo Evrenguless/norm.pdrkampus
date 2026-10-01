@@ -39,7 +39,7 @@ def collect(url):
    hits=list(re.finditer(r'Öğrenci\s*(?:Sayısı)?\s*[:|]?\s*([0-9]+(?:[.,][0-9]{3})*)(?![0-9])',t,re.I))
    # Only labelled statistics; no news/year inference.
    nums=sorted(set(int(m[1].replace('.','').replace(',','')) for m in hits))
-   out['attempts'].append({'url':actual,'status':'fetched','sha256':digest,'student_candidates':nums})
+   out['attempts'].append({'url':actual,'page':path or 'homepage','status':'fetched','sha256':digest,'student_candidates':nums})
    if len(nums)==1 and out.get('province')=='Bayburt' and out.get('name'):
     out.update(students=nums[0],source_url=actual,evidence=t[max(0,hits[0].start()-20):hits[0].end()+30],status='source_snapshot');break
    if len(nums)>1:out['status']='conflicting_counts'
