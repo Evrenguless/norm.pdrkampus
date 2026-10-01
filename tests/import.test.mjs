@@ -1,0 +1,9 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {parseCSV,validateRows,csv,FIELDS,safeUrl} from '../dist/import.js';
+const row={id:'a',name:'Örnek, okul',province:'Bayburt',district:'Merkez',grade:'ilkokul',ownership:'public',students:300,year:'2025-2026',source_url:'https://example.org',boarding:false,district_fallback:null};
+test('CSV Türkçe virgül ve tırnak turu',()=>{const r=validateRows(parseCSV(csv([row])))[0];assert.equal(r.name,row.name);assert.equal(r.students,300);assert.equal(r.boarding,false);assert.equal(r.district_fallback,null);});
+test('boş sayı sıfır olmaz',()=>{const r=validateRows([{...row,pdr:'',students:''}])[0];assert.equal(r.students,null);assert.equal(r.pdr,null);});
+test('geçersiz ve yinelenen kayıt reddi',()=>{assert.throws(()=>validateRows([row,row]));for(const patch of [{students:'abc'},{students:true},{boarding:'0'},{year:'2025-2027'},{source_date:'2026-02-30'},{grade:'__proto__'}])assert.throws(()=>validateRows([{...row,...patch}]));});
+test('URL ve CSV formül güvenliği',()=>{assert.equal(safeUrl('javascript:alert(1)'),'');assert.throws(()=>validateRows([{...row,source_url:'javascript:alert(1)'}]));assert.ok(csv([{name:'=1+1'}],['name']).includes("'=1+1"));});
+test('CSV biçim hatası reddi ve noktalı virgül desteği',()=>{assert.throws(()=>parseCSV('id,id\na,b'));assert.throws(()=>parseCSV('id,name\na'));assert.throws(()=>parseCSV('id,name\na,"b'));assert.equal(parseCSV('id;name\na;b')[0].name,'b');});
+test('şablon sahte okul içermez',()=>{assert.deepEqual(parseCSV(csv([],FIELDS)),[]);});
+test('kurum kodu çift sayımını ve eksik özel eğitim grubunu reddeder',()=>{assert.throws(()=>validateRows([{...row,code:'123'},{...row,id:'b',code:'123'}]));assert.throws(()=>validateRows([{...row,grade:'ozel_egitim',students:25,group_id:'g',group_students:100,group_complete:true,group_recipient:true}]));});

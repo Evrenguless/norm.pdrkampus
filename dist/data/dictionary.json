@@ -1,0 +1,30 @@
+{
+  "version": "0.1",
+  "unknown_value": null,
+  "fields": {
+    "id": "Kalıcı iç kimlik; resmî kurum kodu bilinmiyorsa slug olabilir.",
+    "code": "Doğrulanmış MEB kurum kodu; bilinmiyorsa null.",
+    "name": "Resmî okul adı.",
+    "province": "İl.",
+    "district": "İlçe; ilçe merkezi istisnası anlamına gelmez.",
+    "grade": "anaokulu, ilkokul, ortaokul, imam_hatip_ortaokulu, lise, mesem, ozel_egitim, ram.",
+    "ownership": "public veya private. Model public için çalışır.",
+    "students": "Negatif olmayan tam sayı veya null.",
+    "year": "Öğrenci verisinin eğitim yılı YYYY-YYYY; bilinmiyorsa null.",
+    "source_url": "Öğrenci verisini destekleyen http/https kaynak bağlantısı.",
+    "source_date": "Kaynak güncelleme/yayın tarihi YYYY-MM-DD veya null.",
+    "observed_at": "Kaynağın okunduğu tarih; eğitim yılı yerine geçmez.",
+    "boarding": "true/false/null; yatılı/pansiyonlu durum.",
+    "district_fallback": "Madde21/2-d doğrulanmış uygunluk true/false/null; tüm ilgili okul listesine dayanmalı.",
+    "pdr": "Mevcut Rehberlik/PDR alanındaki öğretmen sayısı; toplam öğretmen değildir.",
+    "pdr_year": "PDR sayısının eğitim yılı; açık için year ile aynı olmalı.",
+    "pdr_source_url": "PDR personel sayısının ayrı kaynak bağlantısı.",
+    "apprentices": "MESEM çırak/kursiyer sayısı; genel öğrenciden türetilmez.",
+    "group_id": "Özel eğitim ortak bina/bahçe grup kimliği.",
+    "group_students": "Grubun doğrulanmış toplam öğrenci sayısı.",
+    "group_complete": "Bütün grup verisi doğrulanmışsa true, değilse null.",
+    "group_recipient": "Normun verileceği en yüksek öğrencili kurum doğrulanmışsa true; grubun diğer üyelerinde false.",
+    "population": "RAM görev bölgesi nüfusu.",
+    "notes": "Veri kalitesi ve kaynak açıklaması."
+  }
+}
